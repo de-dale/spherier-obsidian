@@ -8,7 +8,7 @@
 _Chaque fois que vous lancez les dés, vous cherchez à obtenir assez de succès pour égaler ou surpasser un seuil, qui est le nombre de succès dont vous avez besoin pour faire ce que vous essayez de faire._
 
 Pour effectuer un **[[Test de compétence]]**, on constitue la **Réserve de Dés**, c'est à dire, le nombre de dés à lancer.
-Ce nombre est égal au **[[degré de maîtrise]]**, de la [[compétence]] utilisée, ajusté par les différents modificateurs, bonus et malus.
+Ce nombre est égal au **[[degré de maîtrise]]**, de la [[Compétence]] utilisée, ajusté par les différents modificateurs, bonus et malus.
 
 > **RD** = <Compétence> + Bonus - Malus
 

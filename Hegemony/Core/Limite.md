@@ -1,5 +1,4 @@
-
-La Limite sur un [[Test de compétence]] correspond au plafond du résultat
+La Limite de [[Compétence]] sur un [[Test de compétence]] correspond au plafond du résultat
 qu'il est possible d'obtenir sur ce test.
 
 Chaque **[[Compétence]]** possède sa propre **[[Limite]]**.

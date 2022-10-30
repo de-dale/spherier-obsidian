@@ -5,4 +5,4 @@ Une **Carte** est un élément de jeu, qui présente les éléments nécessaires
 
 Physiquement, elle se matérialise par une carte à jouer. 
 
-Afin de favoriser la concision, les cartes utiliseront au maximum, des **[[Mot-clé]]** et des **[Symboles](https://trello.com/c/R9XMDT9T)**.
+Afin de favoriser la concision, les cartes utiliseront au maximum, des **[[Mot-clé]]** et des **[[Symboles]]**.

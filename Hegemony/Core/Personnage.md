@@ -1,6 +1,6 @@
 Un Personnage est l'avatar d'un joueur dans le jeu. 
 
-Les [[Caractéristiques d'un personnage]], sont définies par la résolution de son **[Sphérier](https://trello.com/c/bNZnhEeY)**. C'est-à-dire que l'ensemble des **[[Capacités]]** et des **[[Compétences]]** d'un **Personnage** se retrouvent dans son **[[Sphérier de personnage]]**.
+Les [[Caractéristiques d'un personnage]], sont définies par la résolution de son **[Sphérier](https://trello.com/c/bNZnhEeY)**. C'est-à-dire que l'ensemble des **[[Capacité]]** et des **[[Compétences]]** d'un **Personnage** se retrouvent dans son **[[Sphérier de personnage]]**.
 
 Au fur et à mesure de son aventure, un personnage gagne du **[[Karma]](https://trello.com/c/Fv26adNT)**. Celui-ci lui permet de faire évoluer son **[Sphérier](https://trello.com/c/bNZnhEeY)** en achetant des **Facettes**, lesquelles débloqueront de nouvelles **[Capacités](https://trello.com/c/EUJsvYrZ)**. 
 

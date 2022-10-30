@@ -13,5 +13,5 @@ Une **Sphère** possède :
 ## Revente d'une Sphère
 
 Un personnage peut se débarrasser d'une **Sphère** et de toutes les **Facettes** associées. 
-Il perd alors toutes les **Capacités**, et récupére tous les points de **Karma** qui y ont été investis.
+Il perd alors toutes les **[[Capacité]]**, et récupère tous les points de **[[Karma]]** qui y ont été investis.
 > **Attention :** Une fois une **Sphère** revendue, il n'est plus possible de la racheter par la suite.

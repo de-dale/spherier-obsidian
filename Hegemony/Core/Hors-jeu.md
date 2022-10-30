@@ -1,0 +1,1 @@
+Le hors jeu, ou HRP, est tout ce qui sort les joueurs de l'immersion de la session de jeu. Il s'agit de toute les discussion de la vie réelle, qui concernent ou non le jeu

@@ -1,0 +1,1 @@
+Equivalent au [[Saignement]], mais pour les dégâts [[Dégats Étourdissants]].

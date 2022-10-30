@@ -4,7 +4,7 @@
 [[Personnage]] Projection d'un joueur dans le jeu.
 
 # [Sphérier](https://trello.com/c/bNZnhEeY) 
-[[Sphérier de personnage]] : Arbre de [[compétence]] d'un [[Personnage]]. 
+[[Sphérier de personnage]] : Arbre de [[Compétence]] d'un [[Personnage]]. 
 
 # [Sphère](https://trello.com/c/ZJVIytbL) 
 Sous-arbre de compétence d'un personnage. 

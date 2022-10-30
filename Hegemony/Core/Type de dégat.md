@@ -1,0 +1,3 @@
+[[Dégats Physiques]]
+
+[[Dégats Étourdissants]]
