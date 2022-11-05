@@ -1,4 +1,5 @@
 #Facette/Naturelle 
+
 Une créature animée possède une vitesse lui permettant de se déplacer. Elle lui permet aussi de reagir pour se sortir d'une situation périlleuse.
 
 Elle possède les capacités suivantes :

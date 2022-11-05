@@ -1,3 +1,5 @@
+voir aussi la Facette : [[Réagir (Facette)]] #redondant 
+
 > **Coût:** cf. [[Capacité]]
 > **Déclencheur:** [[Événement]] propice (cf. Capacité) et décision du joueur
 > **Effet:** cf. [[Capacité]]

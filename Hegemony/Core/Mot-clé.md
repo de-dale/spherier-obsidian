@@ -7,6 +7,6 @@ La carte en question devrait être au plus proche de celui qui l'utilise : elle 
 Lorsqu'un terme utilisé dans un point de règle n'est pas clair, il faut l'expliquer et le définir comme un mot-clé, sur une carte dédiée.
 
 **Glossaire**
-Les mots-clés sont référencés dans le [Glossaire](https://trello.com/c/2sDoyFea) 
+Les mots-clés sont référencés dans le [[Glossaire]]
 
 [[Symbole]].

@@ -1,22 +1,19 @@
 > **Paradigme :**
-Les **[[Capacité]]** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.
+> Les **[[Capacité]]** déterminent les **[[Compétence|Compétences]]** qu'un personnage possède, et non l'inverse.
 > **Corollaire :**
-Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au moins une **Capacité** qu'il possède. 
-
-> TODO:
-> 
-Reword de Compétence :
-**Compétences = Savoir + [[Limite]] + ∆Capacités**
-**Compétences = Maîtrise + Expertise + ∆Capacités**
+> Si un **[[Personnage]]** possède une **[[Compétence]]**, il peut l'exploiter dans au moins une **[[Capacité]]** qu'il possède. 
 
 Les **Compétences** permettent au **[[Personnage]]**, d'utiliser efficacement ses **[[Capacité]]**.
+> **Compétences = [[Maîtrise]] + [[Limite]] + ∆Capacités**
 
 Une Compétence est notée ainsi :
 > **Nom<Maîtrise, Limite>**
-- **Nom:** le nom de la **Compétence**
-- **Maîtrise**, ou **_Degré de Maîtrise_** : la valeur numérique que l'on utilise pour un **[Test de Compétence](https://trello.com/c/fyO14sIR)**
-    > voir aussi : **_[Maîtriser(Compétence)](https://trello.com/c/vvsCl8rH)_**
-- une **Limite** : la valeur numérique que l'on utilise pour plafonner un **[Test de Compétence](https://trello.com/c/fyO14sIR)**
-    > voir aussi **_[Expertise(Grade, Compétence)](https://trello.com/c/0EKOzT2h)_**
 
-**Exemple :** Bluff<+10, 6>
+**Exemple :** 
+> Bluff<+10, 6>
+ 
+- **Nom:** le nom de la **Compétence**
+- **[[Maîtrise]]**, ou **_[[Maîtrise|Degré de Maîtrise]]_** : la valeur numérique que l'on utilise pour un **[[Test de Compétence]]**
+- **[[Limite]]** : la valeur numérique que l'on utilise pour plafonner un **[[Test de Compétence]]**
+	- Les Limites peuvent avoir un [[Limite#Grade|Grade]]
+

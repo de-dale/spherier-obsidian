@@ -1,3 +1,5 @@
+#PhaseDeJeu/Combat
+
 > La violence est le dernier recours de l'incompétence. 
 
 > Ça y'est!  Vous êtes entrés dans une phase de négociation musclée. Il est temps de se mettre sur la figure, : le combat commence. 
@@ -6,13 +8,14 @@ Lorsque les joueurs, ou le maître du jeu,  décident qu'il est temps de réduir
 
 ~~Lors d'une rencontre entre différents `protagonistes`, c'est à dire des personnages joueurs comme non joueurs, lorsque l'un d'eux montre une velléité de porter atteinte à l'intégrité, physique, ou mentale de l'autre partie, alors on initie une phase de combat.~~
 
-**Protagoniste:** dans un combat, on appelle `protagoniste`, tout personnage, joueur ou non-joueur, prenant part au combat.
 
-**Mise en place :**
+## Mise en place
+
+**Protagoniste:** dans un combat, on appelle [[protagoniste]], toute créature ou personnage, joueur ou non-joueur, prenant part au combat.
 
 On détermine qui peut agir, on rassemble leurs ressources (cartes [[Action]] et [[Réaction]]) et on se tient prêt pour la première passe d'initiative.
 
-Le combat est découpé en tours, pour simplifier la gestion de la temporalité. 
+Le combat est découpé en [[Combat#Tours de combat|tours de combat]], pour simplifier la gestion de la temporalité. 
 
 ## Tours de combat
 
@@ -27,7 +30,7 @@ Un tour de combat commence avec la **préparation**:
  - on mélange le deck d'initiative
  - on distribue les cartes réactions
 
-Une fois la préparation terminée, le tour **continue**; on entame une passe d'initiative, en révélant une carte.
+Une fois la préparation terminée, le tour **continue** ; on entame une passe d'initiative, en révélant une carte.
 Tant qu'il y a au moins une carte dans le deck d'initiative, le tour **continue** ; on enchaîne les passes d'initiative.
 
 Le tour se **termine** lorsqu'on tente de révéler une carte d'action dans le deck d'initiative, mais que ce dernier est vide. 
@@ -92,7 +95,7 @@ Questions:
     - **Décision:** oui, s'il passe dans une passe d'initiative, un protagoniste peut répondre plus tard dans la même passe. 
 
 ~~
-Récupération de "Agir".
+Récupération de "[[Agir (Facette)]]".
 
 ## Initiative
 ### Lancer de dé
@@ -122,7 +125,7 @@ Si le combat n'est pas terminé, on recommence un tour de combat, avec sa prépa
 
 ## Réagir
 
-La réaction est une interruption du flux normal du combat. Un protagoniste réagit à un **événement** et dépense des **Réaction s** pour intervenir.
+La réaction est une interruption du flux normal du combat. Un protagoniste réagit à un **événement** et dépense des **Réactions** pour intervenir.
 
 Chaque `protagoniste` dispose d'un certain nombre de points de **`Réactions`**,  matérialisés par des cartes nominatives. 
 Au début du combat, tous les `protagonistes` récupèrent devant eux, autant de carte **`Réactions`** que leur maximum leur permet. 
@@ -141,6 +144,6 @@ Au début du combat, tous les `protagonistes` récupèrent devant eux, autant de
 Les ressources utilisables en combat :
 - PV
 - (Lucidité) 
-- Action
-- Réaction
+- [[Action]]
+- [[Réaction]]
 - Réserve de dés

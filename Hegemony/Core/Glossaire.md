@@ -1,26 +1,26 @@
 > À pour vocation de référencer les mots-clés, et de les associer à une courte définition ainsi qu'à un lien vers leur carte. 
 
-# [Personnage](https://trello.com/c/j5txrEnh) 
+# Personnage 
 [[Personnage]] Projection d'un joueur dans le jeu.
 
-# [Sphérier](https://trello.com/c/bNZnhEeY) 
+# Sphérier 
 [[Sphérier de personnage]] : Arbre de [[Compétence]] d'un [[Personnage]]. 
 
-# [Sphère](https://trello.com/c/ZJVIytbL) 
-Sous-arbre de compétence d'un personnage. 
+# Sphère
+[[Sphère]] : Sous-arbre de compétence d'un personnage. 
 
-# [Facette](https://trello.com/c/nNBTIelT)
-Feuille de l'arbre de compétence d'un personnage. 
+# Facette
+[[Facette]] : Feuille de l'arbre de compétence d'un personnage. 
 
-# [Capacités](https://trello.com/c/EUJsvYrZ)
-Permet à un personnage de déclencher un effet. 
+# Capacités
+[[Capacité]] : Permet à un personnage de déclencher un effet. 
 
-# [Compétences](https://trello.com/c/udzuobSo)
-Expression de l'efficacité d'une Capacité.
+# Compétences
+[[Compétence]] ; Expression de l'efficacité d'une [[Capacité]].
 
-# [Karma](https://trello.com/c/Fv26adNT)
-Échelle de progression d'un **Personnage**
+# Karma
+[[Karma]] : Échelle de progression d'un **[[Personnage]]**
 
-# [Action](https://trello.com/c/MPbgE0oE)
+# [[Action]]
 
-# [Réaction](https://trello.com/c/vcCvdkOI)
+# [[Réaction]]
