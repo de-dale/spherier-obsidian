@@ -3,6 +3,6 @@
 Naturellement, on va décrire un personnage sur trois axes:
 - [[Vitalité]]
 - [[Vitesse]]
-- [[Mental]]
+- [[Volonté|Mental]]
 
 Ces trois axes donnent les trois Jets de sauvegarde.
