@@ -1,6 +1,6 @@
-#Capacité/Active
-> Capacité active | Combat |
-> **Coût:** `A°`
+#Facette/Naturelle 
+
+> #PhaseDeJeu/Combat #PhaseDeJeu/Exploration
 
 Une créature animée peut se déplacer.
 Elle utilise sa **[[Vitesse]]** pour déterminer la distance dont elle se déplace en une action (**`1×A°`**), et ce, pour chaque mode de déplacement qu'elle possède. 
@@ -9,24 +9,16 @@ Elle utilise sa **[[Vitesse]]** pour déterminer la distance dont elle se dépla
 
 Un bipède possède un **Déplacement** égal à **`2 × [[Vitesse]]`**.
 
+* **[[Expertise(Grade, Compétence)|Expertise(Majeure, Vitesse)]]**
+    > **`Limite`** de **6** en **[[Vitesse]]**
 
-* **[Expertise(Majeure, Vigueur)](https://trello.com/c/0EKOzT2h)**
-    > **`Limite`** de **6** en **Marche**
-
-## Marcher 
-[[Marcher]]
+### [[Marcher]]
 
 Le mode de déplacement de base pour un bipède. 
 
 Lorsqu'il marche, un personnage peut se déplacer  d'un nombre de cases égal à **`<Déplacement>`**.
 
-### Courir
-Une seule fois par tour de jeu, s'il le décide, un personnage peut adopter ou quitter la `Posture(Course)`.
-Il bénéficie des modificateurs suivants ; 
-
- * Il peut se déplacer de deux fois sa `Vitesse` sur un tour de combat
- * `Posture(Course)` ne se quitte qu'à la fin du combat
- * ~~`Posture(Course)` est cumulable avec les autres `Postures`~~
+### [[Courir]]
 
 ### Déplacements spécifiques
 Quand le personnage tente un déplacement spécifique tel que `Sauter` ou `Grimper`.

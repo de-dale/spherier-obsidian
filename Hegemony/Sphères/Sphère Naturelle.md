@@ -7,7 +7,7 @@ Les [[Facette|Facettes]] d'une Sphère Naturelle sont disponibles/activée/achet
 
 Naturellement, un personnage possède les caractéristiques suivantes :
 
-* **[Vitalité](https://trello.com/c/MA4KblaG)**
+* **[[Vitalité]]
     > `+3 ` en **[Vigueur]**.
     > **PV = `5 x <Vigueur>`**
 * **[Se déplacer](https://trello.com/c/Lde8ahaS)**

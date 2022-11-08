@@ -3,7 +3,7 @@ qu'il est possible d'obtenir sur ce test.
 
 Chaque **[[Compétence]]** possède sa propre **[[Limite]]**.
 
-Voir aussi la [[Capacité]] **_[[Expertise(Grade, Compétence)]](https://trello.com/c/0EKOzT2h)_**
+Voir aussi la [[Capacité]] **_[[Expertise(Grade, Compétence)]]_**
 
 > **NB:**
 > La **Limite** permet de pallier à un manque d'équilibrage dans le jeu, en limitant la puissance des joueurs par des palliers.
