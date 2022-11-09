@@ -17,3 +17,9 @@ Une Compétence est notée ainsi :
 - **[[Limite]]** : la valeur numérique que l'on utilise pour plafonner un **[[Test de Compétence]]**
 	- Les Limites peuvent avoir un [[Limite#Grade|Grade]]
 
+
+## Modèle de capacité
+
+[[Maîtriser(Compétence)]] permet d'augmenter le [[Maîtrise]] d'une Compétence.
+
+[[Expertise(Grade, Compétence)]] permet de définir un [[Limite#Grade|Grade]] pour les [[Limite]] d'une [[Compétence]]

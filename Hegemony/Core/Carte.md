@@ -1,6 +1,4 @@
-# Carte
-
-Tout élément du Sphérier, peut être représenté par une **Carte**.
+Tout élément du Sphérier, peut être représenté par une Carte.
 Une **Carte** est un élément de jeu, qui présente les éléments nécessaires et suffisants, pour expliquer un point de règle.
 
 Physiquement, elle se matérialise par une carte à jouer. 

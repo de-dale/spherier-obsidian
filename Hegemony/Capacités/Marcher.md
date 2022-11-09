@@ -1,4 +1,5 @@
-#Facette/Naturelle 
+#Capacité/Active #PhaseDeJeu/Combat #PhaseDeJeu/Exploration 
+
 > Coût : 1x #A° 
 
 Le mode de déplacement de base pour un bipède. Voir [[Se déplacer]]

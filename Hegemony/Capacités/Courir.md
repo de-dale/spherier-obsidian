@@ -1,4 +1,5 @@
-#Capacité/Active 
+#Capacité/Active #PhaseDeJeu/Combat #PhaseDeJeu/Exploration 
+
 > Coût : 0x #A° 
 
 Quant il le décide, un personnage peut adopter la [[Posture]](Course).
