@@ -4,7 +4,7 @@
 [[Personnage]] Projection d'un joueur dans le jeu.
 
 # Sphérier 
-[[Sphérier de personnage]] : Arbre de [[Compétence]] d'un [[Personnage]]. 
+[[Sphérier de personnage]] : Arbre de [[Software/Compétence]] d'un [[Personnage]]. 
 
 # Sphère
 [[Sphère]] : Sous-arbre de compétence d'un personnage. 
@@ -16,7 +16,7 @@
 [[Capacité]] : Permet à un personnage de déclencher un effet. 
 
 # Compétences
-[[Compétence]] ; Expression de l'efficacité d'une [[Capacité]].
+[[Software/Compétence]] ; Expression de l'efficacité d'une [[Capacité]].
 
 # Karma
 [[Karma]] : Échelle de progression d'un **[[Personnage]]**

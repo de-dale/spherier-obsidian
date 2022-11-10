@@ -1,7 +1,7 @@
-La Limite de [[Compétence]] sur un [[Test de compétence]] correspond au plafond du résultat
+La Limite de [[Software/Compétence]] sur un [[Test de compétence]] correspond au plafond du résultat
 qu'il est possible d'obtenir sur ce test.
 
-Chaque **[[Compétence]]** possède sa propre **[[Limite]]**.
+Chaque **[[Software/Compétence]]** possède sa propre **[[Limite]]**.
 
 Voir aussi la [[Capacité]] **_[[Expertise(Grade, Compétence)]]_**
 
@@ -16,7 +16,7 @@ Voir aussi la [[Capacité]] **_[[Expertise(Grade, Compétence)]]_**
 ## Grade
 
 Le **[[Limite#Grade|Grade]]** (de Compétence) est une valeur numérique.
-Lorque l'on utilise le Grade, la valeur de la [[Limite]] vaut le plus grand Grade atteint pour cette Limite de [[Compétence]].
+Lorque l'on utilise le Grade, la valeur de la [[Limite]] vaut le plus grand Grade atteint pour cette Limite de [[Software/Compétence]].
 
 Parfois, le grade est nommé, en ce cas, se reporter à la table ci-dessous pour connaître sa valeur numérique. 
 

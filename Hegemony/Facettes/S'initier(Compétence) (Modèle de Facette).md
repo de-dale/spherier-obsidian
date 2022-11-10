@@ -1,7 +1,7 @@
 #Modèle/Facette 
 > S'applique à: (**Compétence**)
 
-Le personnage découvre les aspects basiques de la **_[[Compétence]]_** choisie. Il gagne les **[[Capacité|Capacités]]** suivantes :
+Le personnage découvre les aspects basiques de la **_[[Software/Compétence]]_** choisie. Il gagne les **[[Capacité|Capacités]]** suivantes :
 
 * **[[Maîtriser(Compétence)|Maîtriser("Compétence")]]**
 * **[[Expertise(Grade, Compétence)|Expertise(Mineure, "Compétence")]]**
