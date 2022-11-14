@@ -1,3 +1,5 @@
+Voir aussi [[Action]] #redondant 
+
 #Facette/Naturelle 
 
 Une créature vivante peut prétendre à agir.

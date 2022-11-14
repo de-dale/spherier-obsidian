@@ -1,4 +1,4 @@
-**A quoi servent les [[Software/Compétence|compétences]]?** A mesurer le degré de réussite/échec lors de la réalisation d'une action **déterminante**, dont la résolution est incertaine.
+**A quoi servent les [[Hegemony/Core/Compétence|compétences]]?** A mesurer le degré de réussite/échec lors de la réalisation d'une action **déterminante**, dont la résolution est incertaine.
 
 **Y a-t-il des compétences pour tout?** Non. Beaucoup de capacités ne nécessitent pas de compétence.  Certaines capacités partagent des compétences avec d'autres capacités. Enfin, la liste des compétences n'est pas exhaustive. 
 

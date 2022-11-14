@@ -1,7 +1,7 @@
 > **Paradigme :**
-> Les **[[Capacité]]** déterminent les **[[Software/Compétence|Compétences]]** qu'un personnage possède, et non l'inverse.
+> Les **[[Capacité]]** déterminent les **[[Hegemony/Core/Compétence|Compétences]]** qu'un personnage possède, et non l'inverse.
 > **Corollaire :**
-> Si un **[[Personnage]]** possède une **[[Software/Compétence]]**, il peut l'exploiter dans au moins une **[[Capacité]]** qu'il possède. 
+> Si un **[[Personnage]]** possède une **[[Hegemony/Core/Compétence|Compétence]]**, il peut l'exploiter dans au moins une **[[Capacité]]** qu'il possède. 
 
 Les **Compétences** permettent au **[[Personnage]]**, d'utiliser efficacement ses **[[Capacité]]**.
 > **Compétences = [[Maîtrise]] + [[Limite]] + ∆Capacités**
@@ -22,4 +22,4 @@ Une Compétence est notée ainsi :
 
 [[Maîtriser(Compétence)]] permet d'augmenter le [[Maîtrise]] d'une Compétence.
 
-[[Expertise(Grade, Compétence)]] permet de définir un [[Limite#Grade|Grade]] pour les [[Limite]] d'une [[Software/Compétence]]
+[[Expertise(Grade, Compétence)]] permet de définir un [[Limite#Grade|Grade]] pour les [[Limite]] d'une [[Hegemony/Core/Compétence|Compétence]]

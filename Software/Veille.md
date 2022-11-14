@@ -2,7 +2,7 @@
 
 La [[Veille]] est l'ensemble des habitudes et des processus permettant d'apprendre en continu.
 
-La [[Veille]] consiste à entretenir et affuter ses [[Software/Compétence]]s.
+La [[Veille]] consiste à entretenir et affuter ses [[Software/Compétence|Compétences]]s.
 
 ## Processus de Veille
 
