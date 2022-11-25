@@ -7,6 +7,8 @@ Le Clean Code est l'ensemble des convention de l'équipe permettant de définir 
 > 
 > Le **Clean Code est du code pensé pour faciliter son apprentissage par les développeurs**
 
+Le clean code est fait pour apprendre aux développeurs, ce qui tourne dans le programme. C'est à dire techniquement et fonctionnellement. 
+
 
 Voir aussi son pendant : le [[Code Legacy]]
 
