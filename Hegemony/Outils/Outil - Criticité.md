@@ -1,4 +1,4 @@
-La Criticité est un [[outil de conception]] du Shpérier. Elle propose 4 niveaux
+La Criticité est un [[outil de conception]] du Sphérier. Elle propose 4 niveaux
 
 * #Criticité/Confort / #Criticité/Fluff: Élément de jeu dont les joueurs peuvent se passer
 * #Criticité/Utile: Élément de jeu permettant aux joueurs d'avancer plus facilement

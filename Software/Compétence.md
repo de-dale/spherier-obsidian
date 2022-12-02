@@ -15,4 +15,7 @@ La partie pratique d'une [[Compétence]] est un savoir-faire permettant d'automa
 La [[Veille]] consiste à entretenir et affuter ses [[Software/Compétence|Compétences]].
 
 
+Voir comment évaluer son [[degrés de maitrise des compétences dojo]].
+
+
 #Skill 
