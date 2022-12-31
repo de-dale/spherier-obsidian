@@ -9,4 +9,4 @@ Exemples :
 - Over-engineering
 - Couplage fort (notamment entre le métier et la  technique, c'est ce qui fait l'[[Équation du couplage]]).
 
-C'est ce qu'on appelle improprement de la [[Dette technique]].
+C'est ce qu'on appelle improprement de la [[Dette technique 1]].
