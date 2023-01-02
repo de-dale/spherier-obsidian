@@ -5,9 +5,10 @@ kanban-plugin: basic
 ---
 
 ## Idées
-- [ ] [[Préparer la reprise du scope d'Antoine]]
-- [ ] [[Test Automatisés]]
+- [ ] [[AssertJ présednter le sujet avec Antoine]]
+- [ ] [[Example Mapping - cresuer et présenter le sujet]]
 
+- [ ] [[Répondre au formateur process Com]]
 - [ ] [[Abris bois à ranger]]
 - [ ] [[Jouer à stellaris]]
 - [ ] [[Code Retreat 2023]]
@@ -51,9 +52,15 @@ kanban-plugin: basic
 - [ ] [[Bureau à finir d'isoler]]
 
 
-## En cours
+## Affiné
 
 - [ ] [[Chèque Tata à encaisser]]
+- [ ] [[Test Automatisés]]
+- [ ] [[Préparer la reprise du scope d'Antoine]]
+
+
+## En cours
+
 - [ ] **Maison de la semaine**<br><br>```tasks<br>not done<br>due before next friday<br>(path does not include _GTD) AND (tags include #maison) <br>```
 - [ ] **Maison**<br><br>```tasks<br>not done<br>(path does not include _GTD) AND (tags include #maison)<br>```
 
