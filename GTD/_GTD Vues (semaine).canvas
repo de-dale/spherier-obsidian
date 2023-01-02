@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7280026df96d3ed3","x":-1253,"y":-503,"width":753,"height":288,"type":"file","file":"GTD/Vues/Maison (semaine).md"},
+		{"id":"17a7575adcf42fba","x":-478,"y":-503,"width":400,"height":288,"type":"file","file":"GTD/Vues/Perso (semaine).md"},
+		{"id":"20d8fc0bbf28e3c9","x":-1253,"y":-1025,"width":753,"height":505,"type":"file","file":"GTD/Vues/MdM (semaine).md"},
+		{"id":"a1de49f6603fc4f3","x":-478,"y":-1025,"width":400,"height":505,"type":"file","file":"GTD/Vues/Shodo (semaine).md"}
+	],
+	"edges":[]
+}

@@ -1,1 +1,1 @@
-Code qui présente de la [[Dette technique 1]]
+Code qui présente de la [[Dette technique]]

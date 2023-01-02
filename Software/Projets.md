@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] Loi de Demeter<br>#CleanCode
 - [ ] Formation TDD
+- [ ] OK
+- [ ] Test 2
 
 
 ## En cours
