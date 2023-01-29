@@ -1,0 +1,1 @@
+Du #CleanCode c'est du code où on n'a pas besoin de lire lles implémentations pour comprendre ce que ça fait.

@@ -5,9 +5,11 @@ kanban-plugin: basic
 ---
 
 ## Idées
-- [ ] [[AssertJ présednter le sujet avec Antoine]]
-- [ ] [[Example Mapping - cresuer et présenter le sujet]]
+- [ ] [[dgxdrdtjtrd]]
+- [ ] [[Conférence Clean Code ou Manuel de lecture du code]]
 
+- [ ] [[Shoday - Discuter du parainnage]]
+- [ ] [[Example Mapping - creuser et présenter le sujet]]
 - [ ] [[Répondre au formateur process Com]]
 - [ ] [[Abris bois à ranger]]
 - [ ] [[Jouer à stellaris]]
@@ -57,6 +59,8 @@ kanban-plugin: basic
 - [ ] [[Chèque Tata à encaisser]]
 - [ ] [[Test Automatisés]]
 - [ ] [[Préparer la reprise du scope d'Antoine]]
+- [ ] [[Démo APPRO - faire la vidéo qui va bien]]
+- [ ] [[AssertJ présenter le sujet avec Antoine]]
 
 
 ## En cours
