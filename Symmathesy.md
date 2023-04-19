@@ -1,0 +1,1 @@
+Interagir avec de multiples variables afin de produire un contexte d'apprentissage réciproque.

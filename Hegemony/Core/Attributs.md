@@ -1,4 +1,4 @@
-Les **[[Attributs]]** représentent des traits inhérents au [[Personnage]], alors que les **[[Compétence|Compétences]]** représentent un degré de maîtrise et une progression intellectualisée. 
+Les **[[Attributs]]** représentent des traits inhérents au [[Personnage]], alors que les **[[Hegemony/Core/Compétence|Compétences]]** représentent un degré de maîtrise et une progression intellectualisée. 
 
 Mis à part le contexte d'utilisation du terme, le mécanisme des deux concepts est **identique**.
 

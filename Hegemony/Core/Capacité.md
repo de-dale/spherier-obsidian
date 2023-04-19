@@ -1,9 +1,9 @@
 > **Paradigme :**
-> Les **[[Capacité|Capacités]]** déterminent les **[[Compétence|Compétences]]** qu'un personnage possède, et non l'inverse.
+> Les **[[Capacité|Capacités]]** déterminent les **[[Hegemony/Core/Compétence|Compétences]]** qu'un personnage possède, et non l'inverse.
 
 Une **Capacité** est une option qu'a un **[[Personnage]]**, lui permettant de choisir de déclencher un **[[Effet]]**.
 
-L'efficacité d'une **Capacité** est souvent indexée sur son **[[Maîtrise|Degré de Maîtrise]]**, et donc sur les points de la **[[Compétence]]** associée.
+L'efficacité d'une **Capacité** est souvent indexée sur son **[[Maîtrise|Degré de Maîtrise]]**, et donc sur les points de la **[[Hegemony/Core/Compétence]]** associée.
 
 Elle peut être ***[[Capacité Active|Active]]***, ou ***[[Capacité Passive|Passive]]***.
 

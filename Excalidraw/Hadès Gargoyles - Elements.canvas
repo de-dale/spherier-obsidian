@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d9c496faf20895c1","x":-286,"y":-300,"width":112,"height":60,"color":"#966446","type":"text","text":"Pierre"},
+		{"id":"b8aafc725863ad73","x":-640,"y":-130,"width":112,"height":60,"color":"4","type":"text","text":"Poison"},
+		{"id":"e64af404a17005b3","x":120,"y":-160,"width":112,"height":60,"color":"1","type":"text","text":"Feu"},
+		{"id":"823d419440be0cd3","x":-528,"y":280,"width":112,"height":60,"color":"6","type":"text","text":"Ténèbres"},
+		{"id":"9f5929d86b1931fb","x":120,"y":310,"width":112,"height":60,"color":"#787878","type":"text","text":"Métal"}
+	],
+	"edges":[
+		{"id":"4e83d8dc34795463","fromNode":"b8aafc725863ad73","fromSide":"top","toNode":"d9c496faf20895c1","toSide":"left","color":"4","label":"corrode"},
+		{"id":"a479ff6153ce6496","fromNode":"b8aafc725863ad73","fromSide":"right","toNode":"9f5929d86b1931fb","toSide":"top","color":"4","label":"corrode"},
+		{"id":"485bebf006f9e7df","fromNode":"e64af404a17005b3","fromSide":"bottom","toNode":"b8aafc725863ad73","toSide":"bottom","color":"1","label":"consume"},
+		{"id":"4d271cb506e04757","fromNode":"9f5929d86b1931fb","fromSide":"left","toNode":"d9c496faf20895c1","toSide":"bottom","color":"#a0a0a0"},
+		{"id":"fc33750f27e7f9bc","fromNode":"e64af404a17005b3","fromSide":"right","toNode":"9f5929d86b1931fb","toSide":"right","color":"1","label":"fond"},
+		{"id":"23f4a30f6e69b723","fromNode":"d9c496faf20895c1","fromSide":"top","toNode":"e64af404a17005b3","toSide":"top","color":"#b5927d","label":"éteint"},
+		{"id":"65a5f2c08df80875","fromNode":"d9c496faf20895c1","fromSide":"right","toNode":"823d419440be0cd3","toSide":"right","color":"#b58c7d"},
+		{"id":"6de6ade8c02e4525","fromNode":"9f5929d86b1931fb","fromSide":"bottom","toNode":"823d419440be0cd3","toSide":"bottom"},
+		{"id":"8adca4dbab521d0d","fromNode":"823d419440be0cd3","fromSide":"top","toNode":"e64af404a17005b3","toSide":"left","color":"6"},
+		{"id":"70d38e3a541d73df","fromNode":"823d419440be0cd3","fromSide":"left","toNode":"b8aafc725863ad73","toSide":"left","color":"6"}
+	]
+}

@@ -1,0 +1,4 @@
+- [[Programmation impérative]]
+- [[Programmation Orientée Objet]]
+- [[Programmation déclarative]]
+	- [[Programmation fonctionnelle]]

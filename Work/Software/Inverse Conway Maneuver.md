@@ -1,0 +1,3 @@
+> Conway's Law asserts that organizations are constrained to produce application designs which are copies of their communication structures. This often leads to unintended friction points. The '**Inverse Conway Maneuver**' recommends evolving your team and organizational structure to promote your desired architecture. Ideally your technology architecture will display isomorphism with your business architecture.
+
+[[Loi de Conway]]

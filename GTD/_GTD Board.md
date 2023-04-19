@@ -5,19 +5,12 @@ kanban-plugin: basic
 ---
 
 ## Idées
-- [ ] [[dgxdrdtjtrd]]
-- [ ] [[Conférence Clean Code ou Manuel de lecture du code]]
 
-- [ ] [[Shoday - Discuter du parainnage]]
 - [ ] [[Example Mapping - creuser et présenter le sujet]]
-- [ ] [[Répondre au formateur process Com]]
 - [ ] [[Abris bois à ranger]]
-- [ ] [[Jouer à stellaris]]
 - [ ] [[Code Retreat 2023]]
 - [ ] [[Blog Structure]]
 - [ ] [[Blog - Articles]]
-- [ ] [[Ampoule usagées à jeter]]
-- [ ] [[Piles usagées à jeter]]
 - [ ] [[Voiture - Prévoir carte grise]]
 - [ ] [[Voiture - Prévoir contrôle technique]]
 - [ ] [[Trier les factures]]
@@ -56,17 +49,16 @@ kanban-plugin: basic
 
 ## Affiné
 
-- [ ] [[Chèque Tata à encaisser]]
+- [ ] [[Conférence Clean Code ou Manuel de lecture du code]]
+- [ ] [[Shoday - Discuter du parainnage]]
 - [ ] [[Test Automatisés]]
-- [ ] [[Préparer la reprise du scope d'Antoine]]
-- [ ] [[Démo APPRO - faire la vidéo qui va bien]]
-- [ ] [[AssertJ présenter le sujet avec Antoine]]
 
 
 ## En cours
 
 - [ ] **Maison de la semaine**<br><br>```tasks<br>not done<br>due before next friday<br>(path does not include _GTD) AND (tags include #maison) <br>```
 - [ ] **Maison**<br><br>```tasks<br>not done<br>(path does not include _GTD) AND (tags include #maison)<br>```
+- [ ] [[Chèque Tata à encaisser]]
 
 
 ## Fini
@@ -78,7 +70,17 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [ ] [[AssertJ présenter le sujet avec Antoine]]
+- [ ] [[Préparer la reprise du scope d'Antoine]]
+- [ ] [[Démo APPRO - faire la vidéo qui va bien]]
+- [ ] [[Répondre au formateur process Com]]
+- [ ] [[Jouer à stellaris]]
+- [ ] [[Piles usagées à jeter]]
+- [ ] [[Ampoule usagées à jeter]]
 
 %% kanban:settings
 ```
