@@ -4,7 +4,7 @@ Evénement régulier de [[Shodo]] où on échange et on partage sur nos pratique
 # Idées
 - [x] Prez clean code 🔽 ✅ 2023-03-14
 	- [[Knowledge Driven Development]] 
-- [ ] REX Global Day of Code Retreat  ⏫ 📅 2023-03-14
+- [x] REX Global Day of Code Retreat ⏫ 📅 2023-03-14 ✅ 2023-04-19
 	- Ce que c'est
 	- qui il y avait + photo
 	- comment ça s'est passé
@@ -17,4 +17,4 @@ Evénement régulier de [[Shodo]] où on échange et on partage sur nos pratique
 - [ ] Games Workshop :
 	- faire une passe sur les jeux que j'ai 
 	- Echanger sur les +/-
-	- Voir comment les améloirer
+	- Voir comment les améliorer

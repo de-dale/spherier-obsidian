@@ -1,3 +1,5 @@
+---
+typology: "Conversation"
 <%* const people = {  
   "Adeline": {  
     "name": "Adeline AVRIL",  
@@ -18,12 +20,17 @@
   "Romain": {  
     "name": "Romain COCHENNEC",  
     "acronym": "RC"  
-  }  
+  },  
+  "Vartan": {  
+    "name": "Vartan KOKOGHLANIAN",  
+    "acronym": "VK"  
+  }
 }; 
 const person = await tp.system.suggester(Object.keys(people), Object.values(people));
 const today = tp.date.now("YYYY-MM-DD");
-const filename = person.acronym + " - " + today; await tp.file.rename(filename);%>Date : [[<%today%>]]
-Personne:  <%* if (person) {%>[[<%person.name%>]]<%* } %>
+const filename = person.acronym + " - " + today; await tp.file.rename(filename);%>date : <%today%>
+---
+Personne::  <%* if (person) {%>[[<%person.name%>]]<%* } %>
 
 # Contexte
 
