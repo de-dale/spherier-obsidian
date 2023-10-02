@@ -2,9 +2,10 @@ http://www-inf.telecom-sudparis.eu/cours/CSC4002/EnLigne/Cours/CoursUML/3.html
 
 L'article est un peu daté. Il lie très fortement la Conception logicielle avec le Cycle en V, mais il y a quelques bribes intéressantes.
 
+[[Programmation Orientée Objet]]
 
-> -   Objectif principal de la modélisation = maîtriser la complexité
->-   Modéliser = abstraire la réalité pour mieux comprendre le système à réaliser / réalisé
+> -  Objectif principal de la modélisation = maîtriser la complexité
+>-   [[Modéliser]] = abstraire la réalité pour mieux comprendre le système à réaliser / réalisé
 >-   Le modèle doit être relié au monde réel
 >    -   Par exemple : l’existant avant les travaux, le réalisé, le restant à réaliser
 >-   Un modèle peut être exprimé avec différents niveaux d’abstraction / raffinement

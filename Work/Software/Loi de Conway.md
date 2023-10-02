@@ -2,6 +2,6 @@
 
 Voir aussi la [[Inverse Conway Maneuver]]
 ### Ressources
-- [How Do Committees Invent?](http://www.melconway.com/Home/Committees_Paper.html) #Ressource/Article
+- [How Do Committees Invent?](http://www.melconway.com/Home/Committees_Paper.html) #Ressource/Article📰 
 - http://www.melconway.com/Home/pdf/committees.pdf
 - La conf de Julien #Ressource/Vidéo📺  [[]]

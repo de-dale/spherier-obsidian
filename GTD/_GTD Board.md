@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] [[Example Mapping - creuser et présenter le sujet]]
 - [ ] [[Abris bois à ranger]]
-- [ ] [[Code Retreat 2023]]
 - [ ] [[Blog Structure]]
 - [ ] [[Blog - Articles]]
 - [ ] [[Voiture - Prévoir carte grise]]
@@ -51,7 +50,7 @@ kanban-plugin: basic
 
 - [ ] [[Conférence Clean Code ou Manuel de lecture du code]]
 - [ ] [[Shoday - Discuter du parainnage]]
-- [ ] [[Test Automatisés]]
+- [ ] [[GTD/Items/Test Automatisés]]
 
 
 ## En cours

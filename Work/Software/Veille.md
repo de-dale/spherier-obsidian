@@ -1,21 +1,22 @@
-# Veille
+#Skill #Apprendre #Knowledge 
 
-La [[Work/Software/Veille]] est l'ensemble des habitudes et des processus permettant d'apprendre en continu.
+La [[Veille]] est l'ensemble des habitudes et des processus permettant d'apprendre en continu.
 
-La [[Work/Software/Veille]] consiste à entretenir et affuter ses [[Work/Software/Compétence|Compétences]]s.
+La [[Veille]] consiste à entretenir et affuter ses [[Work/Software/Compétence|Compétences]].
+
+La [[Veille]] se traduit en anglais en "continuous learning"
 
 ## Processus de Veille
 
-Le processus de [[Work/Software/Veille]] consiste à 
+Le processus de [[Veille]] consiste à 
 - Définir ses **objectifs**
 - Engranger/**Capter** des Ressources pertinentes à partir de Sources choisies
 - Traiter/**Consommer** ses Ressources et en tirer des Notes
-- Exploiter le résultat de la [[Work/Software/Veille]] en la valorisant
+- Exploiter le résultat de la [[Veille]] en la valorisant
 
-
-#Skill 
-#Apprendre 
-#Knowledge 
 
 ### Vrac
 Engagement ; savoir ce que je veux tirer d'une Ressource
+- [[Tasks vs Notes]]
+  
+  

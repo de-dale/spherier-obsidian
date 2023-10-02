@@ -59,10 +59,10 @@ Personne: [[Baptiste FOUCHER]]
 Travailler sur la synergie Appétence fonctionnelle/Conception logicielle.
 - Etudier comment mettre le pied à l'étrier sur le BDD/DDD  #DDD #BDD 
 - Etudier comment le lancer sur de la modélisation plus fonctionnelle
-- [ ] Etudier comment mettre le pied à l'étrier sur le BDD/DDD pour [[Baptiste FOUCHER]] 📅 2023-03-16 ⏫ 
-- [ ] Etudier comment introduire la modélisation fonctionnelle pour [[Baptiste FOUCHER]] 📅 2023-03-16 ⏫ 
+- [x] Etudier comment mettre le pied à l'étrier sur le BDD/DDD pour [[Baptiste FOUCHER]] ⏫ 📅 2023-03-16 ✅ 2023-05-04
+- [x] Etudier comment introduire la modélisation fonctionnelle pour [[Baptiste FOUCHER]] ⏫ 📅 2023-03-16 ✅ 2023-05-04
 
 Piste : amélioration des [[Raffinement|Raffinements]] avec de l'[[Example Mapping]]
 
 Travailler sur la prise de recul systémique
-- [ ] Archi SI : partager le concept du TechRadar à [[Baptiste FOUCHER]] 📅 2023-03-16 
+- [x] Archi SI : partager le concept du TechRadar à [[Baptiste FOUCHER]] 📅 2023-03-16

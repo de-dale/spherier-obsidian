@@ -39,4 +39,6 @@ Le [[Domaine]] est le coeur de métier autour de la connaissance.
  is real business differentiator
 #Vaun-Vernon
 
+[[Knowledge Management]]
+
 #Knowledge 

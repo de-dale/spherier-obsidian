@@ -1,2 +1,0 @@
-#ContrainteKata 
-[[Contraintes de kata]]

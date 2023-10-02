@@ -1,4 +1,4 @@
-#TODO Retraiter cette note
+0#TODO Retraiter cette note
 
 1.  **Novice** – a novice learner has little or no experience or background knowledge. As a result, they must adhere to a clear set of rules or guidelines and often need supervision to complete tasks.
 2.  **Advanced beginner** – once the novice has learned the basic rules of a skill, they progress to advanced beginner. Here, they begin applying rules to new situations and receive important feedback when they make a mistake. All task attributes and aspects are treated separately and given equal importance, but the individual may be able to complete some tasks unsupervised.

@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Idées
 
-- [ ] Loi de Demeter<br>#CleanCode
 - [ ] Formation TDD
 - [ ] OK
 - [ ] Test 2

@@ -1,3 +1,18 @@
+#software/kata 
+# Game Engine
+
+C'est quoi ?
+C'est une plateforme orientée donnée, qui transforme de la donnée en une autre et l'affiche à l'écran. Un Jeu propose un moyen d'interagir sur ces données.
+
+- Entrypoint : suetup et configure l'engine
+- Application layer : gère les events
+- Window layer : transforme les inputs en events
+- Renderer : la partie qui affiche des trucs à l'écran
+	- redner API
+- Debugging
+- EntityConverterSystem
+
+
 # The Final Fiction Game Kata  
 
 Voir aussi [[RPG Combat Kata]]

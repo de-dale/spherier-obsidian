@@ -6,6 +6,6 @@ En [[Programmation Orientée Objet]], on parle également d'**encapsulation**.
 
 > Encapsulation is often used to **hide important informations** from outside the world. It is called data hiding. This can be achieved by declaring all important variables as private and providing public setter and getter methods.
 
-[[Tell Don't Ask]]
+[[Tell, don’t Ask]]
 
 #OOP

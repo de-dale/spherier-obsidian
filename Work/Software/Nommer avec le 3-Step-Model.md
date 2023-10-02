@@ -7,5 +7,5 @@ Le modèle à 3 étapes des  Feitelson permet d'améliorer le nommage des élém
 
 
 [[Nommage]]
-#CleanCode #Naming
+#CleanCode #Naming #Atelier 
 [[Programmer's Brain]]

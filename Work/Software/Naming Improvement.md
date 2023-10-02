@@ -1,4 +1,4 @@
->Naming does not improve over time !
+> Naming does not improve over time !
 >-- Dawn Lawrie
 
 Les pratiques de nommages n’évoluent pas avec le temps

@@ -1,9 +1,9 @@
 #CleanCode
-Le Clean Code est l'ensemble des convention de l'équipe permettant de définir un stadard de code.
+Le Clean Code est l'ensemble des convention de l'équipe permettant de définir un standard de code.
 
 **Ma définition :**
 
->Le CleanCode est une forme de documentation (état d'esprit ?) permettant de faciliter l'apprentissage de la codebase à quiconque passe dessus.
+> Le CleanCode est une forme de documentation (état d'esprit ?) permettant de faciliter l'apprentissage de la codebase à quiconque passe dessus.
 > 
 > Le **Clean Code est du code pensé pour faciliter son apprentissage par les développeurs**
 
@@ -25,7 +25,7 @@ Voir aussi son pendant : le [[Code Legacy]]
 
 -   [KISS](https://fr.wikipedia.org/wiki/Keep_it_Simple,_Stupid "Keep it Simple, Stupid")
 -   [DRY](https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas "Ne vous répétez pas")
--   [Loi de Déméter](https://fr.wikipedia.org/wiki/Loi_de_D%C3%A9m%C3%A9ter "Loi de Déméter")
+-  [[Loi de Déméter]]
 -   [Méthode MoSCoW](https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW "Méthode MoSCoW")
 -   [Extreme programming](https://fr.wikipedia.org/wiki/Extreme_programming "Extreme programming")
 -   [YAGNI](https://fr.wikipedia.org/wiki/YAGNI "YAGNI")

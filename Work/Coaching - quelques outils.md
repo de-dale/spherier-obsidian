@@ -21,7 +21,7 @@
 6. Si vous dites "oui" à cela, à quoi dites-vous "non" ?
 7. Qu'est ce qui vous a été le plus utile ?
 
-5 Questions de coaching 
+5 Questions de coaching [[Coaching Kata]]
 1. Qu'est ce que nous essayons d'accomplir ?
 2. Ou en sommes-nous ?
 3. Qu'y a-t-il sur notre chemin ?
@@ -41,3 +41,4 @@ Le silence va permettre à la personne en face de toi d’avancer dans sa réfle
 
 - Quel pouvoir est-ce que j'ai sur les actions ?
 - Quels sont les moyen à ma disposition ?
+- Qu'est-ce que tu vas faire pour ne pas faire ___?

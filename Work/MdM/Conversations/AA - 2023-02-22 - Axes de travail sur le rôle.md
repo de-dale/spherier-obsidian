@@ -62,7 +62,7 @@ Les sujets d'exploitation lui prennent du temps, mais comprendre les problèmes 
 - Spring 
 - Maven
 
-- [ ] Evaluer [[Adeline AVRIL]] sur la partie **Java** du [Formulaire d'évaluation de développeur.euses]]🔼 📅 2023-03-15 
-- [ ] Evaluer [[Adeline AVRIL]] sur la partie **Conception** du [Formulaire d'évaluation de développeur.euses]]🔼 📅 2023-03-15 
+- [x] Evaluer [[Adeline AVRIL]] sur la partie **Java** du [Formulaire d'évaluation de développeur.euses]]🔼 📅 2023-03-15
+- [x] Evaluer [[Adeline AVRIL]] sur la partie **Conception** du [Formulaire d'évaluation de développeur.euses]]🔼 📅 2023-03-15
 
 En MR : être capable de remettre en question ce que les gens font.

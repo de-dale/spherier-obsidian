@@ -1,6 +1,7 @@
 A utiliser dans un [[Kata]]
 Extrait de https://www.coderetreat.org/facilitators/constraints/ :
 #TODO Sortir Les contraintes dans des fichiers dédiés.
+
 # Constraints
 
 Since Coderetreat has started, facilitators have been coming up with activities, constraints, or challenges to give to groups during a coderetreat. However, if you are a new facilitator, you might not know what activities to use when. This page contains a catalog of activities.
@@ -11,8 +12,10 @@ You should not feel that the list below are the only activities you can try at a
 
 ## Pairing Constraints
 
--   **Strong-Style Pairing**: The person at the keyboard (Driver) types the code. The person who is not at the keyboard (Navigator) makes all code design decisions. The Navigator instructs the Driver to implement their intent with the highest level of abstraction that the Driver can fluently work with. Driver and Navigator switch on a fixed boundary (eg: 2-5 minute timer, or completing code to make test pass)
--   **Ping-Pong**: One pair partner writes the test (Test-First code!), the other implements the code to make the test pass. With this pattern, with one partner may write all the tests, or the partners may take turns.
+Also see [[Pair-Programming]]
+
+-   **[[Strong-Style Pairing]]**: The person at the keyboard (Driver) types the code. The person who is not at the keyboard (Navigator) makes all code design decisions. The Navigator instructs the Driver to implement their intent with the highest level of abstraction that the Driver can fluently work with. Driver and Navigator switch on a fixed boundary (eg: 2-5 minute timer, or completing code to make test pass)
+-   **[[Ping-Pong Pair-Programming]]**: One pair partner writes the test (Test-First code!), the other implements the code to make the test pass. With this pattern, with one partner may write all the tests, or the partners may take turns.
 -   **Mute Ping-Pong**: Similar as Ping-Pong, but one partner will only be writing tests, and the other will be only writing the code to make the test pass. The pair may not to discuss or communicate about the problem in any way other than through the code (no comments, etc.: Follow the intent!)
 -   **Ball-Board**: One partner controls the mouse, but may not type any code. Other partner controls the keyboard, but is not allowed to use any cursor navigation or hot-key shortcuts.
 -   **Mobbing**: Group of three or more people, with Driver and Navigator roles rotating. Partners who are not Driver or Navigator suggest problem strategies and answer questions from Navigator.
@@ -20,9 +23,9 @@ You should not feel that the list below are the only activities you can try at a
 ## Test-Driven Development Constraints
 
 -   **Lazy Coder** (Use with Ping-Pong): The Driver actively tries to use the least amount of code to make a test pass. This helps guide test construction strategies and build minimal code.
--   **Evil Coder (aka “Adversarial Coder”,”Find the Loophole”)** (Use with Ping-Pong): The Driver is antagonistic: They will implement the code that makes the test pass, but may introduce as much complexity into the code as they wish or choose an obscure implementation strategy. This helps guide expressive test intent. (Evil Coder combined with Mute Ping-Pong is a very advanced activity, but can be extremely fun for experienced coders.)
+-   **[[Evil Coder]] (aka “Adversarial Coder”,”Find the Loophole”)** (Use with Ping-Pong): The Driver is antagonistic: They will implement the code that makes the test pass, but may introduce as much complexity into the code as they wish or choose an obscure implementation strategy. This helps guide expressive test intent. (Evil Coder combined with Mute Ping-Pong is a very advanced activity, but can be extremely fun for experienced coders.)
 -   **TDD As If You Meant It** [(blog post)](https://cumulative-hypotheses.org/2011/08/30/tdd-as-if-you-meant-it/): All code must **_only_** be written in the test. The **_only_** way to create production code is through refactoring (via Extract Method/Class/Field/Variable, etc). This creates very tight, minimal production code.
--   **Test-and-Commit-or-Revert (TCR)** [(blog post)](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) : (Requires source control) The key requirement in this constraint is that the tests must always be passing. Whenever the pair runs the tests, the code will automatically revert if the tests fail! The pair may write any amount of code or create tests that have simplifications that allow them to pass (though those shortcuts should be short-lived). This differs from the typical “Red-Green-Refactor” TDD cycle, but it creates a similar incentive to create smaller, more easily testable (and modifiable) increments of code.
+-   **[[Test AND Commit OR Revert (TCR)]]** [(blog post)](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) : (Requires source control) The key requirement in this constraint is that the tests must always be passing. Whenever the pair runs the tests, the code will >automatically revert if the tests fail! The pair may write any amount of code or create tests that have simplifications that allow them to pass (though those shortcuts should be short-lived). This differs from the typical “Red-Green-Refactor” TDD cycle, but it creates a similar incentive to create smaller, more easily testable (and modifiable) increments of code.
 -   **Baby Steps** [(blog post)](http://blog.adrianbolboaca.ro/2013/03/taking-baby-steps/) (Requires source control): Similar to TCR, the goal is to keep the tests passing (green), but each pair has an interval timer set for 5 minutes (or whatever interval the group/pair agrees on). During that time, they write a test and the code to make it pass. If the test code is green when the timer expires, they commit the code. If the tests do not pass, then they must revert the code to the last green state (effectively deleting the last 5 minutes worth of work!) Pairs may also choose to use the interval for refactoring, but the same rule applies: Failure to refactor to green in time requires a revert. This creates an incentive for smaller, more incremental changes to code.
 -   **Steeplechase**: Like Test-and-Commit-or-Revert, but the timer interval gets progressively _shorter_ throughout the session. (eg. start at 5 minutes, but shrinks to 2 minutes by the end of the session.) **This constraint can be extremely challenging, and is recommended for pairs who have basic TDD habits already in place.**
 
@@ -34,9 +37,9 @@ You should not feel that the list below are the only activities you can try at a
 
 ## Programming Language Constraints
 
--   **No Primitives**: All methods (other than constructors) must take classes as arguments. Bare integers, strings, etc are not permitted. Advanced: Try to avoid any primitives as return values (This makes predicate test methods more challenging!)
--   **No conditional statements**: No if/switch/while/loop statements permitted. Coders may explore decision-control though polymorphism, lookup structures (control arrays, hash tables), list comprehension, etc). Weakening of this constraint (allowing loops, for instance) is the discretion of the facilitator.
--   **“Tell, Don’t Ask”**: A style of [Imperative Programming](https://en.wikipedia.org/wiki/Imperative_programming), no method may return a value (i.e. every method must be void): This can be very challenging as many coders have not been exposed to language syntax for delegates, callback methods, or pass-by-reference modification.
+-   **[[No Primitives]]**: All methods (other than constructors) must take classes as arguments. Bare integers, strings, etc are not permitted. Advanced: Try to avoid any primitives as return values (This makes predicate test methods more challenging!)
+-   **[[Pas de if|No conditional statements]]**: No if/switch/while/loop statements permitted. Coders may explore decision-control though polymorphism, lookup structures (control arrays, hash tables), list comprehension, etc). Weakening of this constraint (allowing loops, for instance) is the discretion of the facilitator.
+-   **“[[Tell, Don’t Ask]]”**: A style of [Imperative Programming](https://en.wikipedia.org/wiki/Imperative_programming), no method may return a value (i.e. every method must be void): This can be very challenging as many coders have not been exposed to language syntax for delegates, callback methods, or pass-by-reference modification.
 -   **Immutable Code**: A style of [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming), oOnce a memory location (“variable”) value has been set, it may not be modified. All methods are effectively stateless. (There may need to one or two exceptions in the main body of the program for some languages, but encourage the pairs to avoid them when possible.)
 
 ## Software Design Legibility Constraints

@@ -1,4 +1,4 @@
-Les principes SOLID sont, dans la programmation logicielle, des guides mis en avant par le [[Clean Code]].
+Les principes [[S.O.L.I.D]] sont, dans la programmation logicielle, des guides mis en avant par le [[Clean Code]].
 
 Ces principes sont au nombre de 5 :
 
