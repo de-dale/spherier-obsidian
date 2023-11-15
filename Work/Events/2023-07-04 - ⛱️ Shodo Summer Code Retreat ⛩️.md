@@ -1,4 +1,4 @@
-[[Code Retreat]]] organisée dans le cadre de la préparation à la [[Global Day Of Code Retreat]]] 2023.
+[[Code Retreat]] organisée dans le cadre de la **préparation** à la [[Global Day Of Code Retreat]] 2023.
 ## Participants
 
 - Fabien Hiegel
@@ -31,7 +31,7 @@
 
 [[Sailboat Kata]]
 ### Itération \#1
-- [[Test Driven Development]] #ContrainteKata 
+- [[Test-Driven Development]] #ContrainteKata 
 - [[Pair-Programming]]
 ### Itération \#2
 
@@ -45,7 +45,7 @@
 
 - [[Code swap]]
 - [[Refactor]]
-- [[Tell, don't ask]]
+- [[Tell, Don't Ask]]
 
 ### Itération \#4
 

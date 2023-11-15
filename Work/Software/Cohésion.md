@@ -7,6 +7,10 @@ Les méthodes et les champs d'une classe ou les classes d'un composant, devraien
 
 Une **forte cohésion** dans les classes et les composants permet d'obtenir du **code facile à comprendre et bien plus lisible**.
 
+
+- **Cohésion élevée** : La cohésion élevée existe lorsque les fonctionnalités d'un module sont étroitement liées entre elles. Cela signifie que les fonctionnalités d'un module partagent une finalité commune.
+- **Cohésion faible** : La cohésion faible existe lorsque les fonctionnalités d'un module sont peu liées entre elles. Cela signifie que les fonctionnalités d'un module n'ont pas de finalité commune.
+
 [[Cohésion vs. Couplage]]
 [[Couplage]]
 

@@ -1,10 +1,10 @@
 # TRP
 
-- [ ] Réalisation Ticket TRP
+- [x] Réalisation Ticket TRP
 # Animation transverse
 
 - [x] Planifer [[Point de partage Dev Supply]] A23 ✅ 2023-09-27
-- [ ] Obtenir les droits de prod pour les Lead Dev
+- [x] Obtenir les droits de prod pour les Lead Dev
 	- [x] Demander les droits ✅ 2023-09-27
 - [x] Planifier Conversation Maxime
 - [x] Planifier Conversation Benoit

@@ -7,7 +7,7 @@
 > **SR5:**
 _Chaque fois que vous lancez les dés, vous cherchez à obtenir assez de succès pour égaler ou surpasser un seuil, qui est le nombre de succès dont vous avez besoin pour faire ce que vous essayez de faire._
 
-Pour effectuer un **[[Test de compétence]]**, on constitue la **Réserve de Dés**, c'est à dire, le nombre de dés à lancer.
+Pour effectuer un **[[Test de compétence]]**, on constitue la **Réserve de Dés** (RD), c'est à dire, le nombre de dés à lancer.
 Ce nombre est égal au **[[Maîtrise|degré de maîtrise]]**, de la [[JDR/Hegemony/Core/Compétence|Compétence]] utilisée, ajusté par les différents modificateurs, bonus et malus.
 
 > **RD** = <Compétence> + Bonus - Malus

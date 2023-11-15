@@ -1,8 +1,9 @@
 ---
 typology: Conversation
 date: 2023-09-25
+Personne: "[[Benoît GIUSEPPIN]]"
 ---
-Personne::  [[Benoit GIUSEPPIN]]
+
 
 # Contexte
 
@@ -17,7 +18,7 @@ Autres sujets :
 - ACOT
 - Suivi des personnes
 - Droits prod
-- Conversations régulier Benoit-Fabien
+- Conversations régulier Benoît-Fabien
 - Affinage des US
 - Point de partage de dev
 	- Format
@@ -40,7 +41,7 @@ Autres sujets :
 ## Organistion
 
 - Mob-programming avec STK.
-## Conversations régulier Benoit-Fabien
+## Conversations régulières Benoît-Fabien
 
 Pour le moment 30mins/semaine à reboucler / à voir
 => en présentiel Lundi pour le moment

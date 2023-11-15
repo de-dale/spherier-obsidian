@@ -3,8 +3,8 @@
 
 ## Contexte
 
-Suite au départ d'Antoine, je reprends une partie des ses missisons.
-Notament la partie sur l'accompagnement et la valorisation des personnes.
+Suite au départ d'Antoine, je reprends une partie des ses missions.
+Notamment la partie sur l'accompagnement et la valorisation des personnes.
 
 Objectif : Maintenir une dynamique de groupe où chacun s'épanouit.
 

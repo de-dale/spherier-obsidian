@@ -59,7 +59,7 @@ Grande discussion avec Tiphaine sur le contexte de la gestion des incidents.
 Revue de SupportHero, des dashboards et des vues dont on dispose.
 
 - [x] Exploration de SupportHero ✅ 2023-09-19
-	- [ ] Accéder à Zabbix
+	- [x] Accéder à Zabbix
 	- [x] Accéder à Grafana
 		- Par LDAP
 

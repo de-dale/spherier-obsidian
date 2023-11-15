@@ -12,7 +12,7 @@ Ca part du constat qu'il y a trois questions essentielles au métier de dévelop
 #TODO Utiliser le MEME "scroll of truth" pour illustrer que tous les concepts du bousin existent déjà sous d'autres noms dans d'autres pratiques.
 
 #TODO Illustrer le [[Knowledge Driven Development]] sur les différentes pratiques du Crafts
-- [[Test Driven Development]] #TDD : on ne peut pas avancer si on ne sait pas quoi tester
+- [[Test-Driven Development]] #TDD : on ne peut pas avancer si on ne sait pas quoi tester
 - [[Domain Driven Design]] #DDD : knowledge crushing
 
 # Knowledge

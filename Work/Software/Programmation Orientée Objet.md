@@ -8,3 +8,5 @@ Les trois fondamentaux
 - [[Abstraction]]
 - [[Encapsulation]]
 - [[Héritage]]
+
+[[Modéliser]]

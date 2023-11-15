@@ -1,9 +1,8 @@
 ---
 typology: Conversation
 date: 2023-09-25
+Personne: "[[Maxime CHANTEAU]]"
 ---
-Personne::  [[Maxime CHANTEAU]]
-
 # Contexte
 
 Je reviens de congés, et je dois m'organiser pour voir où je fais porter mes efforts.

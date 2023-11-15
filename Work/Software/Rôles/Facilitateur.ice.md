@@ -6,7 +6,7 @@ Un [[Facilitateur.ice]] prépare un atelier en amont
 
 # Animation
 
-Posture haute / Posture basse
+[[Posture haute - Posture basse]]
 > **le facilitateur ne participe pas à la construction du résultat**
 
 > Enfin, pour laisser le plus de place possible aux acteurs du groupe, **il faut parfois savoir disparaitre** à leurs yeux

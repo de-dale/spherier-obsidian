@@ -1,6 +1,8 @@
 
 - [x] Planifier les point de partage su A23 ✅ 2023-09-27
-- [ ] Communiquer sur les point de partage
+- [x] Communiquer sur les point de partage
+
+# C'est quoi
 
 Rassemble tous les techs de la Supply => ça manque.
 Format : à revoir.
@@ -27,3 +29,6 @@ Formats possibles
 - [[Learning Hours]]
 - [[World Coffee]]
 - [[Lean Coffee]]
+
+# Instances
+## [[2023-10-04]]

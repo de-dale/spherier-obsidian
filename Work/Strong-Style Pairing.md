@@ -47,7 +47,7 @@ Par exemple :
 
 Dans tous ces cas le binôme n'avance pas.
 
-# Ressources
+# 🔗 Ressources
 
 - Llewellyn’s strong-style pairing
   http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html 

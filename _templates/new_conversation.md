@@ -1,14 +1,17 @@
 ---
-typology: "Conversation"
 <%* const people = {  
   "Adeline": {  
     "name": "Adeline AVRIL",  
     "acronym": "AA"  
-  },  
-  "Baptiste": {  
-    "name": "Baptiste FOUCHER",  
-    "acronym": "BF"  
-  },  
+  },
+  "Benoît": {  
+    "name": "Benoît GIUSEPPIN",  
+    "acronym": "BG"  
+  },
+  "Franck": {  
+    "name": "Franck GUISNE",  
+    "acronym": "FG"
+  }, 
   "Maxime": {  
     "name": "Maxime CHANTEAU",  
     "acronym": "MxC"  
@@ -16,11 +19,7 @@ typology: "Conversation"
   "Michael": {  
     "name": "Michael SABRI",  
     "acronym": "MS"  
-  },  
-  "Romain": {  
-    "name": "Romain COCHENNEC",  
-    "acronym": "RC"  
-  },  
+  }, 
   "Vartan": {  
     "name": "Vartan KOKOGHLANIAN",  
     "acronym": "VK"  
@@ -28,10 +27,11 @@ typology: "Conversation"
 }; 
 const person = await tp.system.suggester(Object.keys(people), Object.values(people));
 const today = tp.date.now("YYYY-MM-DD");
-const filename = person.acronym + " - " + today; await tp.file.rename(filename);%>date : <%today%>
+const filename = person.acronym + " - " + today; await tp.file.rename(filename);
+%>typology: "Conversation"
+date : <%today%>
+Personne: <%* if (person) {%>"[[<%person.name%>]]"<%* } %>
 ---
-Personne::  <%* if (person) {%>[[<%person.name%>]]<%* } %>
-
 # Contexte
 
 # Déroulé

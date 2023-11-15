@@ -1,3 +1,11 @@
+
+Voici quelques avantages de l'utilisation des Design Patterns :
+
+- **Réduction de la duplication de code** : Les Design Patterns permettent de réutiliser du code qui a déjà été testé et éprouvé.
+- **Amélioration de la clarté et de la concision** : Les Design Patterns fournissent une solution standard à des problèmes récurrents, ce qui permet de rendre le code plus clair et plus concis.
+- **Amélioration de la maintenabilité** : Les Design Patterns rendent le code plus facile à comprendre et à modifier.
+- **Amélioration de la collaboration** : Les Design Patterns fournissent un langage commun aux développeurs, ce qui facilite la collaboration.
+
 - [https://refactoring.guru/fr](https://refactoring.guru/fr "https://refactoring.guru/fr")  
 - [https://sourcemaking.com/antipatterns](https://sourcemaking.com/antipatterns "https://sourcemaking.com/antipatterns")
 - https://martinfowler.com/eaaCatalog/
