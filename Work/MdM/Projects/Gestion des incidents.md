@@ -1,4 +1,8 @@
-#Project #mdm 
+---
+tags:
+  - mdm
+  - mdm/project
+---
 # TODO
 
 ```tasks
@@ -40,7 +44,7 @@ Difficulté (yohann) : savoir si un humain va traiter les tickets N2/N3
 
 ## [[2023-09-25]]
 
-Réunion avec Bertand sur le sujet "Monitorer les DLQ"
+Réunion avec Bertrand sur le sujet "Monitorer les DLQ"
 
 - [x] Provoquer une réunion avec David MAUMENE ⏫ ✅ 2023-09-27
 	- Sujet du monitoring / observabilité / supervision des DLQ & topic Supply
@@ -63,11 +67,11 @@ Revue de SupportHero, des dashboards et des vues dont on dispose.
 	- [x] Accéder à Grafana
 		- Par LDAP
 
-- [ ] Faire l'état des lieux des notifications STK
+- [x] Faire l'état des lieux des notifications STK
 	- Il y a des notifications qui tombent directement dans Teams
 	  => On ne peut pas les comptabiliser
 	- Quelle est la plusvalue de contourner SupportHero ?
-- [ ] Faire l'état des lieux des notifications TRP
+- [x] Faire l'état des lieux des notifications TRP
 	- Il y a beaucoup de notification par mail
 	  => Quelle est la plusvalue de contourner SupportHero ?
 	- Il y a une sorte d'alerting pour

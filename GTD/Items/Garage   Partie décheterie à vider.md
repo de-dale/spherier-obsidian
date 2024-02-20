@@ -1,3 +1,0 @@
-- [ ] #maison Décider d'une date 
-- [ ] #maison Charger la voiture
-- [ ] #maison Finir de trier les déchets de Noël

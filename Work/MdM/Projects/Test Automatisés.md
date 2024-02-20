@@ -1,3 +1,9 @@
+---
+tags:
+  - mdm
+  - mdm/project
+  - ⏸️pause
+---
 
 # Contexte
 

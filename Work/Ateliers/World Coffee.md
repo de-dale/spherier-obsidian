@@ -26,5 +26,7 @@ Dans le World Café, les participants travaillent pendant 20mn à une problémat
 - Assurez vous que la problématique et les instructions sont très claires pour éviter les pertes de temps 
 - Poussez les groupes à écrire tout au long du processus pour éviter les discussions qui tournent en rond
 
+## 🔗 Ressources
 
-https://github.com/multibao/contributions/blob/master/contributions/world_cafe.md
+- https://github.com/multibao/contributions/blob/master/contributions/world_cafe.md
+- https://www.atelier-collaboratif.com/58-world-cafe.html

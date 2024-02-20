@@ -1,10 +1,10 @@
 🎯 **Objectif** : #🔭Découverte 
-	Connaissez vous les principes [[S.O.L.I.D]] ? Il s'agit de 5 principes de développement logiciel, réputé garantir la qualité des logiciels que nous développons.
+	Connaissez vous les principes [[SOLID]] ? Il s'agit de 5 principes de développement logiciel, réputé garantir la qualité des logiciels que nous développons.
 	Au travers de 5 exercices, découvrons ces 5 principes.
 🕓 **Durée** : #1h🕓 x5
 👥 **Participants** : #👥2-n
 
-Le but de ce Kata, est de faire découvrir une partie de [[S.O.L.I.D]] : 
+Le but de ce Kata, est de faire découvrir une partie de [[SOLID]] : 
 - [[Single Responsibility Principle]] ([[Single Responsibility Principle|SRP]]), 
 - [[Open-Closed Principle]] ([[Open-Closed Principle|OCP]])
 - [[Liskov substitution Principle]] ([[Liskov substitution Principle|LSP]]).  
@@ -15,7 +15,7 @@ Dans cet exercice, on va mettre de coté :
   
 # Introduction du Kata  
   
-Présenter [[S.O.L.I.D]], si ce n’a pas été fait avant.   
+Présenter [[SOLID]], si ce n’a pas été fait avant.   
 Pour avoir le temps d’insister sur [[Open-Closed Principle|OCP]] et [[Liskov substitution Principle|LSP]], c’est plus facile d’avoir fait [[Single Responsibility Principle|SRP]] avant, et de ne pas trop s’attarder dessus.   
 Au vu des promotions précédentes, le [[Single Responsibility Principle|SRP]] s’assimile rapidement.  
   
@@ -132,7 +132,7 @@ Question Par rapport à la division : est-ce qu'on peut utiliser la classe divis
 > 🕓 20-25 mins
 
 - Présentation des UsesCases  
-- Introduction du [[Dependency inversion Principle|DIP]] ([[Dependency inversion Principle]])
+- Introduction du [[Work/Software/Dependency inversion Principle|DIP]] ([[Work/Software/Dependency inversion Principle]])
 - Refactor et échanges
 
 ### Exemples

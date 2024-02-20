@@ -1,13 +1,14 @@
 
-```tasks
-not done
-path includes {{query.file.path}}
-hide due date
-hide priority
+```dataview
+TASK 
+FROM "Work/Shodo" OR #shodo AND -#⏸️pause
+WHERE !completed
+SORT file.name
+GROUP BY file.link
 ```
 # Idées
 
-- [ ] Compléter la docu sur la [[Supervision managériale]]
+- [ ] Compléter la docu sur la [[🔭 Supervision managériale]]
 - [x] Prez clean code 🔽 ✅ 2023-03-14
 	- [[Knowledge Driven Development]] 
 - [x] REX Global Day of Code Retreat ⏫ 📅 2023-03-14 ✅ 2023-04-19

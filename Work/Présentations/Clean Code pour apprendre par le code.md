@@ -1,12 +1,17 @@
-#CleanCode #Talk 
-
-- [[Conférence Clean Code ou Manuel de lecture du code]]
-- [[Knowledge Driven Development]]
-
+---
+tags:
+  - CleanCode
+  - Talk
+  - Brouillon
+relates:
+  - "[[Conférence Clean Code ou Manuel de lecture du code]]"
+  - "[[Knowledge Driven Development]]"
+  - "[[Clean Code]]"
+---
 # Modèle mental 
 
 -> On a tous des modèles mentaux  
--> Conaître ses modèles mentaux permet d'apprendre à se défait de ses préjugés (cf. 5ième Discipline de Peter Senge)  
+-> Connaître ses modèles mentaux permet d'apprendre à se défait de ses préjugés (cf. 5ième Discipline de Peter Senge)  
 -> Ils influencent l'image que nous nous faisons du monde  
 -> Il s'agit des croyances, postulats, hypothèses ou représentation qu'a une personne sur elle même, les autre et le monde  
 -> Un concept, un système ou une manière de voir le monde qui nous aide à comprendre comment les choses fonctionnent  
@@ -57,7 +62,7 @@ Clean Code
   
 Clean Code  
 -> Comment ? => Principes/Tips/Guides  
--> Shu Ha Ri (Connaitre, Maîtriser, dépasser)  
+-> [[Shu Ha Ri]] (Connaitre, Maîtriser, dépasser)  
 -> ne pas être dogmatique car c'est du gatekeeping  
 -> on convain mieux sans buzzwords  
 -> SOLID, Demeter, KiSS, YAGNI, DRY  

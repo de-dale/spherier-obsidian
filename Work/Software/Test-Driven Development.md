@@ -1,3 +1,7 @@
+---
+trello: https://trello.com/c/HIX8C9W1/586-test-driven-d%C3%A9veloppement-tdd-synth%C3%A8se
+---
+
 aka. [[TDD]]
 Le [[Test-Driven Development]] est une pratique de développement qui consiste à écrire les [[Test unitaire|tests unitaires]] avant le code de production, en faisant les étapes les plus petites possibles.
 
@@ -10,11 +14,16 @@ Les 3 règles du TDD
   Interdit d’écrire plus d’un test en échec à la fois
 - **Connaître les limites**
   Interdit d’écrire plus de code que nécessaire, pour faire passer le test en cours.
-  
-[[Software Craftsmanship]]
 
-#TDD
-#ContrainteKata
+# 🔗Ressources
+
+- [Comment faire du TDD ? | Artisan développeur - YouTube](https://www.youtube.com/watch?v=wbZ6jWmRY14)
+- [Test-Driven Development (TDD) par l'exemple, et en français ! | WealCome](https://www.youtube.com/watch?v=nbSaq_ykOl4)
+- Podcast : [Le TDD c’est trop dur avec Michael Azerhad – Artisan Développeu](http://artisandeveloppeur.fr/le-tdd-cest-trop-dur-avec-michael-azerhad/)
+- Blog ippon : [https://blog.ippon.fr/2020/02/12/apprendre-le-tdd/](https://blog.ippon.fr/2020/02/12/apprendre-le-tdd/)
+- Le "manifeste" TDD (en anglais) [https://tddmanifesto.com/getting-started/](https://tddmanifesto.com/getting-started/)
+# Sujets connexes
+[[Software Craftsmanship]]
 [[Contraintes de kata]]
 
 # Nuage de mots
@@ -24,12 +33,12 @@ Red
 Green  
 Refactor  
 Baby-step  
-Transformation Priority Premises  
+[[Robert C. Martin - Transformation Priority Premise]]
 Z.O.M.B.I.E.S  
 TDD As If You Meant It  
 Double-Loop  
 Outside-In/Inside-Out  
-Test Doubles  
+[[Test Doubles]]  
 Mock  
 Stub  
 Fake  
@@ -50,6 +59,6 @@ Tidy Code
 Acceptance TDD  
 Example mapping  
 Behavior-driven development  
-Domain Driven Design
+Domain-Driven Design
 
 

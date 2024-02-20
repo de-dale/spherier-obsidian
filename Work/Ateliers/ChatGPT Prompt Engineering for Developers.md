@@ -1,7 +1,12 @@
-#IA #Formation 
-
-> 🔗 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
-
+---
+ressource:
+  - 🎓 Formation
+trello: https://trello.com/c/b3c3Ny8a/1808-chatgpt-prompt-engineering-for-developers-deeplearningai
+link:
+  - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+tags:
+  - IA
+---
 Formation gratuite
 
 # Notes

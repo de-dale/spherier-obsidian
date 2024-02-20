@@ -1,4 +1,12 @@
-#Atelier 
+---
+ressource:
+  - 🛠️ Atelier
+trello: https://trello.com/c/C0nY2EQB/729-learning-hours-index
+tags:
+  - Atelier
+---
+ 
+
 Pratique proposée par la méthode [[Samman Technical Coaching]], qui consiste à proposer des ateliers court (1h) pour les développeur.euses.
 
 Chaque atelier répond aux caractéristiques suivantes :

@@ -1,4 +1,9 @@
-[[Git]]
+---
+ressource:
+  - 🔧 Pratique
+relates:
+  - "[[Git]]"
+---
 
 Conventional commits/comments: un format standardisé pour écrire ses commits/commentaires de revue
 

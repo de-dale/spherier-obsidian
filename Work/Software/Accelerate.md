@@ -1,3 +1,7 @@
+---
+trello: https://trello.com/c/rbmskc6D/710-accelerate-index
+---
+
 ![[Accelerate-cover.png|300]]
 **Accelerate** est né à la suite de 4 ans de recherche réalisés par N. Forsgren, Gene Kim et Jez Humble.
 
@@ -30,7 +34,7 @@ Un indicateur a été ajouté en 2022 (Operational Performance ) :
 	- Deployment automation
 	- Trunk-based development
 	- Shift left on security
-	- A loosely coupled architecture
+	- A loosely coupled architecture [[Loosely coupled architecture core - DORA]]
 	- Empowering teams to choose tools
 	- Continuous integration (CI)
 	- Continuous testing

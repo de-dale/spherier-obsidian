@@ -1,3 +1,7 @@
+---
+ressource:
+  - 🔧 Pratique
+---
 
 En discutant "[[Trunk-based development]]" et "stratégies de branches sous Git" à l'occasion du "Hello World" du 29 septembre, j'ai découverts le Concept de Ship/Show/Ask. [https://martinfowler.com/articles/ship-show-ask.html](https://martinfowler.com/articles/ship-show-ask.html "https://martinfowler.com/articles/ship-show-ask.html")
 

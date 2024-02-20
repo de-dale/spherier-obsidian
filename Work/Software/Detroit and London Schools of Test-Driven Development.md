@@ -1,8 +1,13 @@
 ---
 ressource: 📰 Article
 link: https://blog.devgenius.io/detroit-and-london-schools-of-test-driven-development-3d2f8dca71e5
+trello: https://trello.com/c/FPiDSMA0/128-detroit-and-london-schools-of-test-driven-development
 ---
 #Ressource/Article📰 
+
+[[London School of TDD]]
+[[Detroit School of TDD (aka. Chicago)]]
+
 # Introduction
 
 **[[Test-Driven Development]] (TDD)** has become one of the core tools in the toolbox of a modern developer. Its practice is often considered as a manifestation of professionalism in software.
@@ -19,11 +24,11 @@ In this post, I will outline the main differences between the two schools of Tes
 
 ![](https://miro.medium.com/v2/resize:fit:354/1*pNvNrtEonSjOa-EObUIGHg.jpeg)
 
-Test-Driven Development originated in the late nineties in Detroit, out of the ashes of the Chrysler Comprehensive Compensation System. Kent Beck, the lead engineer on the project, codified the technique and outlined the practice in **_Test-Driven Development By Example_** book. TDD became an essential best practice in **Extreme Programming (XP)** methodology, which built the foundations of the emerging Agile movement. Specifics of the approach promoted by Beck became recognised as **the Detroit, or the Classicist, School of TDD**. Prominent representatives are also Robert C. Martin (Uncle Bob), Ron Jeffries, and Martin Fowler.
+Test-Driven Development originated in the late nineties in Detroit, out of the ashes of the Chrysler Comprehensive Compensation System. Kent Beck, the lead engineer on the project, codified the technique and outlined the practice in **_Test-Driven Development By Example_** book. TDD became an essential best practice in **Extreme Programming (XP)** methodology, which built the foundations of the emerging Agile movement. Specifics of the approach promoted by Beck became recognised as **the [[Detroit School of TDD (aka. Chicago) | Detroit]], or the Classicist, School of TDD**. Prominent representatives are also Robert C. Martin (Uncle Bob), Ron Jeffries, and Martin Fowler.
 
 ![](https://miro.medium.com/v2/resize:fit:354/1*OtGEdiEE2CmwF_4MTD0yvw.jpeg)
 
-Test-Driven Development quickly gained popularity. London for centuries provided fertile soil for thought-provoking ideas. In the early 2000s, London’s Extreme Tuesday Club (XTC) was formed. It attracted the avant-garde of UK’s TDD/XP practitioners and provided a great community to share experiences, techniques, and ideas. It helped Steve Freeman and Nat Pryce to distil their vision of TDD which resulted in publishing **_Growing Object-Oriented Software Guided By Test_**. Next to Kent Beck’s book, it quickly became the second most important publication on Test-Driven Development. The style promoted in the book is known as **the London School of TDD**, sometimes labelled as **the Mockist**. It codifies and clarifies the technique of mock objects, not widely known before.
+Test-Driven Development quickly gained popularity. London for centuries provided fertile soil for thought-provoking ideas. In the early 2000s, London’s Extreme Tuesday Club (XTC) was formed. It attracted the avant-garde of UK’s TDD/XP practitioners and provided a great community to share experiences, techniques, and ideas. It helped Steve Freeman and Nat Pryce to distil their vision of TDD which resulted in publishing **_Growing Object-Oriented Software Guided By Test_**. Next to Kent Beck’s book, it quickly became the second most important publication on Test-Driven Development. The style promoted in the book is known as **the [[London School of TDD]]**, sometimes labelled as **the Mockist**. It codifies and clarifies the technique of mock objects, not widely known before.
 
 # Two paths to enlightenment
 
@@ -109,9 +114,9 @@ _Test after test your system is getting more complicated, slipping out of your c
 
 For many, using mocks has become synonymous with Test-Driven Development. I’ve even seen job ads where a candidate was required to demonstrate her fluency of TDD using mock frameworks. Perhaps the popularity comes from the fact that the style is easier to start with: you don’t have to build up the context that much, layers are easier to work on, there’s less team contention, and plenty of mock libraries available to use. While the idea of mock objects is great, it’s a tool much prone to misuse. Many accusations come to the London School of TDD of being heavily mock driven and having a bad influence on system design. This couldn’t be farther from the truth. The London school embraces the benefits of mocking while defining the best practices so the application won’t suffer from over-mocking. When committing to mocks it’s worth keeping in mind a few key points:
 
-# The heavily mocked test is not its final state
+# ==The heavily mocked test is not its final state
 
-Use mocks for discovery, for deferring writing all the prod code in one go. Once you’ve got it all sorted, review if mocks are still serving the purpose, or just tying your tests to the implementation. Some mocks will be useful, get rid of the rest.
+==Use mocks for discovery, for deferring writing all the prod code in one go. Once you’ve got it all sorted, review if mocks are still serving the purpose, or just tying your tests to the implementation. Some mocks will be useful, get rid of the rest.
 
 # Use mocks for awkward collaboration
 

@@ -1,7 +1,7 @@
 Renouveau du projet
 
 # Le Sphérier
-r
+
 Le Sphérier est un système de jeu de rôle.
 Ses règles se veulent les plus simples possible, afin de pouvoir être découpées, et tenir sur une **Carte** à jouer.  
 

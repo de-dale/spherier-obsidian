@@ -31,7 +31,7 @@ Un outil pour communiquer et apprendre en équipe.
 -   donner les éléments permettant d'être autonome pour animer l’atelier
 -   donner les éléments permettant d'être autonome pour exploiter le résultat de l’atelier
 
-**Comment** : faire vivre un [[Work/Ateliers/Event Storming]]
+**Comment** : faire vivre un [[EventStorming]]
 
 #### Un exemple “fonctionnel”
 

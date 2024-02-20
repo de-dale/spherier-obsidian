@@ -1,3 +1,11 @@
+---
+tags:
+  - OOP
+relates:
+  - "[[Modéliser]]"
+  - "[[Programmation Orientée Objet]]"
+---
+
 En [[Programmation Orientée Objet]], on parle souvent d'**abstraction.**
 
 >In computer science terms, abstraction means separating ideas from their actual implementation.
@@ -13,7 +21,5 @@ Il s'agit d'un mécanisme, ou une pratique, servant à réduire le code d'un niv
 En suivant ce processus d'abstraction, le développeur masque toutes les informations non pertinentes d'un objet à des fins de simplification et d'efficacité.
 
 [[Couplage]]
-
-#OOP
 
 Voir aussi [[Modéliser]]

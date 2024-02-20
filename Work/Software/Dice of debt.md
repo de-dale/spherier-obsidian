@@ -1,5 +1,13 @@
-#SeriousGame #1h🕓 #👥3-n 
-#TechnicalDebt #🌶️Débutant  ^a9d08e
+---
+ressource:
+  - 🧩 Serious Game
+⌛ durée: 🕓1h
+👥 max: 3-n
+niveau: 🌶️Débutant
+trello: https://trello.com/c/KQ4fOwOc/612-dice-of-debt-jeu-de-d%C3%A9-sur-dette-technique
+relates:
+  - "[[Dette technique]]"
+---
 ## Pitch
 
 > Dans ce jeu, vous êtes une équipe de développement de logiciels travaillant sur un projet qui durera 10 sprints. Votre travail consiste à créer la plus grande quantité de nouvelle valeur logicielle d'ici la fin du projet.

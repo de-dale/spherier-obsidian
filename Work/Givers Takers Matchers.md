@@ -1,4 +1,4 @@
-Dans les [[Communauté de pratique]], on distingue 3 typologies de participants
+Dans les [[Communauté de Pratiques]], on distingue 3 typologies de participants
 
 ![[cop-givers-takers-matchers.png]]
 

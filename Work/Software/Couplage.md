@@ -9,6 +9,8 @@ Un composant fortement couplé avec son environnement est plus difficilement mod
 - **Couplage fort** : Le couplage fort existe lorsque deux modules sont fortement liés l'un à l'autre. Cela signifie que le changement d'un module peut avoir un impact important sur l'autre module.
 - **Couplage faible** : Le couplage faible existe lorsque deux modules sont faiblement liés l'un à l'autre. Cela signifie que le changement d'un module a peu ou pas d'impact sur l'autre module.
 
+[[Couplage indirect]]
+
 [[Cohésion]]
 [[Cohésion vs. Couplage]]
 [[Équation du couplage]]

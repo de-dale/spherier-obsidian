@@ -1,3 +1,15 @@
+
+# Liste des ateliers
+> Board trello "Ateliers" : https://trello.com/b/ZrkNXw4o/ateliers
+
+Atelier dans mes notes Obsidian :
+```dataview
+list 
+WHERE contains(file.tags, "Atelier") 
+OR contains(file.tags, "SeriousGame")
+OR contains(ressource, "🛠️ Atelier")
+SORT file.name
+```
 # Synopses
 
 > Note : il faudrait réussir à dissocier le fond du format. Parfoirs, découvrir le format **est** le but de l'atelier, mais ce n'est  pas systématique, et je pourrait améliorer cette liste.
@@ -16,7 +28,7 @@
 🕓 **Durée** : #2h🕓 
 👥 **Participants** : #👥3-n 
 
-## [[Work/Ateliers/Event Storming]]
+## [[EventStorming]]
 
 🎯 **Objectif** : #🌶️Débutant #🛠️Produire 
 	Modéliser votre domaine métier par échange entre toutes les parties prenantes afin de partager une même compréhension du métier.
@@ -38,7 +50,7 @@
 👥 **Participants** : #👥3-n 
 
 
-## Sensibiliser aux tests unitaires
+## [[Sensibiliser aux tests unitaires]]
 
 🎯 **Objectif** : #🔭Découverte #🌶️Débutant #🪓Démystifier 
 	Parfois, les tests unitaires sont mis de côtés pour des raisons de temps et/ou de budget. Dans ce Serious Game, nous allons construire une application, sans tests unitaires, puis avec, pour comprendre leur valeur ajoutée.
@@ -51,7 +63,7 @@
 🎯 **Objectif** : #🔭Découverte #🌶️Débutant #🪓Démystifier 
 	Le TDD ([[Test-Driven Development]]) est une pratique de développement en informatique issue des pratiques de l'eXtrem Programming. 
 	Mais pourquoi est-ce que l'on travaillerait comme ça ?
-	Dans cet atelier, nous manipulerons les bénéfices de l'approche, au travers d'un support physique : le Triangle du Développement.
+	Dans cet atelier, nous manipulerons les bénéfices de l'approche, au travers d'un support physique : le [[Triangle du Développement]].
 🕓 **Durée** : #1h🕓 
 👥 **Participants** : #👥5-12
 
@@ -78,7 +90,7 @@
 🕓 **Durée** : #1h🕓 
 👥 **Participants** : #👥5-12
 
-## eXTrem Hour
+## [[Extreme Hour]]
 
 🎯 **Objectif** : #🔭Découverte #🌶️Débutant #🪓Démystifier 
 	Sur un exercice très simple, découvrez les 12 principes de l'eXtrem Programming en les pratiquant. 
@@ -87,7 +99,7 @@
 
 http://wiki.c2.com/?ExtremeHour
 
-## Xtrem Reading
+## [[Xtrem Reading]]
 
 🎯 **Objectif** : #🔭Découverte #🌶️Débutant #🪓Démystifier 
 	Vous avez des livres qui prennent la poussière ? 
@@ -97,14 +109,14 @@ http://wiki.c2.com/?ExtremeHour
 🕓 **Durée** : #1h🕓 
 👥 **Participants** : #👥5-12
 
-## Xtrem Watching
+## [[Xtrem Watching]]
 
 🎯 **Objectif** : #🔭Découverte #🌶️Débutant #🪓Démystifier 
 	Découvrez une conférence en groupe et échangez, pour partager les apprentissages et votre compréhension croisée du sujet.
 🕓 **Durée** : #1h🕓 
 👥 **Participants** : #👥5-12
 
-## Xtrem Tech Watch
+## [[Xtrem Tech Watch]]
 
 🎯 **Objectif** : #🔭Découverte #🌶️Débutant #🪓Démystifier 
 	Comment organiser notre veille d'équipe pour être plus efficace ? 
@@ -112,7 +124,7 @@ http://wiki.c2.com/?ExtremeHour
 🕓 **Durée** : #1h🕓 
 👥 **Participants** : #👥5-12
 
-## Craft Challenge
+## [[Craft Challenges]]
 
 🎯 **Objectif** : #🛠️Produire 
 	S'approprier des pratiques issues du [[Software Craftsmanship]] en les appliquant dans un contexte gamifié.
@@ -165,7 +177,7 @@ https://coach-agile.com/wp-content/uploads/2021/02/ACCELERATE-Livret-animation-V
 ## [[Another Brick in the Wall - Découvrir SOLID]]
 
 🎯 **Objectif** : #🔭Découverte 
-	Connaissez vous les principes [[S.O.L.I.D]] ? Il s'agit de 5 principes de développement logiciel, réputé garantir la qualité des logiciels que nous développons.
+	Connaissez vous les principes [[SOLID]] ? Il s'agit de 5 principes de développement logiciel, réputé garantir la qualité des logiciels que nous développons.
 	Au travers de 5 exercices, découvrons ces 5 principes.
 🕓 **Durée** : #1h🕓 x5
 👥 **Participants** : #👥2-n
@@ -173,13 +185,3 @@ https://coach-agile.com/wp-content/uploads/2021/02/ACCELERATE-Livret-animation-V
 ## Clean Code
 
 ## Coding Dojo
-
-# Liste des ateliers
-> Board trello "Ateliers" : https://trello.com/b/ZrkNXw4o/ateliers
-
-Liste des notes Obsidian :
-```dataview
-list 
-FROM #Atelier OR #SeriousGame 
-SORT file.name
-```

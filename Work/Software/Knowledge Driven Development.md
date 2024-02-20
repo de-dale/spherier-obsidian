@@ -13,7 +13,7 @@ Ca part du constat qu'il y a trois questions essentielles au métier de dévelop
 
 #TODO Illustrer le [[Knowledge Driven Development]] sur les différentes pratiques du Crafts
 - [[Test-Driven Development]] #TDD : on ne peut pas avancer si on ne sait pas quoi tester
-- [[Domain Driven Design]] #DDD : knowledge crushing
+- [[Domain-Driven Design]] #DDD : knowledge crushing
 
 # Knowledge
 ![[Knowledge]]
@@ -33,12 +33,13 @@ Soit on apprend, soit on automatise
 Le [[Domaine]] est le coeur de métier autour de la connaissance.
 
 ## Knowledge Acquisition
-> Knowledge Acquisition
- => Comes last at SCRUM
- => Comes after technical motivation
- is real business differentiator
-#Vaun-Vernon
 
-[[Knowledge Management]]
+> Knowledge Acquisition
+ > => Comes last at SCRUM
+ > => Comes after technical motivation
+ > is real business differentiator
+> #Vaun-Vernon
+
+[[Knowledge Management for Software Developers]]
 
 #Knowledge 

@@ -14,8 +14,7 @@ Designs Patterns du "GoF"
 
 -   "Le site" de référence aujourd'hui (qui paraphrase superficiellement le livre de référence)  
     [https://refactoring.guru/fr/design-patterns](https://refactoring.guru/fr/design-patterns "https://refactoring.guru/fr/design-patterns")
--   Un site un peu vieux, qui présente tous les concepts avec des exemples  
-    [http://www.vincehuston.org/dp/](http://www.vincehuston.org/dp/ "http://www.vincehuston.org/dp/")
+-   [[Vince Huston - Desing Patterns]]
 -   Un tuto Java gratuit  
     [https://www.udemy.com/course/java-design-patterns-tutorial/](https://www.udemy.com/course/java-design-patterns-tutorial/ "https://www.udemy.com/course/java-design-patterns-tutorial/")
 -   Une keynote en anglais de la personne à l'origine du concept de Design Patterns  

@@ -1,4 +1,7 @@
-#IA
+---
+tags:
+  - IA
+---
 # Je suis nul en IA - Par où commencer ?
 
 ## Bootstrap 
@@ -14,6 +17,6 @@
 
 
 ## J'en n'ai pas besoin : comment je trouve des trucs où j'ai besoin  ?
-[[ChatGPT Prompt Engineering for Developers]]
 
-https://trello.com/c/b3c3Ny8a/1808-chatgpt-prompt-engineering-for-developers-deeplearningai
+- [[ChatGPT Prompt Engineering for Developers]]
+- [[Learn Prompting - Your Guide to Communicating with AI]]

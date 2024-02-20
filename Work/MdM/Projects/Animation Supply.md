@@ -1,3 +1,8 @@
+---
+tags:
+  - mdm
+  - mdm/supply
+---
 # TRP
 
 - [x] Réalisation Ticket TRP

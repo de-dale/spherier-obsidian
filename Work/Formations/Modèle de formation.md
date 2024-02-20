@@ -1,27 +1,72 @@
-# Intitulé de la formation
-
+---
+titre: Intitulé de la formation
+⌛ durée: 🗓️ 3j
+🧑‍🏫 format:
+  - Présentiel
+  - Distanciel
+  - Hybride
+  - Hands-on, 
+  - E-learning
+  - Blended
+🎓 pédagogie: 30% théorique, 70% pratique
+👥 max: 
+Inter (HT/pers): 
+Intra (HT): 
+📚 thématiques:
+---
 # Format
 
-_<Durée, Présentiel, Distanciel, Hybride, Hands-on, e-learning, blended>_
-# Description
+> **Format**  
+> Format: Hand's on, Présentation, Autre  
+> ⌛Durée
+> 👥 Taille du groupe
 
-> Introduction
-> => (éléments de contexte sur la formation, objectif pédagogique, projections sur l'application dans l'opérationnel…)
+_<Durée, Présentiel, Distanciel, Hybride, Hands-on, e-learning, blended>_
+# Description / A propos de la formation
+
+> **Introduction**
+> => éléments de contexte sur la formation, objectif pédagogique, projections sur l'application dans l'opérationnel…
+
+> **Thématique / Notions abordées / Contenu**  
+> Définir les objectifs et la progression pédagogique: l’enchaînement des étapes entre elles  
+> Cerner le contenu et le construire en modules, avec les objectifs par module,  
+> Choisir les moyens et méthodes, ainsi que la progression pédagogique (penser le temps et les rythmes de formation, l’alternance théorie / pratique, le rythme de progression des stagiaires)  
+> Préparer les supports, qui contiennent les messages-clef: ce que le stagiaire doit retenir, et les moyens de faciliter la mémorisation, documents, cassettes vidéo, transparents, etc...,  
+> Structurer le “scénario pédagogique”, organiser le temps, et “répéter” si possible  
+> Préparer l’évaluation: ce que j’évalue, et comment
 
 _<À quelles problématiques répond cette formation ?>_
-
 _<Qu’est-ce qui sera abordé lors de la formation ?>_
 
 # Objectifs
 
-> Compétences cibles :
+> **Compétences cibles**
 > => De quoi doit être capable le stagiaires, à l'issue d'une séquence d'apprentissage
+
+> **Objectif de la Formation**  
+> Ce que le stagiaire devra savoir faire à la fin de la formation, de manière observable  
+> Ce qu’il devra pouvoir connaître ou comprendre  
+> Utiliser des verbes dont le sujet est « le stagiaire » et non le formateur  
+> Définir les conditions :  
+> Situations courantes / situations exceptionnelles  
+> Échéances, urgences, …
+
+> **Exemple**
+> Développer des réflexes de découverte et d'analyse de code  
+> Améliorer la collaboration intra-équipe  
+> Maîtriser les concepts liés au Clean Code / Testing  
+> Test-Driven Development "pour de vrai"  
+> Refactorer et améliorer du code complexe  
+> Combattre la dette technique  
+> Maîtriser la Clean Architecture  
+> Découvrir la programmation fonctionnelle
 
 _<Ce que les personnes formées seront faire à la fin de la formation>_
 
-# Programme
+# Programme / Contenu de la formation
 
 _\<Programme grosse maille de la formation ou lien vers le plan de cours>_
+_\<Cette section permet également de détailler et travailler les différents modules de la formation>_
 
 Exemple : 
 
@@ -45,11 +90,26 @@ Cette formation dure 3 jours et s’articule selon le programme suivant :
 | 16h30 - 17h30 | Les Patterns Tactiques                                      |                                                            |                                   |
 # À qui est destiné cette formation ?
 
+> **Public / Cible**  
+> Caractéristiques : expérience, formation, âge, sexe, …  
+> Niveau actuel de compétences ou de capacités  
+> Effectifs à former  
+> Composition éventuelle des groupes (par niveau / service / …)
+
 _\<Lister les personae>_
 
+**📌 Développeur-ses**
+désireux de s’améliorer dans leur manière de concevoir et délivrer du logiciel de qualité
+
+**📌 Tech Leads**
+cherchant des moyens d’accompagner et transmettre les pratiques craft au sein de leurs équipes 
+
+**📌 Architectes**
+souhaitant accompagner davantage les développeur-ses sur la voie de l’architecture évolutive
 # Prérequis
 
-> (préciser si souhaité et/ou obligatoire) Connaissance d'un logiciel, installation en amont de la formation, création de compte…
+> (préciser si souhaité et/ou obligatoire)
+> Connaissance d'un logiciel, installation en amont de la formation, création de compte…
 
 ## Compétences requises
 
@@ -59,6 +119,16 @@ _\<Ressources à avoir consulté au préalables de la formation>_
 ## Matériel requis
 
 _\<Prérequis matériel et/ou logiciels>_
+
+
+# Evaluation
+
+> **Indicateurs de résultat**  
+> Définir précisément le résultat attendu, les critères de mesure, et le niveau de performance, sachant que la formation nécessite une certaine pratique pour l’atteindre (indicateurs quantitatifs : quantités, effectifs, taux, délais)
+
+# Inspiration / references / notes
+
+> Sources  et bibliographie
 
 # Aller plus loin
 

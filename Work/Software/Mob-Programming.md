@@ -1,3 +1,9 @@
+---
+trello: https://trello.com/c/eVQhaRUq/75-mobprogramming-index
+ressource:
+  - 🔧 Pratique
+---
+
 #software/skills 
 
 Le Mob-Programming est une approche collaborative de développement logiciel, où l'équipe entière travaille ensemble, en même temps sur la même code base.
@@ -55,11 +61,11 @@ https://www.infoq.com/news/2018/03/mob-programming-perspectives/
 #### Why mob programming is hard
 
 
-#### Mob Programming - Je ne travaillerait plus jamais seul
+#### Notes d'acoute : "Mob Programming - Je ne travaillerait plus jamais seul"
 
 ![[Mob Programming - Je ne travaillerait plus jamais seul.jpg.png]]
 
-## Ressources
+## 🔗Ressources
 
 - Mob Gaming https://bastien-david.medium.com/mob-gaming-707122576227
 - https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/blob/master/MobProgrammingFacilitorsGuide_English.md

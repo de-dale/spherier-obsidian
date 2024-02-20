@@ -1,5 +1,5 @@
 [[Test-Driven Development]]
 
 
-[[Clean Code]] lk,lkdsnds, [[Transformation Priority Premice]]
+[[Clean Code]] lk,lkdsnds, [[Robert C. Martin - Transformation Priority Premise]]
 #TDD
