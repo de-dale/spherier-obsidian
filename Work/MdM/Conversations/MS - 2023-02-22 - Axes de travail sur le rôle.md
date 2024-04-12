@@ -1,7 +1,7 @@
 Date : [[2023-02-22]]
 Personne: [[Michael SABRI]]
 
-![[Axes de travail sur le rôle]]
+![[Work/MdM/Conversations/Axes de travail sur le rôle]]
 # Déroulé
 
 ## Auto évaluation des rôles actuellement endossés au quotidien

@@ -1,7 +1,7 @@
  Date : [[2023-02-23]]
 Personne: [[Maxime CHANTEAU]]
 
-![[Axes de travail sur le rôle]]
+![[Work/MdM/Conversations/Axes de travail sur le rôle]]
 # Déroulé
 
 ## Auto évaluation des rôles actuellement endossés au quotidien

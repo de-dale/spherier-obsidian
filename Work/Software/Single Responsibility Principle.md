@@ -1,3 +1,13 @@
+---
+ressource:
+  - 🧠 Concept
+aliases:
+  - SRP
+relates:
+  - "[[SOLID]]"
+---
+
+
 Le [[Single Responsibility Principle]] est un des principes [[SOLID]] les plus connus.
 
 > A class should have one and only one reason to change, meaning that a class should have only one job.  

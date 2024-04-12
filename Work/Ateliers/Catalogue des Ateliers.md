@@ -1,4 +1,3 @@
-
 # Liste des ateliers
 > Board trello "Ateliers" : https://trello.com/b/ZrkNXw4o/ateliers
 
@@ -10,6 +9,10 @@ OR contains(file.tags, "SeriousGame")
 OR contains(ressource, "🛠️ Atelier")
 SORT file.name
 ```
+
+# Niveau des ateliers
+
+[[Niveau des ateliers]]
 # Synopses
 
 > Note : il faudrait réussir à dissocier le fond du format. Parfoirs, découvrir le format **est** le but de l'atelier, mais ce n'est  pas systématique, et je pourrait améliorer cette liste.

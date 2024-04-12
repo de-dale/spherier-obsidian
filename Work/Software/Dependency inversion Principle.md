@@ -1,3 +1,11 @@
+---
+ressource:
+  - 🧠 Concept
+aliases:
+  - DIP
+relates:
+  - "[[SOLID]]"
+---
 Principe [[SOLID]]
 
 Entities must depend on abstractions not on concretions.  

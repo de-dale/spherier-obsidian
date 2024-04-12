@@ -1,4 +1,12 @@
-#CleanCode
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Software Craftsmanship]]"
+  - "[[Code Legacy]]"
+tags:
+  - 🫧CleanCode
+---
 Le Clean Code est l'ensemble des convention de l'équipe permettant de définir un standard de code.
 
 **Ma définition :**
@@ -14,9 +22,6 @@ De moi :
 
 
 Voir aussi son pendant : le [[Code Legacy]]
-
-
-[[Software Craftsmanship]]
 
 ### Serious Game
 [[Clean Code Game]] est un serious game permettant de faire découvrir le [[Clean Code]], et de discuter en équipe sur les pratiques qui sont importantes pour nous.

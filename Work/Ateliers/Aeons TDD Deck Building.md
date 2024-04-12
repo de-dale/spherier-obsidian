@@ -1,9 +1,11 @@
 ---
 ressource:
   - 🧩 Serious Game
-author: "[[Fabien HIEGEL]]"
+author:
+  - "[[Fabien HIEGEL]]"
 tags:
   - SeriousGame
+  - 🚧wip
 ---
 Jeu provenant d'une discussion avec [[David FRANCK]] sur le jeu TDD "les règles du jeu sont plus difficiles que les règles du TDD"
 

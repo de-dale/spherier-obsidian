@@ -1,7 +1,9 @@
 ---
 ressource:
   - 🛠️ Atelier
-trello: https://trello.com/c/BnRM5OgF/113-event-storming
+trello:
+  - https://trello.com/c/BnRM5OgF/113-event-storming
+  - https://trello.com/c/4BJTlugI/579-event-storming-index
 author:
   - "[[Alberto Brandolini]]"
 ---
@@ -25,6 +27,9 @@ Modéliser le fluc métier  vs le transformer
 ![[event-storming-picture-that-explains-everything.png]]
 [[Work/Ateliers/Event Storming/Aggregate|Aggregate]]
 [[Policy]]
+
+- Carrés oranges 🟧 (ou jaunes 🟨), bleus 🟦, rouges 🟥, verts 🟩.  
+- Rectangulaires jaunes 🟨, verts 🟩, violets 🟪, bleus 🟦.
 
 ### 🔗 Ressources 
 

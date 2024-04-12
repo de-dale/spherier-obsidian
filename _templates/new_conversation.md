@@ -1,17 +1,17 @@
 ---
-<%* const people = {  
-  "Adeline": {  
-    "name": "Adeline AVRIL",  
-    "acronym": "AA"  
+<%* const people = {
+  "Christelle": {  
+    "name": "Christelle BARADÉ",  
+    "acronym": "CB"  
   },
   "Benoît": {  
     "name": "Benoît GIUSEPPIN",  
     "acronym": "BG"  
   },
-  "Franck": {  
-    "name": "Franck GUISNE",  
-    "acronym": "FG"
-  }, 
+  "Florian": {  
+    "name": "Florian LEFEUVRE",  
+    "acronym": "FL"  
+  },
   "Maxime": {  
     "name": "Maxime CHANTEAU",  
     "acronym": "MxC"  

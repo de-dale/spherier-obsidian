@@ -7,6 +7,7 @@ link:
   - https://mixitconf.org/2019/learning-how-to-learn
 trello: 
 relates:
-  - Apprendre
+  - "[[Apprendre]]"
   - "[[Apprendre à Apprendre (Formation)]]"
+  - "[[Lear"
 ---

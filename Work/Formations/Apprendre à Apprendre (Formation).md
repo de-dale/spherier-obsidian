@@ -11,7 +11,7 @@ relates:
 > En tant que développeur en informatique, on nous demande régulièrement si nous pratiquons une veille technologique.  
 > Dans cette formation et en utilisant le prétexte de la veille technologique, nous explorerons quelques outils que nous pouvons mettre en place au quotidien, pour apprendre ensemble, en continu.
 
-> Qu'est ce que "Apprendre" ? Est ce quelque chose que vous faites régulièrement ? Ponctuellement ? Seul ou en groupe ? Plutôt que de revenir sur les mécanismes du cerveau, regardons les choses simples que nous pouvons mettre en place au quotidient, pour émuler, ensemble, la culture d'une "organisation apprenantre".
+> Qu'est ce que "Apprendre" ? Est ce quelque chose que vous faites régulièrement ? Ponctuellement ? Seul ou en groupe ? Plutôt que de revenir sur les mécanismes du cerveau, regardons les choses simples que nous pouvons mettre en place au quotidien, pour émuler, ensemble, la culture d'une "organisation apprenante".
 # Approche oui.sncf
 
 En tant que développeur,  
@@ -28,8 +28,8 @@ Dans l'objectif, plus tard, de partager mes trouvailles de veille pertinente
 
 Je me suis approprié une méthodologie de veille, et les outils qui me sont adaptés.
 Je sais organiser ma veille
-Je sais alimenter mon espace documentaire.
-Je suis capable d'identifier la source de mes informations, et de la classer par domaine / thème.
+Je sais alimenter mon espace documentaire / mon système de gestion de connaissances.
+Je suis capable d'identifier la source de mes informations, et de la classer par domaine / thème / pertinence
 Je suis capable de sélectionner ce qui me semble pertinent.
 Je suis capable de synthétiser ce que je récolte en veille.
 Je suis capable d'archiver un élément de veille.
@@ -41,7 +41,7 @@ Je suis capable de mettre en application mes nouvelles connaissances.
 Une instance de partage des résultats de veille technologique
 
 # Déroulé
-De quoi va-ton parler ? C'est quoi la veille ?
+De quoi va-t-on parler ? C'est quoi la veille ?
 Apprendre ; qu'est ce que c'est ?
 
 > La seule chose pire que de former un employé et de le laisser partir, est de ne pas le former et qu'il reste.

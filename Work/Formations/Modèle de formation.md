@@ -1,15 +1,17 @@
 ---
+ressource:
+  - 🎓 Formation
 titre: Intitulé de la formation
 ⌛ durée: 🗓️ 3j
 🧑‍🏫 format:
   - Présentiel
   - Distanciel
   - Hybride
-  - Hands-on, 
+  - Hands-on,
   - E-learning
   - Blended
 🎓 pédagogie: 30% théorique, 70% pratique
-👥 max: 
+👥 Participants: 
 Inter (HT/pers): 
 Intra (HT): 
 📚 thématiques:
@@ -106,6 +108,8 @@ cherchant des moyens d’accompagner et transmettre les pratiques craft au sein 
 
 **📌 Architectes**
 souhaitant accompagner davantage les développeur-ses sur la voie de l’architecture évolutive
+
+**📌 Managers**
 # Prérequis
 
 > (préciser si souhaité et/ou obligatoire)
@@ -136,3 +140,47 @@ _\<Prérequis matériel et/ou logiciels>_
 	- Proposer des prérequis avant la première session, comme des vidéos sur le "mouvement" que l'on va apprendre à pratiquer
 	- L'idée est de maximiser la valeur ajoutée du temps passé en présence du formateur
 	- Repenser aux "**path**" que j'ai vu avec Learning 360 chez Oui.sncf
+
+
+
+# Créer sa formation
+
+Tu aimerais construire une formation et la publier dans notre catalogue ? Tu trouveras ici les guidelines pour créer ta formation. Certaines d’entre elles pourront te paraître très procédurales mais elles sont obligatoires pour maintenir notre certification [Qualiopi](https://travail-emploi.gouv.fr/formation-professionnelle/acteurs-cadre-et-qualite-de-la-formation-professionnelle/article/qualiopi-marque-de-certification-qualite-des-prestataires-de-formation).
+
+# Comment créer une nouvelle formation ?
+
+## 1. Rédiger le syllabus de formation
+
+Depuis le modèle ci-dessus.
+
+## 2. Rédiger une évaluation des compétences acquises
+
+Cette évaluation servira à mesurer les compétences (théoriques et/ou pratiques) acquises grâce la formation.
+
+Il peut s’agir d’une combinaison d’activités parmi la liste suivante: quizz, QCM, exercices, mise en situation, tests.
+
+Mentionner l’existence et la nature de cette évaluation dans la fiche de formation.
+
+Prévoir également une évaluation équivalente qui sera proposée avant la formation, pour que les participant·e·s puissent mesurer leurs progrès avant/après la formation.
+
+## 3. Rédiger une évaluation des pré-requis
+
+Si votre formation s’appuie sur des pré-requis, prévoir également un test d’évaluation pour valider ces pré-requis chez toutes personnes qui souhaitent s’inscrire.
+
+Il peut s’agir d’une combinaison d’activités parmi la liste suivante: quizz, QCM, exercices, mise en situation, tests.
+
+Mentionner l’existence et la nature de cette évaluation dans la fiche de formation.
+
+## 4. Publier sur un catalogue public de formations
+
+Pour être conforme avec les exigences de Qualiopi, chaque page de formation publiée doit inclure les éléments suivants:
+
+- Pré-requis
+- Objectifs
+- Durée
+- Modalités et délais d'accès
+- Tarifs
+- Contacts
+- Méthodes mobilisées
+- Modalités d'évaluation
+- Accessibilité aux personnes handicapées

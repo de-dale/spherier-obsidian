@@ -1,4 +1,14 @@
-#Atelier
+---
+ressource:
+  - 🛠️ Atelier
+🕓 Durée: 🕓20mins
+👥 Participants: 
+link: 
+trello:
+  - https://trello.com/c/usWpXTOH/694-example-mapping-index
+relates:
+---
+
 
 -   Ne doit pas dépasser **20 min**
 -   Se fait avec toutes les **parties prenantes**  
@@ -13,7 +23,7 @@
 
 Atelier pratique du [[Behavior-Driven Development]]
 
-## Ressources
+## 🔗 Ressources
 
 Atelier de découverte
 [[Découvrez l'Example Mapping]]

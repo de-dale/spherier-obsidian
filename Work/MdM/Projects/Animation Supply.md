@@ -14,6 +14,8 @@ tags:
 - [x] Planifier Conversation Maxime
 - [x] Planifier Conversation Benoit
 - [x] Planifier Conversation Michael
+- [ ] Axes de priorisation du Legacy
+      - [[Axes de priorisation du Legacy]]
 
 ## Clarification du rôle de Lead Dev
 

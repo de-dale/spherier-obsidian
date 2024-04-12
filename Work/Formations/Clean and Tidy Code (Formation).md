@@ -4,7 +4,7 @@ titre: "Conception logicielle avancée : Clean & Tidy Code"
 🧑‍🏫 format:
   - Présentiel
 🎓 pédagogie: 30% théorique, 70% pratique
-👥 max: "8"
+👥 Participants: "8"
 Inter (HT/pers): 
 Intra (HT): 
 📚 thématiques:
@@ -45,26 +45,26 @@ _<Ce que les personnes formées seront faire à la fin de la formation>_
 _\<Programme grosse maille de la formation ou lien vers le plan de cours>_
 _\<Cette section permet également de détailler et travailler les différents modules de la formation>_
 
-| Horaire | Jour 1 | Jour 2 |
-| ---- | ---- | ---- |
-| 9h00 - 9h30 | 👋 Acceuil <br>& Petit déjeuner 🥐 | 👋 Acceuil <br>& Petit déjeuner 🥐 |
-| 9h30 - 10h00 | Lancement de la journée | Théorie: SOLID & Design Patterns |
-| 10h00 - 10h30 | Atelier : On-boarding avec une matrice de connaissance | Exercice : RPN |
-| 10h30 - 11h00 |  | Exercice : RPN |
-| 11h00 - 11h30 | Clean Code : Théorie | Théorie: SOLID & Design Patterns |
-| 11h30 - 12h00 | Clean Code : Théorie | Exercice : RPN |
-| 12h00 - 12h30 | Clean Code: Exercie ce Nommage avec [[Nommer avec le 3-Step-Model]] | Exercice : RPN |
-| 12h30 - 13h00 | **🍕 Repas 🍽️** | **🍕 Repas 🍽️** |
-| 13h00 - 13h30 | **🍕 Repas 🍽️** | **🍕 Repas 🍽️** |
-| 13h30 - 14h00 | **🍕 Repas 🍽️** | **🍕 Repas 🍽️** |
-| 14h00 - 14h30 | Théorie: Documenter vs. Commenter son code | Conception Logicielle; Couplage/Cohésion et organisation du code |
-| 14h30 - 15h00 | Framework [[Diátaxis]] | Architecture Hexagonale |
-| 15h00 - 15h30 | Git et les Conventional Commits | Exercice: |
-| 15h30 - 16h00 | Exercice: Modéliser == documenter | Exercice: |
-| 16h00 - 16h30 | Entretenir son code, mais pas uniquement (Tidying) | Off-Boarding sur la matrice de connaissance |
-| 16h30 - 17h00 | Exercice: Tidying | Rétro et Bilan |
-| 17h00 - 17h30 | Bilan de la journée | Rétro et Bilan |
-| 17h30 - 18h00 |  |  |
+| Horaire       | Jour 1                                                                                                  | Jour 2                                                           | Jour 3 ?                           |
+| ------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------- |
+| 9h00 - 9h30   | 👋 Accueil <br>& Petit déjeuner 🥐                                                                      | 👋 Accueil <br>& Petit déjeuner 🥐                               | 👋 Accueil <br>& Petit déjeuner 🥐 |
+| 9h30 - 10h00  | Lancement de la journée                                                                                 | Théorie: SOLID & Design Patterns                                 |                                    |
+| 10h00 - 10h30 | Atelier : On-boarding avec une matrice de connaissance                                                  | Exercice : RPN                                                   |                                    |
+| 10h30 - 11h00 |                                                                                                         | Exercice : RPN                                                   |                                    |
+| 11h00 - 11h30 | Clean Code : Théorie                                                                                    | Théorie: SOLID & Design Patterns                                 |                                    |
+| 11h30 - 12h00 | Clean Code : Théorie                                                                                    | Exercice : RPN                                                   |                                    |
+| 12h00 - 12h30 | Clean Code: Exercie ce Nommage avec [[Nommer avec le 3-Step-Model]]                                     | Exercice : RPN                                                   | Sparrow Deck                       |
+| 12h30 - 13h00 | **🍕 Repas 🍽️**                                                                                        | **🍕 Repas 🍽️**                                                 | **🍕 Repas 🍽️**                   |
+| 13h00 - 13h30 | **🍕 Repas 🍽️**                                                                                        | **🍕 Repas 🍽️**                                                 | **🍕 Repas 🍽️**                   |
+| 13h30 - 14h00 | **🍕 Repas 🍽️**                                                                                        | **🍕 Repas 🍽️**                                                 | **🍕 Repas 🍽️**                   |
+| 14h00 - 14h30 | Exercice: Modéliser == documenter                                                                       | Conception Logicielle; Couplage/Cohésion et organisation du code |                                    |
+| 14h30 - 15h00 | Théorie : Primitive Obsession<br>+ Pattern "Value Object"<br>+ Pratique : Kata XXX                      | Architecture Hexagonale                                          |                                    |
+| 15h00 - 15h30 | Théorie: Documenter vs. Commenter son code<br>Framework [[Diátaxis]]<br>Git et les Conventional Commits | Exercice: Kata Birthday Greetings                                |                                    |
+| 15h30 - 16h00 | Exercice: Modéliser == documenter                                                                       | 🫧 Clean Code vs IA 🤖                                           |                                    |
+| 16h00 - 16h30 | Entretenir son code, mais pas uniquement (Tidying)                                                      | Off-Boarding sur la matrice de connaissance                      |                                    |
+| 16h30 - 17h00 | Exercice: Tidying                                                                                       | Rétro et Bilan                                                   |                                    |
+| 17h00 - 17h30 | Bilan de la journée                                                                                     | Rétro et Bilan                                                   |                                    |
+| 17h30 - 18h00 |                                                                                                         |                                                                  |                                    |
 # À qui est destiné cette formation ?
 
 > **Public / Cible**  

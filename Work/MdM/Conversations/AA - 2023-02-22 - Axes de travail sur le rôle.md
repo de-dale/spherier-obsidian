@@ -1,7 +1,7 @@
 Date : [[2023-02-22]]
 Personne: [[Adeline AVRIL]]
 
-![[Axes de travail sur le rôle]]
+![[Work/MdM/Conversations/Axes de travail sur le rôle]]
 # Déroulé
 
 Place dans l'équipe a évolué avec les départs / Arrivées

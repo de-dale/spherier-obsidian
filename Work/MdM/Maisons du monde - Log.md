@@ -13,11 +13,140 @@ GROUP BY file.link
 ```
 # Logs
 
+## [[2024-04-11]]
+
+- [ ] #mdm/grp-qualité CleanCode : Organiser un point pour discuter du contenu
+- [ ] #mdm/grp-qualité Organiser la capitalisation de la connaissance
+## [[2024-04-10]]
+
+- [x] #veille Creuser les concepts de "[[Howto work with me]] [[Personal README ou Personal User Manual]]
+	- Bragging Doc
+
+## [[2024-04-09]] 
+
+- **Shodo x MdM**
+	- tour de table
+		- CB : ancienne test lead
+	- pas mal de changement a venir sur la Supply
+		- Changement de culture et de process projet
+		- Process qualité
+		  => Equipes bousculées
+		  Qualité : pas uniquement tester
+		- Limiter le turnover
+			- Developper experience
+		- Identifier les freins : / QA / PO métier
+			- Ré-fractaires au changement
+	- 3 mois
+		- mise en place d'indicateurs
+			- Vie de l'équipe
+			- PO / LD : mettre en place des indicateur de communication auprès des équipes
+			- Satisfaction des utilisateurs et des collaborateurs
+	- Profils qui partent : remplacer ces personnes
+	  => Recherche des personnes moteur, accepter et accompagner el changement
+		- Mandat particulier ?
+			- Oui : Lead Dev
+			- D'abord regarder en interne pour qqn de moteur au changement 
+			- Et un développeur·euse en plus pour le 14 juin (fin mai)
+			  => Budget ? 
+	  => Remettre les compétences là où elles doivent être
+		- Remettre Fabien pour accompagner les développeurs 
+			- Produire des KPI 
+			- Mais avoir une partie de dev encore
+			  => cohérence par rapport au niveau d'intervention
+		- Règles Maisons du Monde pour le 3+ans ?
+	  
+## [[2024-04-08]]
+
+- Point de partage dev
+	- Design Pattern : Repository
+- Sprint panning
+- [[CB - 2024-04-08 - Etat des lieux activité]]
+- [ ] #shodo Question A Joly et idées d'articles
+	- Lead Dev et 1to1 ? C'est quoi le rôle d'un Lead Dev dans le management ?
+	- Lead Dev Management externe / externe vs. suivi de missions
+	- Harcèlement
+	- Quelle est la différence entre un Lead Dev, un [[Staff Engineer]] et un [[Engineering Manager]] ?
+	- Comment mettre en place un rituel de partagez tech ? 
+## [[2024-04-05]]
+
+- [x] Préparer le point de Lundi avec [[Christelle BARADÉ]] ✅ 2024-04-05
+	- Etat des lieux de mon activité
+	- Suggestions / remarques sur les actions possibles à court terme
+	- [[CB - 2024-04-08 - Etat des lieux activité]]
+- [ ] Capitaliser sur "Comment organiser un point d'équipe tech"
+      [[RC - 2024-04-05 - Comment organiser un point d'équipe tech]]
+## [[2024-04-04]]
+
+> La pyramide : le poids il est en bas
+> -- Benoît GIUSEPPIN
+
+KT : Knowledge transfert
+## [[2024-04-02]]
+
+- [ ] Cache à mettre sur api-cata-log
+- [x] pool de connexion hikari à augmenter
+	- Penser à le faire également sur la DLQ
+- [x] Allouer davantage de ressources aux pods (size S, M, L,XL)
+- [x] Définir une XX:MaxRAMPercentage : par défaut elle est à 25%
+
+=> Le rejeu des messages pose problème => on l'a désactivé
+## [[2024-03-28]]
+
+- [ ] #decathlon Julien : s'assurer de savoir ce qu'on met derrière l'accompagnement DDD Tactique
+    - Préparer ce que moi je mets derrière l'intervention
+- [x] #decathlon Anthony : prévoir un call pour cadrer l'intervention
+    - lieu + date
+    - intervention
+    - 1/2 journée d'acculturation ?
+
+**flow order [flow-warehouse-order-customer-to-shipup]**
+- [ ] Clarifier le healthcheck pour els api
+- [x] Regarder pour voir s'il y a quelque chose à faire en terme de perfs ✅ 2024-04-02
+	- cf [[#2024-04-02]]
+
+
+**flow order [flow-warehouse-order-customer-to-shipup]**
+- [x] Commandes legacy => pas de sale channel => on les filtres ✅ 2024-03-28
+	- [x] absence du sale channel à logger dans la DLQ ✅ 2024-03-28
+- [x] DELIVERY_NOTE_ALREADY_KNOWN ✅ 2024-03-28
+	- Evincer les messages cancel
+- [x] Corriger les libellés des produits ✅ 2024-03-28
+	- Nécessite de finir de dev de la locale ussuer (languie +  country)
+	- nécessite de combiner les devs (éventuellement de faire une code review tous ensemble pour merger sur master)
+
+**flow expé [flow-delivery-shipment-to-shipup]**
+=> Sur un temps plus long
+- [ ] Lister les TODO / amélioration vues par STK sur le flow
+- [ ] Documenter le flow a minima (README, schéma)
+- [ ] Prévoir une Revue de Code en équipe (stk + trp) pour 
+	- présenter la liste des améliorations
+	- s'organiser pour "qui fait quoi" sur le flow expé
+
+
+## [[2024-03-10]]
+
+Gestion des TODOs
+- [x] Message MdM ✅ 2024-03-13
+	- [x] ShipUp ✅ 2024-03-13
+	- [x] Stock ✅ 2024-03-13
+	- [x] GRP Qualité de code ✅ 2024-03-13
+- [ ] Reprendre le DDD par Julien
+- [ ] Réviser l'EventStorming
+- [ ] Veille
+
+## [[2024-03-06]]
+**🚨 Problème des Code barres**
+Voir dans les tables ETI2 ETI3
+
+Questions à adresser à DISTI sur le sujet :
+- Duplication de ligne Code-barre / produit ? sur eti2client & eti3client
+
+## [[2024-03-04]]
+
 ## [[2024-02-12]]
 
 - [ ] #mdm/grp-qualité PI : Coding Dojo "Refactoring"
-- [ ] #mdm/grp-qualité PI : Season Review + Season Retrospective
-
+- [x] #mdm/grp-qualité PI : Season Review + Season Retrospective
 
 ## [[2024-02-07]]
 
@@ -233,7 +362,7 @@ Idée de troll à Bertrand
 	- Confluence : finir de réorganiser la Doc
 - Supply : Parc applicatif
 	- Sujet Cockpit
-	- Priorisation ACOT
+	- Priorisation ACOT => [[Axes de priorisation du Legacy]]
 	- Suivi  des compétences de l'équipe pour entretenir le parc
 - **⚠️ Pimp My ERP**
 	- ✅ Lister les composants

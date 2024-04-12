@@ -11,7 +11,7 @@ On a rappelé qu'avant de se lancer dans l'ajout d'une fonctionnalité, ou dans 
 Les fois précédentes, on avait tenté :
 
 1. de rétro-tester les règles métiers
-2. de rétro tester avec la technique du **[[Golden Master]]** (i.e la source de référence)
+2. de rétro tester avec la technique du **[[Golden master]]** (i.e la source de référence)
 
 Cette fois, on a refait un Golden Master, en utilisant la libraire _**Approvals**_
 
@@ -19,7 +19,7 @@ Cette fois, on a refait un Golden Master, en utilisant la libraire _**Approvals*
 
 Cette librairie génère propose des Asserts (appelé _Approvals_) à utiliser dans des tets unitaires, et permettant  de générer un fichier "_ClasseDeTest.nom_de_la_methode_de_test.recieved.txt_". Ce fichier peut servir de référence s'il est "approuvé" par un humain (fichier renommé *recieved* => *approved*). Ensuite, tant que le code ne modifie pas le résultat attendu par la source, le test passe.
 
-Utiliser la technique du [[Golden Master]] nous a permis de converger rapidement vers une couverture à 100% de notre code.
+Utiliser la technique du [[Golden master]] nous a permis de converger rapidement vers une couverture à 100% de notre code.
 
 # **Limites de la couverture de code**
 

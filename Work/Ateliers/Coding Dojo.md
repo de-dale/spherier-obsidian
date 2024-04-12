@@ -1,14 +1,14 @@
 ---
-ressource: 🛠️ Atelier
-trello: https://trello.com/c/XJpyYDKf/90-coding-dojo
+ressource:
+  - 🛠️ Atelier
+trello:
+  - https://trello.com/c/XJpyYDKf/90-coding-dojo
+relates:
+  - "[[Catalogue de Kata|Kata-logue]]"
 ---
-#Atelier 
-
 Dans le jargon informatique, un **[[Kata]]** est un exercice de programmation, où l'énoncé est relativement court, et de difficulté variable. Le terme **Kata** fait référence aux arts martiaux, car l'exercice est fait pour être pratiqué encore et encore, en découvrant à chaque fois de nouvelles choses.
 
 Un [[Coding Dojo]] est un atelier où on fait un [[Kata]] en groupe. L’objectif est d’apprendre quelque chose de nouveau, en s'amusant, à l'aide d'un exercice de code, dans un espace ouvert aux erreurs et à l'expérimentation.
-
-Voir aussi : [[Kata-logue]]
 
 ## 🎯 Objectif
   
@@ -32,7 +32,7 @@ Il y a un encart “Faciliter le Dojo” pour tous ceux qui voudraient se lancer
   
 **Rappel du contexte du Dojo**  
   
-* **Choix du Kata** :  Que cherchons-nous à apprendre ?  
+* **Choix du Kata** :  Que cherchons nous à apprendre ?  
 * **Choix du langage** : Un même langage pour tous dans la session  
 * **Choix du format** :  Randori, Randori par paires, Autres  [[Format de Coding Dojo]]
 * **Choix des contraintes** : Pour apprendre davantage ? [[Contraintes de kata]]
@@ -89,7 +89,7 @@ Exemple de communication pour inciter à venir en Coding Dojo
 >
 > **Mais ça consiste en quoi, en fait ?**
 >  
-> * On détermine ensemble un sujet que l'on souhaite améliorer (langage, algo, framework, pratqiue de développement, licorne)  
+> * On détermine ensemble un sujet que l'on souhaite améliorer (langage, algo, framework, pratique de développement, licorne)  
 > * On détermine ensemble un langage (Java, Javascript, Rust, Kotlin, etc.)  
 > * On détermine ensemble un exercice (un Kata de code)  
 > * On code  
@@ -198,7 +198,6 @@ from #software/skills OR (#Skill)
 
 - [Google Docs](https://docs.google.com/presentation/d/1Jh3ywAkKpctxqey7da4F52tevXFGBexhOoX5VuVNvck/edit?usp=drive_link)
 - TODO : le "OnePager"
-- [[Kata-logue]]
 - Compétences autour ducoding dojo
 	- [[degrés de maitrise des compétences dojo]]
 ```dataview

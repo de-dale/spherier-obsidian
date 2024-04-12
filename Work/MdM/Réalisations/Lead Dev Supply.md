@@ -131,9 +131,7 @@ Capacité à adopter une attitude responsable et intègre par rapport à son pos
 > 
 > Pro-actif : Capacité à anticiper pour agir de manière juste en fonction du contexte
 > 
-> Vous avez un esprit d'équipe : Capacité à participer activement à l'atteinte d'objectifs collectifs, à s'associer dans la réalisation d'une tâche et à faire passer l'intérêt
-> 
-> collectif avant le sien.
+> Vous avez un esprit d'équipe : Capacité à participer activement à l'atteinte d'objectifs collectifs, à s'associer dans la réalisation d'une tâche et à faire passer l'intérêt collectif avant le sien.
 > 
 > Vous faites preuve d'adaptabilité et d'autonomie : Capacité à s'adapter à des situations variées et ajuster son comportement tout en étant capable de faire des choix pour agir et prendre en charge son activité sans devoir être encadré de façon continue.
 > 

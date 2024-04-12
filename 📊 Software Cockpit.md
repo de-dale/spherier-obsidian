@@ -1,4 +1,7 @@
-
+---
+ressource:
+  - 🗓️ Projet
+---
 # Plan d'action
 
 - [ ] Software Cockpit : Extraire proprement les informations du pom
@@ -86,11 +89,4 @@ Les pointeurs évoqués en séance :
 |  | **MOYEN** | moyenne | **IMPORTANTE** | ==**CRITIQUE**== |
 |  | **IMPORTANT** | **IMPORTANTE** | **IMPORTANTE** | ==**CRITIQUE**== |
 
-# Axes de priorisation du Legacy
-
-> Etablir les critères de priorité du Legacy
-> - + poids des critères
-> - + valeurs des critères
-> - quantifier les irritants / le temps passé / le risque / le gain
-> - quantifier la dette technique / fonctionnelle
-> - quantifier la maintenabilité / la connaissance de l'équipe
+## [[Axes de priorisation du Legacy]]

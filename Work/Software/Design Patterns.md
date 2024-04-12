@@ -1,3 +1,10 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Clean Code]]"
+  - "[[Anti-Pattern]]"
+---
 
 Voici quelques avantages de l'utilisation des Design Patterns :
 

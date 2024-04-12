@@ -8,6 +8,12 @@ GROUP BY file.link
 ```
 # Idées
 
+## [[2024-02-23]]
+
+Documentation : 
+	- proposer une architecture
+	- [  ] Utiliser un outils visuel poru lefaire "miro, excalidraw"
+
 - [ ] Compléter la docu sur la [[🔭 Supervision managériale]]
 - [x] Prez clean code 🔽 ✅ 2023-03-14
 	- [[Knowledge Driven Development]] 

@@ -1,5 +1,11 @@
-#ContrainteKata [[Contraintes de kata]]
-
+---
+ressource:
+  - 🔧 Pratique
+relates:
+  - "[[Pair-Programming]]"
+tags:
+  - software/kata/contrainte
+---
 Une des styles du [[Pair-Programming]]]
 
 > _"For an idea to go from your head into the computer_ 

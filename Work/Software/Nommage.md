@@ -1,3 +1,12 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Clean Code]]"
+tags:
+  - 🫧CleanCode
+---
+
 Le nommage est le nerf de la guerre en programmation
 * Les noms constituent la majeure partie de notre lecture dans le code
 * Les noms permettent de discuter par exemple en code review
@@ -23,6 +32,4 @@ De bons noms aideront votre mémoire à long terme
 
 [[Nommer avec le 3-Step-Model]]
 
-
 [[Clean Code]] [[Programmer's Brain]]
-#CleanCode #Naming

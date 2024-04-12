@@ -36,3 +36,55 @@ Nos superviseur-ses :
 - Échangent entre eux-elles sur les thématiques de supervision (CoDev)  
   
 Le contenu des échanges (et même le contrat) reste confidentiel. Le-a superviseur-se ne communique rien ni ne prend d’action en propre sauf en cas de risque psycho-sociaux avéré. Les actions et décisions sont de votre responsabilité. L'accompagnement se fait sur la base du volontariat.
+
+|                         |     |
+| ----------------------- | --- |
+| Vous                    |     |
+| Manon Carbonnel         |     |
+| Jerome Alincourt        |     |
+| Gael Salaun             |     |
+| Cecilia Bossard,        |     |
+| Jeremy Chauvin,         |     |
+| Nicolas Larche,         |     |
+| Florine Cercle,         |     |
+| Agnes M.,               |     |
+| Angi,                   |     |
+| Joel Piazzalunga-Lerat, |     |
+| Baptiste Gousset,       |     |
+| Matthieu BONNOT,        |     |
+| Zoe                     |     |
+| Romain Cochennec        |     |
+|                         |     |
+|                         |     |
+Vous
+Manon Carbonnel
+Jerome Alincourt
+Gael Salaun
+Cecilia Bossard,
+Jeremy Chauvin, 
+Nicolas Larche, 
+Florine Cercle, 
+Agnes M.,
+Angi,
+Joel Piazzalunga-Lerat,
+Baptiste Gousset,
+Matthieu BONNOT,
+Zoe 
+Romain Cochennec
+
+
+|     |     |
+
+
+Vous,
+Manon Carbonnel,
+Jerome Alincourt,
+Gael Salaun,
+Nicolas Larche,
+Florent Albert,
+Florine Cercle,
+Jeremy Chauvin,
+Baptiste Gousset,
+Joël Piazzalunga-Lerat 
+Matthieu BONNOT 
+Angi

@@ -1,4 +1,15 @@
-### Objectifs :
+---
+ressource:
+  - 🛠️ Atelier
+🎯 Objectif:
+  - Introspection
+🕓 Durée: 🕓1h
+👥 Participants: 👤1
+relates:
+  - "[[Choose your own adventure - how we can craft our career path]]"
+---
+Cet atelier a pour but de se faire poser des question à la personne pour laquelle on le joue, afin de l'aider à se positionner sur les axes de travail qu'elle souhaite travailler
+### 🎯 Objectif de l'atelier
 - Se fixer un axe de travail
 - Mettre en visibilité les prochains steps
 - Savoir quand on a fini cet arc de travail
@@ -22,3 +33,12 @@
 	- [[Formateur.ice]]
 - Quelles sont tes responsabilités ?
 - Quelles sont les compétences que tu actives ?
+
+# Déroulé 
+
+1. Présenter les différentes cartes de rôle 
+2. Demander à votre interlocuteur·ice, de classer les cartes de rôle en fonction de son ressenti sur son poste actuel
+	1. Présentation et discussions pour bine comprendre
+3. Demander à votre interlocuteur·ice, de classer les cartes de rôle en fonction de son envie sur son poste idéal
+4. Discuter des différences
+

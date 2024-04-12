@@ -20,5 +20,7 @@
 	- Tester lib vs contrat
 		- lib : si on veut tester notre service
 
-
-#Craft
+## 🔗Ressources 
+- https://artisandeveloppeur.fr/software-craftsmanship/
+- https://www.lehibou.com/communaute/software-craftsmanship
+- https://fr.wikipedia.org/wiki/Software_craftsmanship

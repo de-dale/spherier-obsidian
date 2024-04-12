@@ -1,8 +1,10 @@
 ---
+ressource:
+  - 🎥 Talk
 tags:
-  - CleanCode
-  - Talk
   - Brouillon
+  - 🚧wip
+  - 🫧CleanCode
 relates:
   - "[[Conférence Clean Code ou Manuel de lecture du code]]"
   - "[[Knowledge Driven Development]]"
@@ -21,28 +23,28 @@ relates:
 # Code Legacy
 
 -> Factuel : il existe  
--> C'est le mode d'emplois réel du logicile  
+-> C'est le mode d'emplois réel du logiciel  
 -> C'est l'opportunité d'apprendre de nos prédécesseurs  
   
 # Code legecy
--> Comment l'appréhender  : via des CodeReview :  
+-> Comment l'appréhender  : via des [[Code Review]] :  
 --> Se poser et lire du code pendant un temps, avec son équipe ou seul  
 --> Validation de PR/MR  
 --> Via du Pair/Mob Programming où on a en plus les explications verbales  
   
 Code legacy  
--> Comment l'apréhender -> Connaître les codes smells et les schémas de lecture de notre contexte  
+-> Comment l'appréhender -> Connaître les codes smells et les schémas de lecture de notre contexte  
   
 Clean Code  
 -> Permet dans son contexte, de présenter des Normes et standards  
--> permet de guider les équipeirs à adopter le modèle mental qui convient au contexte  
---> Cela facilite lapprentissage et l'onboarding  
+-> permet de guider les équipiers à adopter le modèle mental qui convient au contexte  
+--> Cela facilite l'apprentissage et l'on-boarding  
 --> #CollectiveOwnership  
   
 Clean code   
 = code maintenable ?  
 -> ça veut dire quoi "maintenable" ?  
-==> Maintenable = quelqu'un d'autre peut se l'approprier et corriger les defect/bugs/incompréhenssion  
+==> Maintenable = quelqu'un d'autre peut se l'approprier et corriger les defect/bugs/incompréhention  
 = le mieux que l'on puisse faire de notre point de vue aujourd'hui  
   
 Clean Code  

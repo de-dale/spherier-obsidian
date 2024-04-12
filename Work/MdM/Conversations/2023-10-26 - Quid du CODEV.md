@@ -46,5 +46,7 @@ Quelques outils :
 	- Backlog libre de sujets, et aide à la planification
 
 **Action retenues :**
-- [ ] CODEV: En discuter avec les autres RDD, et voir s'il est possible de la convaincre du bien fondé de la **libre expression**
-- [ ] CODEV: En discuter avec Jérome et  voir s'il est possible de la convaincre du bien fondé de la **libre expression**, en lui proposant "Squad Health Check" comme indicateur de ROI
+- [x] CODEV: En discuter avec les autres RDD, et voir s'il est possible de la convaincre du bien fondé de la **libre expression** ✅ 2024-03-28
+  => Plus de CODEV, plus de problème
+- [x] CODEV: En discuter avec Jérome et  voir s'il est possible de la convaincre du bien fondé de la **libre expression**, en lui proposant "Squad Health Check" comme indicateur de ROI ✅ 2024-03-28
+  => Plus de CODEV, plus de problème
