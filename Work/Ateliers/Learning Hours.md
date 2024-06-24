@@ -28,7 +28,7 @@ Chaque atelier répond aux caractéristiques suivantes :
 - Awareness : The sampler sessions
 - Proficiency: I Can DO ,this
 - Fluency: I can do this in my sleep
-
+- ![[Niveau des ateliers]]
 
 # Catalogue
 ## Samman

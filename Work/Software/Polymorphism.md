@@ -1,3 +1,10 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Programmation Orientée Objet]]"
+---
+
 En [[Programmation Orientée Objet]], on parle également de **ploymorphisme**.
 
 Poly means many  and morphs means forms. So anything which has multiple forms is called polymorphism.

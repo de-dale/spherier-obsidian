@@ -1,7 +1,8 @@
 ---
-trello: https://trello.com/c/eVQhaRUq/75-mobprogramming-index
 ressource:
   - 🔧 Pratique
+trello:
+  - https://trello.com/c/eVQhaRUq/75-mobprogramming-index
 ---
 
 #software/skills 

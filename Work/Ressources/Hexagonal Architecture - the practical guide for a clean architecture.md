@@ -6,4 +6,4 @@ author: "[[Julien Topçu]]"
 link:
   - https://beyondxscratch.com/2017/08/19/hexagonal-architecture-the-practical-guide-for-a-clean-architecture/
 ---
-Même article en français : [[Architecture Hexagonale - le guide pratique pour une clean architecture]]
+Même article en français : [[Julien Topçu - Architecture Hexagonale - le guide pratique pour une clean architecture]]

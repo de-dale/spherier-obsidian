@@ -13,6 +13,7 @@ Souvent, le type de gauche représente une erreur ou des exception (car "_right 
 - _The Either data type as an alternative to throwing exceptions_  
     [https://www.thoughtworks.com/insights/blog/either-data-type-alternative-throwing-exceptions](https://www.thoughtworks.com/insights/blog/either-data-type-alternative-throwing-exceptions)
 - https://github.com/HadrienMP/result
+- Histoire de relancer la machine : Either Vs. exceptions [https://dev.to/anthonyjoeseph/either-vs-exception-handling-3jmg](https://dev.to/anthonyjoeseph/either-vs-exception-handling-3jmg)
 
 ### **Exemple d'implémentation de Either en java**
 

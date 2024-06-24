@@ -9,7 +9,7 @@ link:
 trello: https://trello.com/c/PVqkWOIi/398-comment-faire-du-tdd-artisan-d%C3%A9veloppeur
 relates:
 ---
-**Libgrazisire de tests**
+**Librairie de tests**
 Est-ce que tu es capable de décrire ce que tu veux que ton, morceau de code que tu développe, fasse ?
 Quelle intention est-ce que tu as envie d'exprimer
 Capacité à écrire des tests

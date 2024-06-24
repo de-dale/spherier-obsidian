@@ -1,3 +1,13 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Cohésion]]"
+  - "[[Cohésion vs. Couplage]]"
+  - "[[Équation du couplage]]"
+---
+
+
 Le **[[Couplage]]** est le degré d'interdépendance entre les composants d'un logiciel.
 
 Deux éléments de code, classes, composants ou modules sont **couplés** lorsque **au moins l'un de deux utilise l'autre**.
@@ -10,10 +20,6 @@ Un composant fortement couplé avec son environnement est plus difficilement mod
 - **Couplage faible** : Le couplage faible existe lorsque deux modules sont faiblement liés l'un à l'autre. Cela signifie que le changement d'un module a peu ou pas d'impact sur l'autre module.
 
 [[Couplage indirect]]
-
-[[Cohésion]]
-[[Cohésion vs. Couplage]]
-[[Équation du couplage]]
 
 ### Quelques principes derrières le Couplage
 - Acyclic Dependencies Principle (ADP) : The dependency graph of packages must have no cycles.

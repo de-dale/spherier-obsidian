@@ -1,3 +1,8 @@
+---
+ressource:
+  - 💡 Idée
+---
+
 [[Formulaire d'auto-évaluation de développeur.euses]]
 
 Créer le formulaire avec les api google forms

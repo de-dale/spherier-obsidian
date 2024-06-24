@@ -1,4 +1,6 @@
 ---
+ressource:
+  - 🎓 Formation
 titre: "Conception logicielle avancée : Clean & Tidy Code"
 ⌛ durée: 🗓️ 2j
 🧑‍🏫 format:
@@ -53,7 +55,7 @@ _\<Cette section permet également de détailler et travailler les différents m
 | 10h30 - 11h00 |                                                                                                         | Exercice : RPN                                                   |                                    |
 | 11h00 - 11h30 | Clean Code : Théorie                                                                                    | Théorie: SOLID & Design Patterns                                 |                                    |
 | 11h30 - 12h00 | Clean Code : Théorie                                                                                    | Exercice : RPN                                                   |                                    |
-| 12h00 - 12h30 | Clean Code: Exercie ce Nommage avec [[Nommer avec le 3-Step-Model]]                                     | Exercice : RPN                                                   | Sparrow Deck                       |
+| 12h00 - 12h30 | Clean Code: Exercice dlGe Nommage avec [[Nommer avec le 3-Step-Model]]                                     | Exercice : RPN                                                   | Sparrow Deck                       |
 | 12h30 - 13h00 | **🍕 Repas 🍽️**                                                                                        | **🍕 Repas 🍽️**                                                 | **🍕 Repas 🍽️**                   |
 | 13h00 - 13h30 | **🍕 Repas 🍽️**                                                                                        | **🍕 Repas 🍽️**                                                 | **🍕 Repas 🍽️**                   |
 | 13h30 - 14h00 | **🍕 Repas 🍽️**                                                                                        | **🍕 Repas 🍽️**                                                 | **🍕 Repas 🍽️**                   |

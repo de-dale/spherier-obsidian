@@ -1,3 +1,10 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Communauté de Pratiques]]"
+---
+
 Dans les [[Communauté de Pratiques]], on distingue 3 typologies de participants
 
 ![[cop-givers-takers-matchers.png]]

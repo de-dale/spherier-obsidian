@@ -1,3 +1,3 @@
 # Expérimenter
-Expérimenter est le fait d'apprendre au travers d'une expéricence.
-Un expérience est un fait vécu ou observé, c'est donc queleu chose de concret.
+Expérimenter est le fait d'apprendre au travers d'une expérience.
+Un expérience est un fait vécu ou observé, c'est donc quelque chose de concret.

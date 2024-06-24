@@ -1,4 +1,11 @@
-#software/kata 
+---
+ressource:
+  - ⛩️ Kata
+relates:
+  - "[[RPG Combat Kata]]"
+tags:
+  - software/kata
+---
 # Game Engine
 
 C'est quoi ?

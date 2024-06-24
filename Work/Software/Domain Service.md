@@ -1,3 +1,13 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Domain-Driven Design]]"
+tags:
+  - DDD
+  - DDD/tactique
+---
+
 #DDD 
 - [ ] Comprendre ce que c'est
 - [ ] Différence entre [[Work/Software/Aggregate]] et [[Domain Service]]

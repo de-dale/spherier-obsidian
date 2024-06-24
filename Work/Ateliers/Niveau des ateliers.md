@@ -1,7 +1,7 @@
 ---
 relates:
   - "[[Catalogue des Ateliers]]"
-  - "[[Work/Software/Compétence|Compétence]]"
+  - "[[Work/Software/Essentiel/Compétence|Compétence]]"
 ---
 ## Niveaux
 - **Sensibilisation** (Awareness): Découvrir qu’un sujet existe
@@ -10,3 +10,9 @@ relates:
 	- 🤿 Approfondir
 - **Perfectionnement** (Fluency): Travailler les automatismes sur le sujet
 	- 🔬Perfectionner
+
+## Objectifs
+
+- Normaliser
+- Explorer
+- Retour d'expérience

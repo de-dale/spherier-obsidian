@@ -1,3 +1,8 @@
+---
+aliases:
+  - Tell, don’t Ask
+---
+
 #ContrainteKata [[Contraintes de kata]]
 
 

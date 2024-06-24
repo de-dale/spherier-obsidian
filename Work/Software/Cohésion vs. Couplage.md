@@ -12,3 +12,4 @@ Privilégiez un faible [[Couplage]] et une forte [[Cohésion]].
 ### Voir aussi
 - [ ] https://www.baeldung.com/cs/cohesion-vs-coupling
 - [ ] https://fr.slideshare.net/ahmedharrak3/cohesion-et-couplage
+- [ ] https://tidyfirst.substack.com/p/coupling-and-cohesion

@@ -4,6 +4,8 @@ aliases:
 relates:
   - "[[Kata]]"
   - "[[Coding Dojo]]"
+trello:
+  - https://trello.com/c/xo5USz6T/3-catalogue-de-kata
 ---
 # Catalogue des kata
 
@@ -24,3 +26,15 @@ SORT file.name
   Liste des repositories d'[[Emily Bache]], avec beaucoup de kata de refactoring
 - [http://codekata.com](http://codekata.com)
   Les Katas du le site originel des CodeKata 
+
+Liste des dépots de katas 
+
+* [GitHub/fhiegel/REPOSITORIES](https://github.com/fhiegel/katas/blob/master/REPOSITORIES.md)
+* [Coulas/Craftsmanship](https://github.com/coulas/Craftsmanship)
+* [Arolla/raise-the-dojo](https://github.com/arolla/raise-the-dojo)
+* [Arolla/Craft_Your_Skills](https://github.com/arolla/Craft_Your_Skills)
+* [Cyber-dojo](https://github.com/cyber-dojo/web)
+* [Codingdojo](http://codingdojo.org/KataCatalogue)
+* [Codekata](http://codekata.com/)
+* [Awesome Katas](https://github.com/gamontal/awesome-katas)
+* [Kata-Log](http://kata-log.rocks/)

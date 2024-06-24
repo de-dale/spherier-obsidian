@@ -1,1 +1,0 @@
-Livre de Felienne Hermans sur la cognition et sur le développement logiciel.

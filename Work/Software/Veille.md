@@ -1,8 +1,13 @@
+---
+ressource:
+  - 🧠 Concept
+---
+
 #Skill #Apprendre #Knowledge 
 
 La [[Veille]] est l'ensemble des habitudes et des processus permettant d'apprendre en continu.
 
-La [[Veille]] consiste à entretenir et affuter ses [[Work/Software/Compétence|Compétences]].
+La [[Veille]] consiste à entretenir et affuter ses [[Work/Software/Essentiel/Compétence|Compétences]].
 
 La [[Veille]] se traduit en anglais en "continuous learning"
 

@@ -12,7 +12,7 @@ Ces principes sont au nombre de 5 :
 - **SRP** | [[Single Responsibility Principle]]
 - **OCP** | [[Open-Closed Principle]]
 - **LSP** | [[Liskov substitution Principle]]
-- **ISP** | [[Interface segregation Principle]]
+- **ISP** | [[Interface Segregation Principle]]
 - **DIP** | [[Dependency Inversion Principle]]
 
 > SOLID : si tu te rends compte que tu ne les respecte pas, c'est que tu détectes un Smell

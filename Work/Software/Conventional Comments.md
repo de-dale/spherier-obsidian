@@ -1,6 +1,10 @@
-# Conventional Comments
-
-Il s'agit d'une convention de commentaires de [[Code Review]], permettant d'expliciter au mieux notre communication, tout en ménageant celui qui reçoit le commentaire.
+---
+ressource:
+  - 🔧 Pratique
+relates:
+  - "[[Code Review]]"
+---
+Il s'agit d'une convention de commentaires de [[Code Review]] asynchrone, permettant d'expliciter au mieux notre communication, tout en ménageant celui qui reçoit le commentaire.
 
 Le format conventionnel se présente de la manière suivante :
 ```
@@ -18,15 +22,15 @@ Lien vers un super article : [Conventional Comments : faire des revues de code 
 
 Dans la mesure du possible, déterminez les étiquettes en équipe.
 
-| **Etiquette** | **Trad** | **Exemple de Signification** |
-| ---- | ---- | ---- |
-| praise: | éloge | Les éloges mettent en avant quelque chose de positif. Essayez de laisser au moins un commentaire de ce type par review : cherchez quelque chose dont faire l'éloge sincèrement. |
-| nitpick: | pinaillage/tatillon | Les pinaillages sont des modifications petites, triviales, mais indispensables. Mettre en avant les pinaillages permet de se concentrer sur les commentaires nécessitant davantage de réflexion. |
-| suggestion: | suggestion | Une suggestion propose une amélioration de ce qui est commenté.<br><br>Soyez clair et explicite sur ce que vous proposez, et pourquoi c'est une amélioration. |
-| issue: | problème | Cette étiquette met en avant une problématique spécifique sur ce qui est commenté. Dans la mesure du possible, ajoutez une suggestion d’action ou d’amélioration.<br><br>Si vous n'êtes pas sûr(e) que le problème existe, utilisez plutôt une “question”. |
-| question: | question | Lorsque vous ne comprenez pas le code reviewé, ou si vous suspectez un problème (sans en être certaine ou certain), alors posez une question.<br><br>Demander de clarifier ou d’investiguer peut conduire à une résolution rapide. |
-| thought: | pensée/idée | Quand vous relisez du code, vous avez parfois des idées qui vous viennent en tête. Ces idées sont non-bloquantes par nature, mais ont beaucoup de valeur et peuvent conduire à des initiatives précises (sur du refecto par exemple) ou à des opportunités de partager un concept (ex: un DesignPattern à mettre en place). |
-| chore: | routine | Les routines sont des tâches simples à réaliser and que le sujet ne soit officiellement “terminé”. Souvent, il s’agit de référence vers le processus (ex : mettre à jour le CHANGELOG).<br><br>Si vous l’avez, pensez à indiquer le lien vers le process pour s’y référer par la suite. |
+| **Etiquette** | **Trad**                       | **Exemple de Signification**                                                                                                                                                                                                                                                                                                |
+| ------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| praise:       | éloge                          | Les éloges mettent en avant quelque chose de positif. Essayez de laisser au moins un commentaire de ce type par review : cherchez quelque chose dont faire l'éloge sincèrement.                                                                                                                                             |
+| nitpick:      | pinaillage/tatillon/ pétouille | Les pinaillages sont des modifications petites, triviales, mais indispensables. Mettre en avant les pinaillages permet de se concentrer sur les commentaires nécessitant davantage de réflexion.                                                                                                                            |
+| suggestion:   | suggestion                     | Une suggestion propose une amélioration de ce qui est commenté.<br><br>Soyez clair et explicite sur ce que vous proposez, et pourquoi c'est une amélioration.                                                                                                                                                               |
+| issue:        | problème                       | Cette étiquette met en avant une problématique spécifique sur ce qui est commenté. Dans la mesure du possible, ajoutez une suggestion d’action ou d’amélioration.<br><br>Si vous n'êtes pas sûr(e) que le problème existe, utilisez plutôt une “question”.                                                                  |
+| question:     | question                       | Lorsque vous ne comprenez pas le code reviewé, ou si vous suspectez un problème (sans en être certaine ou certain), alors posez une question.<br><br>Demander de clarifier ou d’investiguer peut conduire à une résolution rapide.                                                                                          |
+| thought:      | pensée/idée                    | Quand vous relisez du code, vous avez parfois des idées qui vous viennent en tête. Ces idées sont non-bloquantes par nature, mais ont beaucoup de valeur et peuvent conduire à des initiatives précises (sur du refecto par exemple) ou à des opportunités de partager un concept (ex: un DesignPattern à mettre en place). |
+| chore:        | routine                        | Les routines sont des tâches simples à réaliser and que le sujet ne soit officiellement “terminé”. Souvent, il s’agit de référence vers le processus (ex : mettre à jour le CHANGELOG).<br><br>Si vous l’avez, pensez à indiquer le lien vers le process pour s’y référer par la suite.                                     |
 ### Exemples de décoration
 
 Comme pour les étiquettes, cherchez à vous construire votre banque de décoration d'équipe.
@@ -60,19 +64,4 @@ Vous pouvez aussi utiliser l'**échelle d’engagement** (voir plus bas 👇) po
 | `🔥 burn-it-all` | :fire: | - Pour mettre en évidence du code à supprimer |
 # Échelle des niveaux d'engagements
 
-**C'est quoi "l'échelle de machin" ?**
-
-L'échelle des niveaux d'engagement. Le principe est simple : il s'agit d'un vote pour savoir si quelque chose est important pour chacun, ou non,.
-
-On se positionne vis-à-vis d'une **action** ou d'une **pratique** sur une échelle (par exemple via un vote) et on regarde pour voir de quel côté l'échelle penche. S'il y a des personnes en contradiction avec le côté où penche l'échelle, on essaie de répondre à la question "_qu'est-ce qu'il faudrait pour que tu **ne soit pas opposé** au sens du reste de l'équipe ?_" et on voit si on peut adapter les actions en conséquence.
-
-Exemple d'échelle :
-
-- ✊ Je veux absolument faire ça (emoji "fist")
-- 😍 J'aimerais faire ça (emoji "heart_eyes")
-- 🙂 On pourrait faire ça (emoji "slight_smile")
-- 😨 Je préférerais qu'on ne fasse pas ça (emoji "fearful")
-- ❌ Je refuse de faire ça (emoji "x")
-# 🔗Ressources
-
-- https://www.24joursdeweb.fr/2021/conventional-comments-faire-des-revues-de-code-avec-le-smiley/
+![[Échelle des niveaux d'engagements]]

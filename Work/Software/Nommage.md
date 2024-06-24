@@ -32,4 +32,4 @@ De bons noms aideront votre mémoire à long terme
 
 [[Nommer avec le 3-Step-Model]]
 
-[[Clean Code]] [[Programmer's Brain]]
+[[Clean Code]] [[Felienne Hermans - Programmer's Brain]]

@@ -1,5 +1,8 @@
 ---
-trello: https://trello.com/c/gqRS4DUQ/730-technical-agile-coaching-index
+ressource:
+  - 🎭 Rôle
+trello:
+  - https://trello.com/c/gqRS4DUQ/730-technical-agile-coaching-index
 ---
 ## 🔗 Ressources associées
 

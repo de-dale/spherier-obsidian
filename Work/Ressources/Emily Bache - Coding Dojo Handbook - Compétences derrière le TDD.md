@@ -7,7 +7,7 @@ link:
 trello: https://trello.com/c/92A1Rqsi/615-comp%C3%A9tences-derri%C3%A8re-le-tdd-emily-bache-coding-dojo-handbook
 relates:
   - "[[Test-Driven Development]]"
-  - "[[Work/Software/Compétence|Compétence]]"
+  - "[[Work/Software/Essentiel/Compétence|Compétence]]"
   - "[[Coding Dojo Handbook]]"
 tags:
   - software/skills
@@ -20,7 +20,7 @@ Consiste à construire progressivement du code qui résous un problème trop gro
 **Refactoring Safely**  
 Consiste à effectuer une séquence de petites modifications maîtrisées et sécurisées, qui contribuent à une amélioration plus globale.
 
----
+**Designing Test Cases**
 
 Consiste à écrire de cas d'utilisation qui couvrent toutes les fonctionnalités, tout en étant lisibles, robustes et rapides à exécuter.
 

@@ -1,3 +1,8 @@
+---
+ressource:
+  - 🧠 Concept
+---
+
 #TechnicalDebt 
 
 > “Some problems with code are like financial debt. It's OK to borrow against the future, as long as you pay it off.”

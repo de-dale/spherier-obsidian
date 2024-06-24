@@ -6,7 +6,7 @@ link:
 trello: 
 relates:
   - "[[📊 Software Cockpit]]"
-  - "[[Work/Software/Compétence|Compétence]]"
+  - "[[Work/Software/Essentiel/Compétence|Compétence]]"
 ---
 Le site https://codecollectif.fr/ propose également un test de niveau des développeurs : https://codecollectif.fr/programming-levels/test
 

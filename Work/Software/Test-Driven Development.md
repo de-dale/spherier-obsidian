@@ -1,11 +1,19 @@
 ---
-trello: https://trello.com/c/HIX8C9W1/586-test-driven-d%C3%A9veloppement-tdd-synth%C3%A8se
+ressource:
+  - 🧠 Concept
+aliases:
+  - TDD
+trello:
+  - https://trello.com/c/HIX8C9W1
+relates:
+  - "[[Software Craftsmanship]]"
+  - "[[Test-Driven Development (Formation)]]"
+tags:
+  - TDD
 ---
+Le [[Test-Driven Development]] est une pratique de développement qui consiste à écrire les [[Test Unitaire|tests unitaires]] avant le code de production, en faisant les étapes les plus petites possibles.
 
-aka. [[TDD]]
-Le [[Test-Driven Development]] est une pratique de développement qui consiste à écrire les [[Test unitaire|tests unitaires]] avant le code de production, en faisant les étapes les plus petites possibles.
-
-![[Le cycle du TDD - RED GREEN REFACTOR]]
+![[TDD - Le cycle du TDD - RED GREEN REFACTOR]]
 
 Les 3 règles du TDD
 - **Permis de coder** : 
@@ -14,6 +22,8 @@ Les 3 règles du TDD
   Interdit d’écrire plus d’un test en échec à la fois
 - **Connaître les limites**
   Interdit d’écrire plus de code que nécessaire, pour faire passer le test en cours.
+
+TDD : Developper Experience
 
 # 🔗Ressources
 

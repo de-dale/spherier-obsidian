@@ -8,6 +8,19 @@ GROUP BY file.link
 ```
 # Idées
 
+Mes Kata à faire 
+- Wallet
+- Fraction
+- https://github.com/emilybache/Racing-Car-Katas
+- https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master
+
+- [ ] #shodo Question A Joly et idées d'articles
+	* Lead Dev et 1to1 ? C'est quoi le rôle d'un Lead Dev dans le management ?
+	* Lead Dev Management externe / externe vs. suivi de missions
+	* Harcèlement
+	* Quelle est la différence entre un Lead Dev, un [[Staff Engineer]] et un [[Engineering Manager]] ?
+	* Comment mettre en place un rituel de partagez tech ?
+
 ## [[2024-02-23]]
 
 Documentation : 

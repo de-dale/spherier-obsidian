@@ -9,6 +9,6 @@ links:
   - https://vimeo.com/80533536
 trello: https://trello.com/c/wkjDp5xV/241-integrated-tests-are-a-scam-the-code-whisperer
 relates:
-  - "[[Test unitaire]]"
+  - "[[Test Unitaire]]"
 ---
 La vidéo : Une des meilleures explications que j’ai jamais vu sur les tests d’intégration.

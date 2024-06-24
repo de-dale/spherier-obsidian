@@ -26,7 +26,7 @@ Racism fuels users experiences - why you should understand the strength of biase
 Très chouette talk de Marcy, qui montre de manière très coàncrète comment nos biais racistes peuvent influencer  
  l'UX finale des applications que l'on développe.  
   
-## (Slow (code) retreat) | Philippe Bourgau  
+## ([[Slow (code) retreat]]) | Philippe Bourgau  
   
 Workshop très chouette, auquel j'était avec @Nabil.  
 On avait 4 Stations où explorer les notions :  

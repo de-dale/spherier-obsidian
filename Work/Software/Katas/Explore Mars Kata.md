@@ -1,3 +1,11 @@
+---
+ressource:
+  - ⛩️ Kata
+link: 
+trello: 
+relates:
+---
+
 #software/kata
 
 Exercice de code, ou [[Kata]] par moi-même, où l'objectif est de coder une "IA" qui explore Mar avec une Mars Rover.

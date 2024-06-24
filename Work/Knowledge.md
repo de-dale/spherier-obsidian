@@ -1,3 +1,8 @@
+---
+ressource:
+  - 🧠 Concept
+---
+
 #Knowledge
 > Knowledge : most valuable asset of any business
 > --  [[Vaugh Vernon]] 

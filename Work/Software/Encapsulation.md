@@ -1,3 +1,8 @@
+---
+ressource:
+  - 🧠 Concept
+---
+
 En [[Programmation Orientée Objet]], on parle également d'**encapsulation**.
 
 > Bundling of data and operation to be performed on that data into single unit is called as encapsulation.
@@ -6,6 +11,6 @@ En [[Programmation Orientée Objet]], on parle également d'**encapsulation**.
 
 > Encapsulation is often used to **hide important informations** from outside the world. It is called data hiding. This can be achieved by declaring all important variables as private and providing public setter and getter methods.
 
-[[Tell, don’t Ask]]
+[[Tell, Don’t Ask]]
 
 #OOP

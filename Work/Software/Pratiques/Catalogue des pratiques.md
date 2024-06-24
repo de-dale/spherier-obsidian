@@ -1,17 +1,22 @@
-
+---
+ressource:
+  - 🔧 Pratique
+  - 🛠️ Outil
+---
+Le [[Catalogue des pratiques]] est à la fois un outil et une méthode. 
+Il permet de référencer et de tracer les #🔧Pratiques en connues par l'équipe, et de savoir si elles sont en vigueur ou non. Ce travail est similaire à ce qui peut être fait avec les [[Architecture Décision Record]], mais sur les pratiques plutôt que sur les outils.
 ### Objectif
 
 - Référencer les pratiques connues
 - Savoir si les équipes maîtrisent les pratiques
 - Savoir quelles pratiques appliquent les équipes
 
-Les équipes de la Supply s’approprient ensuite les pratiques, se forgent leur opinion, et constituent leur propre catalogue de décisions
-
+Les équipes s’approprient ensuite les pratiques, se forgent leur opinion, et constituent leur propre catalogue de décisions.
 # Les pratiques
 
 Les pratiques de cette liste, sont à tagguer avec l’une des étiquettes suivantes, et s'inspirent de ce qui est fait pour des [[Tech Radar - Radar technologique]].
 
-- **ADOPTER** : Pratique stratégique et fondamentale
+- **ADOPTER** : pratique stratégique et fondamentale qu'il faut systématiquement appliquer
 - **ESSAYER** : les pratiques essentielles qui fonctionnent, mais dont les limites sont à tester
 - **ÉVALUER** : les pratiques prometteuses, à étudier de manière approfondie pour envisager une utilisation future
 - **SUSPENDRE** pratiques utilisées qui se sont avérées peu satisfaisantes et qui ne sont donc pas recommandées
@@ -26,12 +31,8 @@ Les pratiques de cette liste, sont à tagguer avec l’une des étiquettes suiva
 > - Répartir les pratiques par Catégorie
 > - Mettre en place un formalisme semblable aux ADR (Architecture Décision Record)
  >   - titre
- >   - statut (Etat de la proposition)
- >       - 📬Proposé
- >       - ✅ Accepté
- >       - ❌ Rejeté
- >       - ✂️ Déprécié
- >       - ♻️ Remplacé
+ >   - statut
+ >     Cette pratique est à (Adopter | Essayer | Evaluer | Suspendre | Présenter | Clarifier) 
  >   - contexte
  >   - décision
  >   - conséquences

@@ -1,6 +1,6 @@
 
 > #Modèle #Capacité/Passive 
-> S'applique à: (**[[Work/Software/Compétence]]**)
+> S'applique à: (**[[Work/Software/Essentiel/Compétence]]**)
 
 > A décliner pour chaque build qui souhaite utiliser une compétence d'esquive.
 

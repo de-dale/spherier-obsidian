@@ -1,6 +1,6 @@
 ---
 ressource:
-  - 📰 Article
+  - 🔧 Pratique
 tags:
   - ADR
 relates:

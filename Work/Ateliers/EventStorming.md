@@ -25,6 +25,7 @@ Modéliser le fluc métier  vs le transformer
 > => Record
 
 ![[event-storming-picture-that-explains-everything.png]]
+![[event-storming-picture-that-explains-everything-process-modeling.png]]
 [[Work/Ateliers/Event Storming/Aggregate|Aggregate]]
 [[Policy]]
 

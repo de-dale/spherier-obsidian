@@ -1,2 +1,2 @@
 
-[[Interface segregation Principle]]
+[[Interface Segregation Principle]]

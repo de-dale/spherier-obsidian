@@ -1,3 +1,14 @@
+---
+ressource:
+  - 📚 Ressources
+author: 
+link:
+  - https://javablackbelt-rip.org
+trello: 
+relates:
+  - "[[Work/Software/Essentiel/Compétence|Compétence]]"
+---
+
 Hello,
 
 Sur le site [https://javablackbelt-rip.org/](https://javablackbelt-rip.org/ "https://javablackbelt-rip.org/"), j'ai trouvé un tas de cours en pdf essentiellement Java (historiquement issu du site JavaBlackBelt)

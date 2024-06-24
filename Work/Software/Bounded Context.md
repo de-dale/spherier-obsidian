@@ -1,3 +1,10 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Domain-Driven Design Tactique]]"
+---
+
 #DDD
 Concept tactique du [[Domain-Driven Design]] (espace des solutions) qui consiste à modéliser arbitrairement un contexte, en délimitant une frontière correspondant à) une zone de responsabilité.
 

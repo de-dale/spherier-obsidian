@@ -1,3 +1,11 @@
+---
+ressource:
+  - 🧠 Concept
+author: 
+link: 
+trello: 
+relates:
+---
 ![[objects-calistenics.png]]
 Les [[Objet Calistenics]] sont des [[Contraintes de kata]] formalisées en 9 règles, permettant de se concentrer et de s'améliorer sur des aspects de la programmation orientée objets et d’améliorer la maintenabilité, la lecture, la testabilité, et la compréhensibilité du code.
 
@@ -9,7 +17,7 @@ Les [[Objet Calistenics]] sont des [[Contraintes de kata]] formalisées en 9 rè
 6. Ne pas utiliser d’abréviations (_Don’t Abbreviate_)
 7. Garder des entités de petite taille (_Keep All Entities Small_) : 150 lignes pour une méthode, 10 fichiers par package
 8. Aucune classe avec plus de deux variables (_No Classes With More Than Two Instance Variables_)
-9. Pas de Getters et Setters (_No Getters/Setters/Properties_) : principe de “[[Tell, don’t Ask]]”
+9. Pas de Getters et Setters (_No Getters/Setters/Properties_) : principe de “[[Tell, Don’t Ask]]”
 
 
 ## Règles

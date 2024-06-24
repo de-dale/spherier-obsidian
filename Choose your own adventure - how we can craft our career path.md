@@ -6,7 +6,7 @@ link:
   - https://vimeopro.com/newcrafts/newcrafts/video/842232658
 trello: 
 relates:
-  - "[[Work/MdM/Conversations/Axes de travail sur le rôle]]"
+  - "[[Axes de travail sur le rôle]]"
 🕓 Durée: 🕓35mins
 ---
 *"Find who you wanna be"*
@@ -21,7 +21,7 @@ What are your need are, and what are your strength
 8 paths
 ## Individual contributor - The Fighter
 5:40
-## Engineering Manager - The Healer
+## [[Engineering Manager]] - The Healer
 7:22
 ## Contractor - The mercenary
 9:53

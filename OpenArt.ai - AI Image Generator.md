@@ -1,10 +1,10 @@
 ---
 ressource:
   - 🛠️ Outil
-author: 
 link:
   - https://openart.ai/home
-trello: https://trello.com/c/pZBJqilT/740-openartai-ai-image-generator
+trello:
+  - https://trello.com/c/pZBJqilT/740-openartai-ai-image-generator
 relates:
   - "[[AI Image Generator]]"
 tags:

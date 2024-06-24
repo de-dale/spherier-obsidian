@@ -1,3 +1,10 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Ship Show Ask]]"
+---
+
 [[Git]]
 #DevOps
 > **Trunk-based development** is the practice of continuously merging code into the trunk and avoiding long-lived feature branches. This practice is considered a complement to continuous integration and has been shown for years to accelerate software delivery velocity.

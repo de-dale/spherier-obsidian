@@ -1,3 +1,11 @@
+---
+ressource:
+  - 🛠️ Atelier
+🎯 Objectif: 
+🕓 Durée: 
+👥 Participants: 
+🌶️ Niveau: Pas de prérequis
+---
 
 **Objectif**
 Travailler sur une problématique par petits groupes et construire le résultat de façon itérative en faisant tourner les tables. L’objectif bonus est l’implication de tous les acteurs dans les résultats identifiés.

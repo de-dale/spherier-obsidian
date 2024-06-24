@@ -1,11 +1,12 @@
 ---
-tags:
-  - OOP
+ressource:
+  - 🧠 Concept
 relates:
   - "[[Modéliser]]"
   - "[[Programmation Orientée Objet]]"
+tags:
+  - OOP
 ---
-
 En [[Programmation Orientée Objet]], on parle souvent d'**abstraction.**
 
 >In computer science terms, abstraction means separating ideas from their actual implementation.

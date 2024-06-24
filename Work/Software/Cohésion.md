@@ -1,3 +1,11 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Couplage]]"
+  - "[[Cohésion vs. Couplage]]"
+---
+
 La **[[Cohésion]]** est le degré auquel les éléments d'un tout vont ensemble.
 
 Deux éléments sont **cohérents**, quand ils sont utilisés ensemble, par un composant destiné à effectuer une seule tâche.

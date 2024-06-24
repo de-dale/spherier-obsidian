@@ -5,9 +5,9 @@ link:
   - https://blog.crisp.se/2012/11/06/anderslaestadius/team-liftoff-with-market-of-skills-and-competence-matrix
 trello: https://trello.com/c/zdN4K174/377-team-liftoff-with-market-of-skills-and-competence-matrix-crisps-blog
 relates:
-  - "[[Work/Software/Compétence|Compétence]]"
+  - "[[Work/Software/Essentiel/Compétence|Compétence]]"
 ---
-Une ressource qui devrait permettre d'auto-évaluer ses compétences dans le cadre d'une [[Formation]]
+Une ressource qui devrait permettre d'auto-évaluer ses compétences dans le cadre d'une [[Work/Formations/Formation]]
 
 Elle présentre deux Ateliers 
 - [[Market of Skills]]

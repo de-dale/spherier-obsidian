@@ -1,8 +1,15 @@
 ---
 ressource:
   - 🛠️ Atelier
-🎯 Objectif: 
+🎯 Objectif:
+  - 🔭 Découvrir
+  - 🤿 Approfondir
+  - 🔬 Perfectionner
+  - 📏 Normaliser
+  - ✍️ Formaliser
+  - 🤝 Partager
 🕓 Durée: 
 👥 Participants: 
-🌶️ Niveau:
+🌶️ Niveau: 
+🌶️ Difficulté:
 ---

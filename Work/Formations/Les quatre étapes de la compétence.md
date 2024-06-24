@@ -27,4 +27,4 @@ L'individu a tellement pratiquer une compétence qu'elle est devenue une « sec
 
 # 📝 Notes relatives
 - [[Modèle d'acquisition de compétences de Dreyfus]]
-- [[Formation]]
+- [[Work/Formations/Formation]]

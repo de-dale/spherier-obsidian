@@ -9,5 +9,5 @@ trello:
 relates:
   - "[[Apprendre]]"
   - "[[Apprendre à Apprendre (Formation)]]"
-  - "[[Lear"
+  - "[[Veille]]"
 ---

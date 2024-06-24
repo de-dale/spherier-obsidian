@@ -1,3 +1,10 @@
+---
+ressource:
+  - 🔧 Pratique
+relates:
+  - "[[Ping-Pong Pair-Programming]]"
+---
+
 #ContrainteKata [[Contraintes de kata]]
 
 ![[pair-programming-basics.png]]
@@ -22,6 +29,7 @@ Bacon & eggs: concerné vs. Impliqué
 Considération
 
 ### Mini rétro pour une séance de Pair-Programming
+
 🕓 5 mins  
 ❓2-3 questions classiques :  
 - Comment as-tu trouvé cette séance ? Est-ce que tu étais bien ?
