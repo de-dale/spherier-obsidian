@@ -20,7 +20,7 @@ Personne: "[[Christelle BARADÉ]]"
 	- EventStorming (modéliser le métier pour mieux l'implémenter)
 	- Matrice de connaissance : comment inventorier et partager la connaissance en anticipation des départs APPRO et STK
 	- [x] TRP : Mettre en place une matrice des Connaissances ✅ 2024-04-18
-	- [ ] #mdm/supply/stk STK : Mettre à jour la matrice des connaissances
+	- [ ] #mdm/supply/stk STK : Mettre à jour la matrice des connaissances 🔼 
 	- Automatisation des Tests (Cucumber & XRay)
 - Groupe de travail : Qualité de code
 	- Objectif : avoir un collèges de personnes garantes de la compétence

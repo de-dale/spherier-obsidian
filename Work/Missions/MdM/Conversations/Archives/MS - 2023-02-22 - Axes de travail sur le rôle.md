@@ -33,6 +33,6 @@ iso.
 - Être à l'aise au quotidien dans ses outils (IDE, langage, framework)
 	- Au travers d'une auto-évaluation de son expertise
 	
-- [ ] #mdm/supply Créer le [[Formulaire d'auto-évaluation de développeur.euses]] ⏫ 📅 2023-03-15 
-- [ ] #mdm/supply Evaluer [[Michael SABRI]] sur la partie **Java** du [[Formulaire d'auto-évaluation de développeur.euses]]🔼 📅 2023-03-15 
+- [ ] #mdm/supply Créer le [[Formulaire d'auto-évaluation de développeur.euses]] 🔽 📅 2023-03-15 
+- [ ] #mdm/supply Evaluer [[Michael SABRI]] sur la partie **Java** du [[Formulaire d'auto-évaluation de développeur.euses]]⏬  📅 2023-03-15 
 

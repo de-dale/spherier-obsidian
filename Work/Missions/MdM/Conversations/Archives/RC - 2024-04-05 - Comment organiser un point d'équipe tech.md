@@ -5,6 +5,7 @@ Personne:
   - "[[Romain COCHENNEC]]"
 relates:
   - "[[Point de partage Dev Supply]]"
+  - "[[Organiser  une instance de partage]]"
 ---
 # Contexte
 

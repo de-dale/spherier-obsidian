@@ -5,22 +5,48 @@ tags:
 # Tasks
 
 ~~~tabs
+---tab By Priority
+```dataview
+TASK  
+FROM "Work/Missions/MdM/Logs"   
+    OR "Work/Missions/MdM"   
+    OR #mdm   
+    OR #mdm/project AND -#⏸️pause  
+WHERE !completed  
+GROUP BY choice(contains(text, "🔺"), "🔺 Highest",   
+    choice(contains(text, "⏫"), "⏫ High",    
+    choice(contains(text, "🔼"), "🔼 Medium",   
+    choice(contains(text, "🔽"), "🔽 Low",   
+    choice(contains(text, "⏬"), "⏬ Lowest", "🟰 None"))))) as priority  
+SORT choice(priority = "🔺 Highest", "1",     
+    choice(priority = "⏫ High", "2",     
+    choice(priority = "🔼 Medium", "3",     
+    choice(priority = "🔽 Low", "5",    
+    choice(priority = "⏬ Lowest", "6", "4"))))) ASC
+```
+
 ---tab By Tag
 ```dataview
 TASK 
-FROM "Work/MdM/Logs" OR "Work/MdM" OR #mdm OR #mdm/project AND -#⏸️pause
+FROM "Work/Missions/MdM/Logs"   
+    OR "Work/Missions/MdM"   
+    OR #mdm   
+    OR #mdm/project AND -#⏸️pause
 WHERE !completed
-SORT tags DESC
 GROUP BY tags
+SORT tags DESC
 ```
 
 ---tab By File
 ```dataview
 TASK 
-FROM "Work/MdM/Logs" OR "Work/MdM" OR #mdm OR #mdm/project AND -#⏸️pause
+FROM "Work/Missions/MdM/Logs"   
+    OR "Work/Missions/MdM"   
+    OR #mdm   
+    OR #mdm/project AND -#⏸️pause
 WHERE !completed
-SORT file.name DESC
 GROUP BY file.name
+SORT file.name DESC
 ```
 
 
@@ -28,10 +54,13 @@ GROUP BY file.name
 
 # Logs
 
+## [[2024-07-01]]
 
+- Point de partage dev
+- [ ] Passer en revue mes priorités 🔺 
 ## [[2024-06-18]]
 
--[ ] #mdm/supply/acot A ajouter dans notre legacy "projet avec un DockerFile" + la raison
+- [ ] #mdm/supply/acot A ajouter dans notre legacy "projet avec un DockerFile" + la raison
 
 
 Call avec Adrien
@@ -48,7 +77,7 @@ Call avec Adrien
 ## [[2024-05-15]]
 
 - [ ] DDD pour Christelle
-- [ ] Explorer Gitpage pour supply overview
+- [ ] Explorer Gitpage pour supply overview 🔼 
 
 ## [[2024-04-24]]
 
@@ -181,7 +210,7 @@ TILS : Refinment ? Partage de connaissance vs. Mise en oeuvre d'un plan d'action
 	* Design Pattern : Repository
 * Sprint panning
 * [[CB - 2024-04-08 - Etat des lieux activité]]
-- [ ] #shodo Question A Joly et idées d'articles
+- [x] #shodo Question A Joly et idées d'articles
 	* Lead Dev et 1to1 ? C'est quoi le rôle d'un Lead Dev dans le management ?
 	* Lead Dev Management externe / externe vs. suivi de missions
 	* Harcèlement
@@ -193,7 +222,7 @@ TILS : Refinment ? Partage de connaissance vs. Mise en oeuvre d'un plan d'action
 	* Etat des lieux de mon activité
 	* Suggestions / remarques sur les actions possibles à court terme
 	* [[CB - 2024-04-08 - Etat des lieux activité]]
-- [ ] #perso Capitaliser sur "Comment organiser un point d'équipe tech"
+- [x] #perso Capitaliser sur "Comment organiser un point d'équipe tech" ✅ 2024-07-05
       [[RC - 2024-04-05 - Comment organiser un point d'équipe tech]]
 ## [[2024-04-04]]
 
@@ -277,15 +306,15 @@ CODEV
 
 ## [[2024-02-06]]
 
-* Découverte de JKetBrais Toolbox
+* Découverte de [[JetBrains Toolbox]]
 ## [[2024-02-07]]
 
-- [ ] #mdm/supply/dev Clarifier les états A evaluer // A essayer des pratiques
+- [ ] #mdm/supply/dev Clarifier les états A évaluer // A essayer des pratiques
 - [ ] #mdm/supply/dev Qui à les droits sur quoi ? Recenser les envs de prod et ce qui manque pour que les équipes soient autonomes en cas de changement
 
 ## [[2024-01-31]]
 
-- [ ] #mdm/supply/stk Brancher New relis sur api-stock availability
+- [x] #mdm/supply/stk Brancher New relis sur api-stock availability
 - [x] Mail à envoyer à Shipup, mais sur quel sujet ? ✅ 2024-02-01
 - [x] Brancher un troisième Integration flow pour le process de récupération des infos des jobs ✅ 2024-02-01
 ## [[2024-01-24]]
@@ -310,7 +339,7 @@ Daily TRP : Organisation de la journée ? ou reporting ?
 	* Canaux de partage ? Routines de partage ?
 
 Idées Perso
-- [ ] #perso Publier le catalogue des ateliers sur mon blog
+- [ ] #perso Publier le catalogue des ateliers sur mon blog ⏫ 
 ## [[2024-01-22]]
 
 Agacé par PG sur Traçabilité "Ah ben non, on n'a rien à te donner"
@@ -429,7 +458,7 @@ Exemple : Qu'est ce qui manque au CODEV pour en faire une communauté ?
 ## [[2024-01-15]]
 
 Supply
-- [ ] Mettre en place des CODEOWNERS Sur tous les projets #mdm/supply
+- [ ] Mettre en place des CODEOWNERS Sur tous les projets #mdm/supply ⏫ 
 - [x] Modifier le format du Catalogue de pratiques SUPPLY ✅ 2024-01-16
 - [ ] #mdm/supply/acot Mettre à plat les actions sur le parc applicatif, issue du Software Cockpit du parc applicatif SUPPLY
 - [x] #mdm/grp-qualité Préparer la communication de la prochaine instance
@@ -758,7 +787,7 @@ Partage transverse
 * Revue des incidents SUPPLY
 * Travail sur l'Observabilité
 - [x] Planifier un point avec [[Pierre GUIKOVATY]] sur les SLI/SLO et les sondes Zabbix ✅ 2023-11-08
-- [ ] #mdm/supply/stk Planifier un point avec [[Stéphane DRUGEAULT]] sur les SLI/SLO et les sondes Zabbix
+- [ ] #mdm/supply/stk Planifier un point avec [[Stéphane DRUGEAULT]] sur les SLI/SLO et les sondes Zabbix ⏬ 
 ## [[2023-09-27]]
 
 [[Gestion des incidents]]

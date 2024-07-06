@@ -88,6 +88,6 @@ Personne: [[Maxime CHANTEAU]]
 | [[Architecte de systèmes informatiques]] | [[Architecte de systèmes informatiques]]  |  
 | [[Expert.e en cybersécurité]]            | [[Expert.e en cybersécurité]]             |
 
-- [ ] #mdm/supply Créer le [[Formulaire d'auto-évaluation de développeur.euses]] ⏫ 📅 2023-03-15 
-- [ ] #mdm/supply Evaluer [[Maxime CHANTEAU]] sur la partie **Java** du [[Formulaire d'auto-évaluation de développeur.euses]]🔼 📅 2023-03-15 
-- [ ] #mdm/supply Evaluer [[Maxime CHANTEAU]] sur la partie **Conception** du [[Formulaire d'auto-évaluation de développeur.euses]]🔼 📅 2023-03-15 
+- [ ] #mdm/supply Créer le [[Formulaire d'auto-évaluation de développeur.euses]] 🔽  📅 2023-03-15 
+- [ ] #mdm/supply Evaluer [[Maxime CHANTEAU]] sur la partie **Java** du [[Formulaire d'auto-évaluation de développeur.euses]]⏬  📅 2023-03-15 
+- [ ] #mdm/supply Evaluer [[Maxime CHANTEAU]] sur la partie **Conception** du [[Formulaire d'auto-évaluation de développeur.euses]]⏬  📅 2023-03-15 

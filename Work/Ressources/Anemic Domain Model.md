@@ -1,6 +1,7 @@
 ---
 ressource:
   - 📰 Article
+  - 🧠 Concept
 link:
   - https://martinfowler.com/bliki/AnemicDomainModel.html
 relates:
@@ -12,3 +13,6 @@ relates:
 tags:
   - DDD
 ---
+## 🔗 Ressources
+
+http://principles-wiki.net/anti-patterns:anemic_domain_model

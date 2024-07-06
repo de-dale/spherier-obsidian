@@ -2,6 +2,8 @@
 tags:
   - mdm
   - mdm/supply
+relates:
+  - "[[Mdm - Legacy]]"
 ---
 # TRP
 

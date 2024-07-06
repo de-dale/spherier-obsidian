@@ -1,4 +1,13 @@
-#Atelier 
+---
+ressource:
+  - 🛠️ Atelier
+🎯 Objectif:
+  - 🤝 Partager
+🕓 Durée: 🕓1h
+👥 Participants: 👥2-n
+🌶️ Difficulté: 🌶️ Simple
+---
+
 
 # Déroulé
 
@@ -26,4 +35,16 @@ Le format ne plaît pas à tout le monde :
 
 Le sujet est trop long ? Poses trop de questions ? Mène à des actions ?
 👉 Création d’un groupe de travail / point spécifique sur le sujet
+
+
+# Grande séance d’idéation
+
+- **Brainstorm** 10 mins (+5mins autant de fois que nécessaire)
+- **Vote par consensus** sur chaque sujet
+    - Vote romain
+    - Vote pondéré
+    - Echelle d’engagement
+        
+- Objectif : prioriser “dans l’absolu” les sujets.  
+    A chaque session, on refera un vote sur le premier sujet “est-ce qu’on veut le traiter aujourd’hui ?”
 
