@@ -1,3 +1,9 @@
+---
+link: 
+relates:
+  - "[[Code Retreat]]"
+---
+
 [[Code Retreat]] organisée dans le cadre de la **préparation** à la [[Global Day Of Code Retreat]] 2023.
 ## Participants
 

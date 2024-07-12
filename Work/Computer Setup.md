@@ -17,4 +17,3 @@ Procédure d'installation de poste
 4. Installer [[Obsidian]]
 5. Installer [[JetBrains Toolbox]]
 	1. Installer SdkMan, maven, Java
-6. 

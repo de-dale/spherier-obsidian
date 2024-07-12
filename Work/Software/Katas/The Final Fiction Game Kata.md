@@ -11,7 +11,7 @@ tags:
 C'est quoi ?
 C'est une plateforme orientée donnée, qui transforme de la donnée en une autre et l'affiche à l'écran. Un Jeu propose un moyen d'interagir sur ces données.
 
-- Entrypoint : suetup et configure l'engine
+- Entrypoint : setup et configure l'engine
 - Application layer : gère les events
 - Window layer : transforme les inputs en events
 - Renderer : la partie qui affiche des trucs à l'écran
@@ -24,7 +24,7 @@ C'est une plateforme orientée donnée, qui transforme de la donnée en une autr
 
 Voir aussi [[RPG Combat Kata]]
   
-Un jeu de rôle (Role Playing Game ou RPG en anglais) est un jeu où un joueur (parfois plusieurs) choisit d'incarner un personnage (parfois plusieurs) dans un monde immaginaire. Chaque personnage est amené à prendre des décision pour évoluer dans le jeu.
+Un jeu de rôle (Role Playing Game ou RPG en anglais) est un jeu où un joueur (parfois plusieurs) choisit d'incarner un personnage (parfois plusieurs) dans un monde imaginaire. Chaque personnage est amené à prendre des décision pour évoluer dans le jeu.
 Souvent, un jeu de rôle est découpé en trois phases de jeu distinctes : l'Exploration, le Combat et les Discussions (et autres interactions sociales)
 
 Le but de ce kata, est de développer un moteur de jeu permettant de simuler les combats. 
@@ -64,7 +64,7 @@ Dans cette étape, on cherchera à résoudre un combat entre deux personnages en
    Le premier personnage qui met l'autre hors combat, gagne l'affrontement.
 2. Les deux personnages sont identiques.
    Le premier personnage à jouer gagne l'affrontement.
-2. Les deux personnages peuvent être différents.
+3. Les deux personnages peuvent être différents.
    Le premier personnage dont le cumul des attaques, dépasse les points de vie de l'autre, gagne l'affrontement.
 
 Indices :

@@ -8,7 +8,7 @@ relates:
 
 #software/kata
 
-Exercice de code, ou [[Kata]] par moi-même, où l'objectif est de coder une "IA" qui explore Mar avec une Mars Rover.
+Exercice de code, ou [[Kata]] par moi-même, où l'objectif est de coder une "IA" qui explore Mars avec une Mars Rover.
 
 Features
 - Gestion de l'énergie / Actions possibles
