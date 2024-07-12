@@ -5,9 +5,12 @@ ressource:
 🕓 Durée: 🕓1h
 👥 Participants: 3-n
 niveau: 🌶️Débutant
-trello: https://trello.com/c/KQ4fOwOc/612-dice-of-debt-jeu-de-d%C3%A9-sur-dette-technique
+trello:
+  - https://trello.com/c/KQ4fOwOc/612-dice-of-debt-jeu-de-d%C3%A9-sur-dette-technique
 relates:
   - "[[Dette technique]]"
+aliases:
+  - Dés de la dette
 ---
 ## Pitch
 

@@ -17,7 +17,7 @@ SORT file.name
 
 > Note : il faudrait réussir à dissocier le fond du format. Parfoirs, découvrir le format **est** le but de l'atelier, mais ce n'est  pas systématique, et je pourrait améliorer cette liste.
 
-## Dés de la Dette
+## [[Dice of debt|Dés de la dette]]
 
 🎯 **Objectif** : #🌶️Débutant #🔭Découvrir
 	Découvrir la dette technique et quelques mesures pour la réduire.

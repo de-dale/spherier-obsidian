@@ -83,6 +83,8 @@ Une fois qu'on a collecté les données, il faut déterminer ce qu'on en fait. P
 
 ## Tracer la matrice
 
+- [ ] #perso/knowledge-matrix  Voir comment intégrer ça avec https://mermaid.js.org/syntax/quadrantChart.html
+
 Ca permet ensuite de de construire une matrice à la Eisenhower. On place les éléments en fonction de la connaissance disponible dans l'équipe, et de la criticité et en cas d'égalité, on se débrouille pour tout faire apparaître (quitte à déplacer d'autres éléments).
 
 ![[matrix-competences-data-as-matrix.png]]

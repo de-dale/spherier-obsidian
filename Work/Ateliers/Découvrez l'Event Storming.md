@@ -1,5 +1,16 @@
+---
+ressource:
+  - 🛠️ Atelier
+🎯 Objectif:
+  - 🔭 Découvrir
+  - 🤝 Partager
+🕓 Durée: 
+👥 Participants: 
+🌶️ Niveau: 
+🌶️ Difficulté:
+---
 #Atelier 
-## **Découverte de l'Event Storming**
+## Découverte de l'Event Storming
 
 🎯 **Objectif** : #🌶️Débutant #🔭Découverte  
 	*Modéliser votre domaine métier par échange entre toutes les parties prenantes afin de partager une même compréhension du métier.*

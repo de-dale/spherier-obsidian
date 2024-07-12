@@ -54,10 +54,23 @@ SORT file.name DESC
 
 # Logs
 
+## [[2024-07-09]]
+- [ ] [[Escape Game Supply]] / Bingo 🔺 
+- [ ] #mdm/supply/acot PoC-er Mermaid JS pour 
+	- [[Matrice des connaissances]]
+	- [[📊 Software Cockpit]].
+- Tests auto
+	- Scheduled pipeline
+	- Un seul test plan pour les gouverner tous
+	- Remarques : sur QC-1 (exécuté par QC-5 et par QC-1336), on a deux "Story testée"
+	  => On télécharge et on exécute deux fois les tests
+- [[Evaluer l'impact des ateliers]]
+
+[[Taverne des créatifs]]
 ## [[2024-07-01]]
 
 - Point de partage dev
-- [ ] Passer en revue mes priorités 🔺 
+- [x] Passer en revue mes priorités 🔺 ✅ 2024-07-10
 ## [[2024-06-18]]
 
 - [ ] #mdm/supply/acot A ajouter dans notre legacy "projet avec un DockerFile" + la raison
