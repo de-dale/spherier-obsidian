@@ -18,6 +18,7 @@ GROUP BY choice(contains(text, "🔺"), "🔺 Highest",
     choice(contains(text, "🔼"), "🔼 Medium",   
     choice(contains(text, "🔽"), "🔽 Low",   
     choice(contains(text, "⏬"), "⏬ Lowest", "🟰 None"))))) as priority  
+SORT tags DESC
 SORT choice(priority = "🔺 Highest", "1",     
     choice(priority = "⏫ High", "2",     
     choice(priority = "🔼 Medium", "3",     
@@ -54,8 +55,17 @@ SORT file.name DESC
 
 # Logs
 
+## [[2024-07-19]]
+
+- [ ] Plan de formation sur les tests-auto pour les équipes 🔺 
+
+Idée à la con : suivre le nombre d'US modifées après coup
+> C'est un peu décevant le nombre d'US qui sont modifiées après coup...   
+> Ca devrait être un KPI à suivre 😜
+
+
 ## [[2024-07-09]]
-- [ ] [[Escape Game Supply]] / Bingo 🔺 
+- [x] [[Escape Game Supply]] / Bingo 🔺 ✅ 2024-07-19
 - [ ] #mdm/supply/acot PoC-er Mermaid JS pour 
 	- [[Matrice des connaissances]]
 	- [[📊 Software Cockpit]].
@@ -471,7 +481,7 @@ Exemple : Qu'est ce qui manque au CODEV pour en faire une communauté ?
 ## [[2024-01-15]]
 
 Supply
-- [ ] Mettre en place des CODEOWNERS Sur tous les projets #mdm/supply ⏫ 
+- [ ] #mdm/supply Mettre en place des CODEOWNERS Sur tous les projets⏫ 
 - [x] Modifier le format du Catalogue de pratiques SUPPLY ✅ 2024-01-16
 - [ ] #mdm/supply/acot Mettre à plat les actions sur le parc applicatif, issue du Software Cockpit du parc applicatif SUPPLY
 - [x] #mdm/grp-qualité Préparer la communication de la prochaine instance

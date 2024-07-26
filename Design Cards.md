@@ -6,6 +6,7 @@ link:
   - https://design-types.net/cards_get_them.html
 trello: 
 relates:
+  - "[[Design Knights]]"
 ---
 ## Card-based Discussions
 
@@ -40,6 +41,9 @@ Each dimension represents two contrary but related perspectives on design and ea
 - **idealistic** stands for focusing on quality and professionalism, for avoiding dirty hacks and 80 percent solutions. 
 - **robust** stands for stability and reduction of risks. 
 - **technologic** stands for the potential new tech- nology offers.
+
+# 🃏 Liste des cartes
+
 
 ## 🔗 Ressources
 - https://www.printerstudio.com/sell/designs/software-design-cards.html

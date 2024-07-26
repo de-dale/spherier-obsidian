@@ -50,7 +50,7 @@ La préface de Larry Constantine, co-auteur de *Structured Design* est assez int
 
 🧠 Première définition de "tidying" dans le livre., qui est vu come un tout petit refactoring. Ca répond à des questions que je me posais déjà, même si, à ce moment j'ai du mal à percevoir la différence que Kent Beck fait entre les deux
 
-> Software design is an exercice in human relationship.
+> [[Kent Beck - Software design is an exercice in human relationship]]
 > 
 > -- Introduction, p.xv
 

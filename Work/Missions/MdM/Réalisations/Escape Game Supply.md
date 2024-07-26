@@ -39,3 +39,8 @@ Service
 - Créer le service
 - Créer le transporteur associé au service
 - Créer la delivery zone
+
+- 1Password = >bcent => 100 (binaire) => 4
+- Service pour un mirror brisé
+- Puzzle de l'entrepot
+- ? Tracer le mirror avec Jean marc

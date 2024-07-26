@@ -30,7 +30,7 @@ Améliorer la gestion des binômes
 => Idée : [[Pair-Picker]], un outils pour créer des groupes aléatoires
 
 Envie de voir d'autres problématiques : on est souvent (toujours) sur de la création de code métier lié à une classe ou un groupe de classes cohérents. Ce serait chouette de voir d'autres problèmes de notre métier
-Suggestions 
+Suggestions :
 - repartir d'une base de code avancée
 - Forcer une nouvelle approche par une variation du kata ou des règles métiers
 - Laisser de côté l'approche technique, et s'intéresser à une approche fonctionnelle, pour ajouter des features et architecturer le code

@@ -7,6 +7,13 @@ ressource:
 - [ ] Software Cockpit : Extraire proprement les informations du pom
 - [ ] Software Cockpit : Extraire proprement les informations Kube
 
+# Notes
+
+- Intégrer la date de dernière analyse SONAR
+- Récupérer les version déployées via le "deployments" de gitlab
+- Poquer la récupération des issues gitlab pour construire des graphes d'équipe (pratiques, matrice de connaissance, tech radar)
+	- Voir aussi si on peut construire des métriques à partir des issues (exemples : maintenabilité ressentie)
+
 # Références
 
 Logiciel permettant de disposer d'une visibilité sur le parc applicatif, de métriques, permettant d'identifier où mettre les efforts pour réduire la dette technique, le risque de sécurité
@@ -73,7 +80,7 @@ Les pointeurs évoqués en séance :
     - Le deck associé : [Arkup Meetup Nantes 2023 - Gestion de la dette d'architecture dans un contexte d'hypercroissance](https://speakerdeck.com/cicoub13/arkup-meetup-nantes-2023-gestion-de-la-dette-darchitecture-dans-un-contexte-dhypercroissance)
 
 
-# Criticité Business 
+## Criticité Business 
 
 **Criticité :**
 
@@ -90,3 +97,36 @@ Les pointeurs évoqués en séance :
 |  | **IMPORTANT** | **IMPORTANTE** | **IMPORTANTE** | ==**CRITIQUE**== |
 
 ## [[Axes de priorisation du Legacy]]
+
+# Expérimentations
+
+
+Récupération des données dur un repo
+
+```yaml
+stages:  
+  - data  
+  
+data:collect:  
+  image: node:latest  
+  stage: data  
+  script:  
+    - cd src/apps  
+    - npm ci  
+    - GITLAB_PERSONAL_TOKEN="${GITLAB_PERSONAL_TOKEN}" SONARQUBE_PERSONAL_TOKEN="${SONARQUBE_PERSONAL_TOKEN}" npm run cockpit  
+    - find data \( -name "*.json" -o -name "*.csv" \) -exec cp --parents '{}' ../.. \;  
+    - cd ../..  
+    # GitLab: Author 'supply-software-cockpit@maisonsdumonde.com' is not a member of team  
+    - git add data  
+    - git config user.name "supply-software-cockpit"  
+    - git config user.email "fhiegel@maisonsdumonde.com"  
+    - |  
+      NOW=$(date +"%Y-%m-%d")  
+      git commit -m "data(${NOW}): Collect data"  
+    - git remote set-url --push origin "https://$TOKEN_NAME:$ACCESS_TOKEN@git.maisonsdumonde.net/core/dev/scm/supply-software-cockpit.git"  
+    - git push origin HEAD:$CI_COMMIT_BRANCH  
+  rules:  
+    - if: $CI_COMMIT_BRANCH == 'collect-data' && $CI_PIPELINE_SOURCE == "push"  
+      when: manual  
+    - if: $CI_COMMIT_BRANCH == 'collect-data' && $CI_PIPELINE_SOURCE == "schedule"
+```
