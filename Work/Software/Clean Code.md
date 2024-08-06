@@ -23,6 +23,10 @@ De moi :
 
 Voir aussi son pendant : le [[Code Legacy]]
 
+## Le Clean Code : un code propre pour un développement durable
+
+Le **Clean Code**, ou **code propre** en français, est une pratique de développement logiciel qui vise à produire du code source de haute qualité, facile à comprendre, à maintenir et à faire évoluer. C'est une approche qui va au-delà de la simple fonctionnalité d'un programme pour s'intéresser à sa lisibilité, sa maintenabilité et sa robustesse.
+
 ### Serious Game
 [[Clean Code Game]] est un serious game permettant de faire découvrir le [[Clean Code]], et de discuter en équipe sur les pratiques qui sont importantes pour nous.
 

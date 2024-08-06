@@ -5,7 +5,7 @@ tags:
 # Tasks
 
 ~~~tabs
----tab By Priority
+tab: By Priority
 ```dataview
 TASK  
 FROM "Work/Missions/MdM/Logs"   
@@ -26,7 +26,7 @@ SORT choice(priority = "🔺 Highest", "1",
     choice(priority = "⏬ Lowest", "6", "4"))))) ASC
 ```
 
----tab By Tag
+tab: By Tag
 ```dataview
 TASK 
 FROM "Work/Missions/MdM/Logs"   
@@ -38,7 +38,7 @@ GROUP BY tags
 SORT tags DESC
 ```
 
----tab By File
+tab: By File
 ```dataview
 TASK 
 FROM "Work/Missions/MdM/Logs"   

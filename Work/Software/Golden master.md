@@ -9,7 +9,7 @@ relates:
 
 La technique de retro-testing appelée "Golden Master" consiste à **créer une version de référence** d'un produit ou d'une application. Cette version est ensuite utilisée comme base pour comparer les versions ultérieures du produit ou de l'application.
 
-Cette appellation semble venir des industrie des disques, où le Golden Master était le disque de reference à parti duquel on gravait les copies.
+Cette appellation semble venir des industrie des disques, où le Golden Master était le disque de référence à parti duquel on gravait les copies.
 
 ## 🔗 Ressources
 - https://www.arolla.fr/blog/2019/10/man-vs-legacy-gilded-rose-1/

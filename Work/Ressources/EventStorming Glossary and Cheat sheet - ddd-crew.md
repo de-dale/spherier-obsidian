@@ -6,5 +6,5 @@ link:
 trello: https://trello.com/c/6lgbkqFn/670-eventstorming-glossary-cheat-sheet-ddd-crew-eventstorming-glossary-cheat-sheet
 relates:
   - "[[EventStorming]]"
+  - "[[DDD Crew]]"
 ---
-[[EventStorming]]

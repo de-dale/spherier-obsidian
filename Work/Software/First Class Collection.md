@@ -5,6 +5,7 @@ author:
 link: 
 trello: 
 relates:
+  - "[[Objet Calistenics]]"
 ---
 First Class collections [https://blog.ippon.fr/2024/02/26/first-class-collections-encapsulons-nos-collections/](https://blog.ippon.fr/2024/02/26/first-class-collections-encapsulons-nos-collections/)
 

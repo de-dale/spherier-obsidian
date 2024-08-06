@@ -23,6 +23,118 @@ Questions en suspens
 - [ ] 🎓 Learning-Hour : Contextive ?
 - [ ] Aborder la question des tests et de la stratégie de tests
 
+## [[2024-07-24]]
+
+- 🎯 Objectifs
+	- Questions et remarques 
+	- Irritants : génère beaucoup de discussions et de débats.
+		- On passe du temps à débattre et on n'arrive pas à converger.
+	- Archi hexa : comment augmenter la **productivité** en tant que dev ?
+		- Mapper : perd du temps à les faire et les maintenir
+	- S'accorder sur le cadre :
+		- Qu'est ce qu'on attend du DDD / Archi hexa ? Est-ce qu'on a bien compris le DDD ?
+		- Pourquoi on fait les choses ?
+		- Quelle latitude à prendre sur le DDD
+		- Définir l'objectif de l'équipe : à quels moment on se permet de se passer du DDD / Ubiquity langage
+		- => Les question sont intéressantes, mais comment converger plus vite
+		- PM : moins investis sur les statuts techniques
+		  => Ne tranchent pas
+	- Bonnes pratiques sur les shared kernel ? Versionner ? Certains types de classes ? Utiliser des Entities dans le sharedkernel
+		- Et librairie partagée
+	- Comment créer un domaine ? Pour quelles raisons ?
+	- Tests unitaires sur les Mappers
+		- Idées poussées dans l'équipe : représentation JSON du DTO et comparer les JSON
+		- Rend les tests plus cours, mais implique des JsonIgnore dans les entités
+		- Entité vers DTO
+	- Sujet **technique** : Problèmes de concurrence en java => On a mis qu'un seul thread
+		- Acquisition : beaucoup d'item d'un coup
+		- Première chose : récupérer la transaction courante ou en créer une
+			- => On arrive à avoir plusieurs transaction courantes, ce qui est interdit
+		- Rajouter un item à la transaction courante
+		- Demander la quotation de la transaction, mais on a annulé les différentes requêtes http
+		- Impacts sur la perf ?
+
+## C'est quoi une transaction ?
+
+Terme "métier" au sein de l'encaissement qui modélise toutes les étapes que fait un client en caisse. Utiliser la transaction pour lister toutes les choses que fait le client.
+
+On parle de transaction comme un ensemble de phases à faire.
+La transaction porte toutes les informations de ce qu'on est en train de vendre.
+
+Etapes : suspendue, réactivée, état final.
+Etat car toutes les donnes vivent dans le temps ; génération de postlog.
+
+Acquérir une loyalty card / Identifier un client.
+
+Statuts de la transaction :
+- Statuts UI
+- Quand on a un statuts final : on déclenche la génération du post
+
+Tout était porté par la transaction
+
+Si tu le fait sur l'Acquisition
+## Concrètement sur le code
+
+- Comment 
+- Archi hexa 
+- Shared kernel
+- Mapper
+	- Productivity
+	- Tests unitaires
+
+- DDD : Où on en est ?
+	- Apporte de la complexité vs. Diviser pour mieux régner ?
+	- Se poser des questions mais manque de productivité
+- Vision d'Antony ?
+  => Pourquoi on fait du DDD
+- DDD : pas fait pour aller vite
+	- Ralentir : contradictoire ?
+	- Débat trop longtemps
+	- Future post MVP ?
+	  Objectifs contradictoires entre le fait de monter en compétence en DDD et le fait de construire le MVP.
+- Notion d'orchestration
+	- bénéfique de le faire maintenant ?
+	  => Couche applicative ?
+
+Notion de status vs. notion de workflow.
+=> l'expliciter est important
+## DDD : pourquoi on le fait ?
+
+C'est quoi le DDD ? Problème d'adoption
+=> Nom : Domain Driven Design
+
+Histoire : Former pas mal de monde au niveau métier vs ce que la tech nous dit
+Pensé pour faire un ensemble de chose ou conçu pour répondre des problématiques
+
+
+
+- Problème d'adoption
+- Mappers
+- 
+- Shared Kernel
+	- Bonnes pratiques sur les shared kernel ? Versionner ? Certains types de classes ? Utiliser des Entities dans le sharedkernel
+		- Et librairie partagée
+		- 2 usages : shared lib entre plusieurs micro service
+		- shared kernel : till back
+- 
+- Aller plus loin sur les orchestrateurs ?
+  => Expliciter l'orchestration
+  => Statuts de la transaction
+  => Avoir une finalité ?? 
+ 
+- Sujet **technique** : Problèmes de concurrence en java => On a mis qu'un seul thread
+	- Acquisition : beaucoup d'item d'un coup
+	- Première chose : récupérer la transaction courante ou en créer une
+		- => On arrive à avoir plusieurs transaction courantes, ce qui est interdit
+	- Rajouter un item à la transaction courante
+	- Demander la quotation de la transaction, mais on a annulé les différentes requêtes http
+	- Impacts sur la perf ?
+## 
+
+=> Transaction : pourquoi un status ?
+=> Status lié à un écran en particulier / Règle front
+=> Status technique ?
+
 ## [[2024-05-28]]
 
 - 🎯 Objectifs

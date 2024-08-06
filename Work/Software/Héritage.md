@@ -1,3 +1,9 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Programmation Orientée Objet|OOP]]"
+---
 En [[Programmation Orientée Objet]], on parle également d'**héritage**.
 
 > Inheritance, as name itself suggests, is used to inherit properties from parent class to child class.

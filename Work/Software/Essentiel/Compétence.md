@@ -16,9 +16,9 @@ Expliquer ou verbaliser de la connaissance ou de la justification sur une décis
 **Pratique**
 La partie pratique d'une [[Work/Software/Essentiel/Compétence|Compétence]] est un savoir-faire permettant d'automatiser une prise de décision.
 
-La [[Work/Software/Veille|Veille]] consiste à entretenir et affuter ses [[Work/Software/Essentiel/Compétence|Compétences]] [[Compétences]].
+La [[Work/Software/Veille|Veille]] consiste à entretenir et affuter ses [[Work/Software/Essentiel/Compétence|Compétences]].
 
-Voir comment évaluer son [[degrés de maitrise des compétences dojo]].
+Voir comment évaluer son [[Degrés de maitrise des compétences dojo]].
 [[Skill Management]]
 
 #Skill 

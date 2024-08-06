@@ -1,4 +1,8 @@
-  
+---
+ressource:
+  - 🛠️ Outil
+relates: []
+---
 ### Tester le build en local  
   
 Si vous rencontre un problème sur la CI, que vous ne rencontrez pas en local, il est possible d'investiguer avec la   

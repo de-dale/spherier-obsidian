@@ -28,8 +28,6 @@ Tu regardes autour de toi, mais tu ne peux rien voir. Tu es seul dans l'obscurit
 ### Options
 1. Porte gauche
 2. Porte droite
-3.
-
 
 ## Rencontre avec une silhouette 
 

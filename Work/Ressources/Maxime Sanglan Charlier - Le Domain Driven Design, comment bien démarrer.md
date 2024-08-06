@@ -9,4 +9,5 @@ link:
 trello: 
 relates:
   - "[[Domain-Driven Design]]"
+  - "[[Domain-Driven Design Starter Modelling Process]]"
 ---

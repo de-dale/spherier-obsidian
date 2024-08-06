@@ -4,6 +4,9 @@ ressource:
 relates:
   - "[[Domain-Driven Design Tactique]]"
 ---
+> An AGGREGATE is a cluster of associated objects that we treat as a unit for the purpose of data changes.
+>
+> — Eric Evans, Domain-Driven Design blue book
 
 L'[[Work/Software/Aggregate|Aggregate]] est un concept du [[Domain-Driven Design]] permettant de matérialiser un concept métier / rassembler des règles.
 

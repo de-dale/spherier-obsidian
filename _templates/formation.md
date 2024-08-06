@@ -20,3 +20,8 @@ Inter (HT/pers):
 Intra (HT): 
 📚 thématiques:
 ---
+# Format
+# Description / A propos de la formation
+# Objectifs
+# Programme / Contenu de la formation
+# À qui est destiné cette formation ?

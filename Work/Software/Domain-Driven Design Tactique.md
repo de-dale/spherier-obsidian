@@ -1,6 +1,8 @@
 ---
 ressource:
   - 🧠 Concept
+relates:
+  - "[[Domain-Driven Design]]"
 ---
 Le DDD tactique est l'espace des solutions
 
@@ -8,8 +10,11 @@ Conception dirigée par le Modèle
 
 # DDDViteFait
 
+> Les principes du Domain-Driven Design, quand ils sont appliqués, peuvent grandement augmenter la capacité de n’importe quel processus de développement à modéliser et implémenter les problématiques complexes d’un domaine de façon maintenable. 
+> Domain-Driven Design combine pratiques de conception et de développement, et montre comment la conception et le développement peuvent travailler de concert pour créer une meilleure solution. Une bonne conception va améliorer le développement, de même que le feedback provenant du processus de développement va améliorer le design.
+
 Une meilleure approche est de lier étroitement modélisation du domaine et conception.
-Le modèle devrait être construit en gardant un oeil sur les considérations logicielles et conceptuelles. On devrait intégrer les développeurs dans le processus de modélisation.
+Le modèle devrait être construit en gardant un œil sur les considérations logicielles et conceptuelles. On devrait intégrer les développeurs dans le processus de modélisation.
 
 ![[ddd-architecture-en-couches.excalidraw]]
 

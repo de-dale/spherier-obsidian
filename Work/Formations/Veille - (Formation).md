@@ -90,6 +90,7 @@ _\<Cette section permet également de détailler et travailler les différents m
 | 16h30 - 17h00 | Exercice: Tidying                                                   | Rétro et Bilan                                                   |
 | 17h00 - 17h30 | Bilan de la journée                                                 | Rétro et Bilan                                                   |
 | 17h30 - 18h00 |                                                                     |                                                                  |
+
 # À qui est destiné cette formation ?
 
 > **Public / Cible**  

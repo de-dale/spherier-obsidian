@@ -3,6 +3,7 @@ ressource:
   - 🧠 Concept
 ---
 # Domain
+
 > A Domain is a Sphere of knowledge
 > -- Vaugh Vernon
 

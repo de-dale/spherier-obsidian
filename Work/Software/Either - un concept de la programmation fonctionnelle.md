@@ -1,3 +1,9 @@
+---
+ressource:
+  - 🧠 Concept
+relates:
+  - "[[Functional Programming]]"
+---
 **Either** est un concept très simple qui a été démocratisé par les langages de programmation fonctionnelle.
 
 Il s'agit d'un type (une classe) qui représente un valeur pouvant prendre deux types possibles

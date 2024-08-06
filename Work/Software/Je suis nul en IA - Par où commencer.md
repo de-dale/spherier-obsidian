@@ -1,6 +1,8 @@
 ---
 tags:
   - IA
+relates:
+  - "[[IA]]"
 ---
 # Je suis nul en IA - Par où commencer ?
 

@@ -199,7 +199,7 @@ from #software/skills OR (#Skill)
 - [Google Docs](https://docs.google.com/presentation/d/1Jh3ywAkKpctxqey7da4F52tevXFGBexhOoX5VuVNvck/edit?usp=drive_link)
 - TODO : le "OnePager"
 - Compétences autour ducoding dojo
-	- [[degrés de maitrise des compétences dojo]]
+	- [[Degrés de maitrise des compétences dojo]]
 ```dataview
 list
 from #software/skills OR (#Skill)

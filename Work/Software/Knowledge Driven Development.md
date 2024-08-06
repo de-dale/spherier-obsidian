@@ -1,3 +1,9 @@
+---
+ressource:
+  - 🧠 Concept
+  - 💡 Idée
+---
+
 Buzz word qui compile des idées de 
 - Appréhender le legacy
 - Clean Code

@@ -6,6 +6,7 @@ link:
   - https://github.com/webpro/programming-principles
 trello: 
 relates:
+  - "[[Principles Wiki]]"
 ---
 > ### Generic
 > 

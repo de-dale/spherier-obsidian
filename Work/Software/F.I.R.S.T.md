@@ -1,10 +1,14 @@
+---
+relates:
+  - "[[Test unitaire]]"
+---
 # F.I.R.S.T - Pratiques de test unitaires
 
-9 F pour Fast, soit rapide.
-9 I pour Isolated/Independent, soit isolé, indépendant.
-9 R pour Repeatable, soit répétable, reproductible.
-9 S pour Self-verifying, soit auto-validant.
-9 T pour Timely/Thorough, soit opportun, précis.
+- F pour Fast, soit rapide.
+- I pour Isolated/Independent, soit isolé, indépendant.
+- R pour Repeatable, soit répétable, reproductible.
+- S pour Self-verifying, soit auto-validant.
+- T pour Timely/Thorough, soit opportun, précis.
 
 
 # Extrait de Software Craft
@@ -18,11 +22,11 @@ l’idée majeure derrière l’approche TDD est de commencer par les tests. Mai
 aphorisme porte une autre signification, moins connue ; « FIRST » est également un
 acronyme décrivant les propriétés que tout bon test doit comporter :
 
-9 F pour Fast, soit rapide.
-9 I pour Isolated/Independent, soit isolé, indépendant.
-9 R pour Repeatable, soit répétable, reproductible.
-9 S pour Self-verifying, soit auto-validant.
-9 T pour Timely/Thorough, soit opportun, précis.
+- F pour Fast, soit rapide.
+- I pour Isolated/Independent, soit isolé, indépendant.
+- R pour Repeatable, soit répétable, reproductible.
+- S pour Self-verifying, soit auto-validant.
+- T pour Timely/Thorough, soit opportun, précis.
 
 8.1
 
@@ -125,7 +129,5 @@ Repeatable
 Self-Exploainatory
 Timely
 
-[[Test-Driven Development]]
 
-[[Test Unitaire]]
 #Skill

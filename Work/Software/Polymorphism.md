@@ -5,7 +5,7 @@ relates:
   - "[[Programmation Orientée Objet]]"
 ---
 
-En [[Programmation Orientée Objet]], on parle également de **ploymorphisme**.
+En [[Programmation Orientée Objet]], on parle également de **Polymorphism**.
 
 Poly means many  and morphs means forms. So anything which has multiple forms is called polymorphism.
 

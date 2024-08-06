@@ -1,6 +1,8 @@
 ---
 ressource:
   - 🧠 Concept
+relates:
+  - "[[Programmation Orientée Objet|OOP]]"
 ---
 
 En [[Programmation Orientée Objet]], on parle également d'**encapsulation**.
